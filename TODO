@@ -1,0 +1,146 @@
+http://code.google.com/p/iplot/
+google winpdp
+google cx_freeze
+TODO:
+This file gives the list of the remaining developments of Netpylab
+
+Status Developer    Prio Task                                           Depend
+[ 80%] Cedric       [3]   1. Implement the GPX movement Stuff               []
+[ 90%] Rayene       [3]   2. Implement the Force-Based Graph                []
+[ 90%] Guillaume    [3]   3. Optimize the Map display algorithm             []
+[  0%] Cedric       [2]   4. Implement the GPX<->x,y conversion             []
+[  0%] G+C          [1]   5. Display vehicles direction                    [1]
+[ 10%] Rayene       [5]   6. Re-implement Access Points as interfaces       []
+[ 70%] Rayene       [5]   7. Re-implement nodes identification             [6]
+[  0%] G+C+R        [5]   8. Brainstorm on routing+routing tables          [6]
+[  0%] C+G          [5]   9. Implement routing tables + test               [8]
+[  0%] G+C+R        [4]  10. Brainstorming on how to display a network      []
+[  0%] Guillaume    [3]  11. Implement networks displaying              [7,10]
+[  0%] G+C+R        [4]  12. Brainstorming the GUI for commander and logger []
+[100%] Guillaume    [3]  13. Implementing GUI for Graphic Logger        [8,12]
+[  0%] Cedric       [3]  14. Implementing GUI for Commander             [8,12]
+[  0%] G+C+R        [5]  15. Brainstorming Threading Mechanisms            [9]
+[  0%] G+C+R?       [5]  16. Re-implement Threading Mechanisms if needed  [15]
+[  0%] G+C+R        [3]  17. Studying Pylab/Numpy/PyPlot integration      [15]
+[ 30%] G+C+R        [5]  18. Re-implement MobileIPv6/NEMO                  [8]
+[  0%] Rayene       [5]  19. Implement REMORA                              [8]
+etc....
+
+1. Implement the GPX movement Stuff
+    The gpx.py utility should offer the way to open a .gpx file.
+    
+    It should give a list of all the tracks inside. The result have to be
+    returned as a python list.
+    
+    Given a valid track name, it should offer a way to load a track into a
+    dictionary object and set it as the default track of the trajectory.
+    The dictionary's timestamp associated with the first point of the track
+    has to be 0s. All the timestamp values of the gpx file have to be
+    converted relatively. The resulting timestamps are expressed in seconds
+    and have three digits after comma (milliseconds).
+    
+    Given a time (expressed in seconds with 3 digits after comma), the gpx.py
+    utility should be able to give a precise position of the vehicle as weel
+    as its speed (Km/h) and its direction(Degrees). 
+    if time < 0 the first position is given. The dictionary do not have to be 
+    looped at each request. the gpx.py can keep the time value of the latest
+    request and expect the time value of the next request to be greater than 
+    the preceding. If the given timestamp is less the the last value, an
+    exception should be triggered.
+    
+    Here is an example of the expected behavior :
+    
+    >>> gpx = Gpx('file.gpx')
+    >>> tracks = gpx.list_tracks()
+    >>> print tracks
+    ['trk1','trk2', 'trk3']
+    >>> gpx.load_track('trk1')
+    >>> gpx.position(1.002)
+    ((233.45434, 34,123432),(40,12))
+    >>> gpx.position(1.9)
+    ()(233.46987, 34,121),(40.1,13))
+    >>> gpx.position(1.5)
+    <Exception: Time value older than the last request>
+
+2. Implement the Force-Based Graph
+    The force based graph allows a good visibility of each object on the GUI.
+    Every object on the map repulses all the others as if the were both 
+    charged positively. In addition, each object is linked to its "children"
+    by a virtual spring that attracts them to it. These two contradictory
+    forces allow to set objects positions on the screen in a visually pleasant
+    way.
+    More info : 
+        http://en.wikipedia.org/wiki/Force-based_algorithms
+        http://www.creativesynthesis.net/recycling/graphgeardemo/
+    
+    Currently, the nodes, interfaces and applications obey to this algorithm.
+    Interfaces-to-Network is not implemented yet. There are some cases of
+    instability (objects keep moving). The algorithm have to be tweaked so the
+    really far objects are not affected by repulsion.
+    
+3. Optimize the Map display algorithm
+    Currently, when the win.map_batch.draw() command is called in
+    NetpylabView.py, the WorldMap object in NetpylabMap.py grabs the current
+    zoom level and the size of the surface to be drawn and fetches the
+    corresponding images from the cache directory. 
+    When it does not find an image in the cache, it launches a DownloadThread
+    to download it from the web.
+    When the user chages the zoom level, the display is frozen until all
+    images are downloaded.
+    
+    1. In order to have a faster GUI, it is better to give a zoomed/unzoomed
+    version of the actual images until the others are downloaded.
+    
+    2. Also, it is better to limit the number of download threads to 4 or 
+    five. To do so, it is advised to use the Queue class given by Python. The
+    downloading tasks are dispatched on the different threads and, each time a
+    thread downloads an image, it has to tell the Map to refresh its display.
+    
+    3. The WorldMap object should be able to follow a vehicle while moving.
+    The movement of the map is triggered only when the object is far from the
+    center of the screen.  The speed of the movement of the map depends on the
+    distance between the vehicle and the center of the screen. The objective
+    is to keep the followed vehicle always in the screen.
+    
+    4. The map has to be faded out so the objects of the simulation appear
+    clearer. This is very easy to achieve.
+    
+4. Implement the GPX<->x,y conversion
+    Find out an equation to convert an mouse_x,mouse_y (screen position) into
+    latitude and longitude.
+    We already know the lat_centr and long_centr that correspond to the center
+    of the screen scr_centr_x and scr_centr_y.
+
+    Input:
+    lat_centr, long_centr, scr_centr_x, scr_centr_y, mouse_x, mouse_y
+
+    Output:
+    new_lat, new_long
+    
+5. Display vehicles direction
+    It is better to rotate the sprite so it reflects the direction of the
+    movement. This is very easy to do given the direction value (see task 1).
+
+6. Re-implement Access Points as interfaces
+    Studiying it now
+    
+7. Re-implement nodes identification
+    To be studied
+    
+8. Brainstorm on routing+routing tables
+9. Implement routing tables + test
+10. Brainstorming on how to display a network
+11. Implement networks displaying
+12. Brainstorming the GUI for commander and logger
+13. Implementing GUI for Graphic Logger
+14. Implementing GUI for Commander
+15. Brainstorming Threading Mechanisms
+16. Re-implement Threading Mechanisms if needed
+17. Studying Pylab/Numpy/PyPlot integration
+18. Re-implement MobileIPv6/NEMO
+19. Implement REMORA
+    
+Display Latitude longitude of the mouse cursor
+
+
+TODO: enumerate

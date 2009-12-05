@@ -1,0 +1,12 @@
+.*.swp
+*.pyo
+*.pyc
+*.html
+*.tmproj
+.DS_Store
+*.app
+dist/
+build/
+sandbox/
+doc/_*
+

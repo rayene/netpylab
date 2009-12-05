@@ -1,0 +1,5347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Nokia Sports Tracker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<name>05/02/2009 20:09</name>
+<desc>OSM</desc>
+<author><name>Drako'99</name></author>
+<time>2009-02-05T20:09:53.31</time>
+</metadata>
+<trk>
+<name>05/02/2009 20:09</name>
+<trkseg>
+
+<trkpt lat="48.108703" lon="-1.478533">
+<ele>91.0</ele>
+<speed>2.7</speed>
+<course>0.0</course>
+<desc>Speed 2.7 km/h Distance 0.02 km</desc>
+<time>2009-02-05T20:10:07.25</time>
+<name>14</name>
+</trkpt>
+<trkpt lat="48.108708" lon="-1.478533">
+<ele>91.0</ele>
+<speed>1.5</speed>
+<course>29.2</course>
+<desc>Speed 1.5 km/h Distance 0.02 km</desc>
+<time>2009-02-05T20:10:08.20</time>
+<name>15</name>
+</trkpt>
+<trkpt lat="48.108710" lon="-1.478532">
+<ele>91.0</ele>
+<speed>0.8</speed>
+<course>12.6</course>
+<desc>Speed 0.8 km/h Distance 0.02 km</desc>
+<time>2009-02-05T20:10:09.20</time>
+<name>16</name>
+</trkpt>
+<trkpt lat="48.108712" lon="-1.478532">
+<ele>91.5</ele>
+<speed>0.6</speed>
+<course>170.4</course>
+<desc>Speed 0.6 km/h Distance 0.02 km</desc>
+<time>2009-02-05T20:10:10.19</time>
+<name>17</name>
+</trkpt>
+<trkpt lat="48.108703" lon="-1.478530">
+<ele>91.5</ele>
+<speed>3.5</speed>
+<course>149.1</course>
+<desc>Speed 3.5 km/h Distance 0.02 km</desc>
+<time>2009-02-05T20:10:11.19</time>
+<name>18</name>
+</trkpt>
+<trkpt lat="48.108688" lon="-1.478517">
+<ele>92.0</ele>
+<speed>7.8</speed>
+<course>148.6</course>
+<desc>Speed 7.8 km/h Distance 0.02 km</desc>
+<time>2009-02-05T20:10:12.19</time>
+<name>19</name>
+</trkpt>
+<trkpt lat="48.108668" lon="-1.478498">
+<ele>92.0</ele>
+<speed>10.1</speed>
+<course>167.5</course>
+<desc>Speed 10.1 km/h Distance 0.02 km</desc>
+<time>2009-02-05T20:10:13.19</time>
+<name>20</name>
+</trkpt>
+<trkpt lat="48.108638" lon="-1.478488">
+<ele>92.0</ele>
+<speed>12.5</speed>
+<course>181.7</course>
+<desc>Speed 12.5 km/h Distance 0.03 km</desc>
+<time>2009-02-05T20:10:14.30</time>
+<name>21</name>
+</trkpt>
+<trkpt lat="48.108603" lon="-1.478490">
+<ele>91.5</ele>
+<speed>14.5</speed>
+<course>189.0</course>
+<desc>Speed 14.5 km/h Distance 0.03 km</desc>
+<time>2009-02-05T20:10:15.19</time>
+<name>22</name>
+</trkpt>
+<trkpt lat="48.108568" lon="-1.478498">
+<ele>91.5</ele>
+<speed>14.7</speed>
+<course>187.3</course>
+<desc>Speed 14.7 km/h Distance 0.03 km</desc>
+<time>2009-02-05T20:10:16.18</time>
+<name>23</name>
+</trkpt>
+<trkpt lat="48.108525" lon="-1.478507">
+<ele>92.0</ele>
+<speed>17.8</speed>
+<course>182.0</course>
+<desc>Speed 17.8 km/h Distance 0.04 km</desc>
+<time>2009-02-05T20:10:17.18</time>
+<name>24</name>
+</trkpt>
+<trkpt lat="48.108467" lon="-1.478510">
+<ele>92.5</ele>
+<speed>23.3</speed>
+<course>180.6</course>
+<desc>Speed 23.3 km/h Distance 0.04 km</desc>
+<time>2009-02-05T20:10:18.18</time>
+<name>25</name>
+</trkpt>
+<trkpt lat="48.108400" lon="-1.478512">
+<ele>92.5</ele>
+<speed>27.0</speed>
+<course>181.0</course>
+<desc>Speed 27.0 km/h Distance 0.05 km</desc>
+<time>2009-02-05T20:10:19.18</time>
+<name>26</name>
+</trkpt>
+<trkpt lat="48.108327" lon="-1.478513">
+<ele>93.0</ele>
+<speed>29.2</speed>
+<course>180.9</course>
+<desc>Speed 29.2 km/h Distance 0.06 km</desc>
+<time>2009-02-05T20:10:20.18</time>
+<name>27</name>
+</trkpt>
+<trkpt lat="48.108255" lon="-1.478515">
+<ele>93.0</ele>
+<speed>29.3</speed>
+<course>182.6</course>
+<desc>Speed 29.3 km/h Distance 0.07 km</desc>
+<time>2009-02-05T20:10:21.31</time>
+<name>28</name>
+</trkpt>
+<trkpt lat="48.108178" lon="-1.478520">
+<ele>93.0</ele>
+<speed>30.5</speed>
+<course>181.5</course>
+<desc>Speed 30.5 km/h Distance 0.08 km</desc>
+<time>2009-02-05T20:10:22.18</time>
+<name>29</name>
+</trkpt>
+<trkpt lat="48.108100" lon="-1.478523">
+<ele>93.5</ele>
+<speed>32.4</speed>
+<course>179.7</course>
+<desc>Speed 32.4 km/h Distance 0.09 km</desc>
+<time>2009-02-05T20:10:23.19</time>
+<name>30</name>
+</trkpt>
+<trkpt lat="48.108015" lon="-1.478523">
+<ele>93.5</ele>
+<speed>33.9</speed>
+<course>178.5</course>
+<desc>Speed 33.9 km/h Distance 0.09 km</desc>
+<time>2009-02-05T20:10:24.18</time>
+<name>31</name>
+</trkpt>
+<trkpt lat="48.107930" lon="-1.478520">
+<ele>93.5</ele>
+<speed>34.4</speed>
+<course>176.9</course>
+<desc>Speed 34.4 km/h Distance 0.10 km</desc>
+<time>2009-02-05T20:10:25.18</time>
+<name>32</name>
+</trkpt>
+<trkpt lat="48.107847" lon="-1.478513">
+<ele>94.0</ele>
+<speed>33.3</speed>
+<course>176.1</course>
+<desc>Speed 33.3 km/h Distance 0.11 km</desc>
+<time>2009-02-05T20:10:26.19</time>
+<name>33</name>
+</trkpt>
+<trkpt lat="48.107765" lon="-1.478505">
+<ele>94.0</ele>
+<speed>32.4</speed>
+<course>176.0</course>
+<desc>Speed 32.4 km/h Distance 0.12 km</desc>
+<time>2009-02-05T20:10:27.19</time>
+<name>34</name>
+</trkpt>
+<trkpt lat="48.107685" lon="-1.478497">
+<ele>94.0</ele>
+<speed>32.4</speed>
+<course>180.6</course>
+<desc>Speed 32.4 km/h Distance 0.13 km</desc>
+<time>2009-02-05T20:10:28.32</time>
+<name>35</name>
+</trkpt>
+<trkpt lat="48.107602" lon="-1.478498">
+<ele>94.0</ele>
+<speed>32.7</speed>
+<course>183.1</course>
+<desc>Speed 32.7 km/h Distance 0.14 km</desc>
+<time>2009-02-05T20:10:29.19</time>
+<name>36</name>
+</trkpt>
+<trkpt lat="48.107520" lon="-1.478505">
+<ele>94.0</ele>
+<speed>33.2</speed>
+<course>179.1</course>
+<desc>Speed 33.2 km/h Distance 0.15 km</desc>
+<time>2009-02-05T20:10:30.18</time>
+<name>37</name>
+</trkpt>
+<trkpt lat="48.107438" lon="-1.478503">
+<ele>94.0</ele>
+<speed>32.8</speed>
+<course>179.4</course>
+<desc>Speed 32.8 km/h Distance 0.16 km</desc>
+<time>2009-02-05T20:10:31.18</time>
+<name>38</name>
+</trkpt>
+<trkpt lat="48.107360" lon="-1.478502">
+<ele>94.5</ele>
+<speed>31.4</speed>
+<course>178.3</course>
+<desc>Speed 31.4 km/h Distance 0.17 km</desc>
+<time>2009-02-05T20:10:32.19</time>
+<name>39</name>
+</trkpt>
+<trkpt lat="48.107290" lon="-1.478498">
+<ele>94.5</ele>
+<speed>28.0</speed>
+<course>178.9</course>
+<desc>Speed 28.0 km/h Distance 0.18 km</desc>
+<time>2009-02-05T20:10:33.19</time>
+<name>40</name>
+</trkpt>
+<trkpt lat="48.107232" lon="-1.478497">
+<ele>94.5</ele>
+<speed>24.0</speed>
+<course>184.5</course>
+<desc>Speed 24.0 km/h Distance 0.18 km</desc>
+<time>2009-02-05T20:10:34.18</time>
+<name>41</name>
+</trkpt>
+<trkpt lat="48.107175" lon="-1.478503">
+<ele>94.5</ele>
+<speed>22.5</speed>
+<course>192.9</course>
+<desc>Speed 22.5 km/h Distance 0.19 km</desc>
+<time>2009-02-05T20:10:35.36</time>
+<name>42</name>
+</trkpt>
+<trkpt lat="48.107122" lon="-1.478522">
+<ele>94.5</ele>
+<speed>22.1</speed>
+<course>180.0</course>
+<desc>Speed 22.1 km/h Distance 0.19 km</desc>
+<time>2009-02-05T20:10:36.18</time>
+<name>43</name>
+</trkpt>
+<trkpt lat="48.107063" lon="-1.478522">
+<ele>95.0</ele>
+<speed>22.9</speed>
+<course>173.0</course>
+<desc>Speed 22.9 km/h Distance 0.20 km</desc>
+<time>2009-02-05T20:10:37.18</time>
+<name>44</name>
+</trkpt>
+<trkpt lat="48.107000" lon="-1.478510">
+<ele>95.0</ele>
+<speed>25.7</speed>
+<course>185.9</course>
+<desc>Speed 25.7 km/h Distance 0.21 km</desc>
+<time>2009-02-05T20:10:38.18</time>
+<name>45</name>
+</trkpt>
+<trkpt lat="48.106925" lon="-1.478522">
+<ele>95.0</ele>
+<speed>30.1</speed>
+<course>190.9</course>
+<desc>Speed 30.1 km/h Distance 0.22 km</desc>
+<time>2009-02-05T20:10:39.18</time>
+<name>46</name>
+</trkpt>
+<trkpt lat="48.106850" lon="-1.478543">
+<ele>95.0</ele>
+<speed>30.3</speed>
+<course>191.1</course>
+<desc>Speed 30.3 km/h Distance 0.23 km</desc>
+<time>2009-02-05T20:10:40.18</time>
+<name>47</name>
+</trkpt>
+<trkpt lat="48.106777" lon="-1.478565">
+<ele>95.0</ele>
+<speed>30.0</speed>
+<course>189.0</course>
+<desc>Speed 30.0 km/h Distance 0.23 km</desc>
+<time>2009-02-05T20:10:41.18</time>
+<name>48</name>
+</trkpt>
+<trkpt lat="48.106700" lon="-1.478583">
+<ele>95.5</ele>
+<speed>31.2</speed>
+<course>187.1</course>
+<desc>Speed 31.2 km/h Distance 0.24 km</desc>
+<time>2009-02-05T20:10:42.31</time>
+<name>49</name>
+</trkpt>
+<trkpt lat="48.106620" lon="-1.478598">
+<ele>95.5</ele>
+<speed>32.9</speed>
+<course>191.1</course>
+<desc>Speed 32.9 km/h Distance 0.25 km</desc>
+<time>2009-02-05T20:10:43.18</time>
+<name>50</name>
+</trkpt>
+<trkpt lat="48.106535" lon="-1.478623">
+<ele>95.5</ele>
+<speed>34.8</speed>
+<course>195.1</course>
+<desc>Speed 34.8 km/h Distance 0.26 km</desc>
+<time>2009-02-05T20:10:44.18</time>
+<name>51</name>
+</trkpt>
+<trkpt lat="48.106448" lon="-1.478658">
+<ele>95.0</ele>
+<speed>35.7</speed>
+<course>194.1</course>
+<desc>Speed 35.7 km/h Distance 0.27 km</desc>
+<time>2009-02-05T20:10:45.18</time>
+<name>52</name>
+</trkpt>
+<trkpt lat="48.106360" lon="-1.478692">
+<ele>95.0</ele>
+<speed>36.2</speed>
+<course>193.0</course>
+<desc>Speed 36.2 km/h Distance 0.28 km</desc>
+<time>2009-02-05T20:10:46.18</time>
+<name>53</name>
+</trkpt>
+<trkpt lat="48.106273" lon="-1.478722">
+<ele>95.0</ele>
+<speed>36.0</speed>
+<course>192.8</course>
+<desc>Speed 36.0 km/h Distance 0.29 km</desc>
+<time>2009-02-05T20:10:47.18</time>
+<name>54</name>
+</trkpt>
+<trkpt lat="48.106190" lon="-1.478750">
+<ele>95.0</ele>
+<speed>34.4</speed>
+<course>192.5</course>
+<desc>Speed 34.4 km/h Distance 0.30 km</desc>
+<time>2009-02-05T20:10:48.18</time>
+<name>55</name>
+</trkpt>
+<trkpt lat="48.106110" lon="-1.478777">
+<ele>95.0</ele>
+<speed>32.4</speed>
+<course>197.3</course>
+<desc>Speed 32.4 km/h Distance 0.31 km</desc>
+<time>2009-02-05T20:10:49.31</time>
+<name>56</name>
+</trkpt>
+<trkpt lat="48.106038" lon="-1.478810">
+<ele>95.0</ele>
+<speed>30.3</speed>
+<course>198.9</course>
+<desc>Speed 30.3 km/h Distance 0.32 km</desc>
+<time>2009-02-05T20:10:50.18</time>
+<name>57</name>
+</trkpt>
+<trkpt lat="48.105977" lon="-1.478842">
+<ele>95.0</ele>
+<speed>26.1</speed>
+<course>199.9</course>
+<desc>Speed 26.1 km/h Distance 0.33 km</desc>
+<time>2009-02-05T20:10:51.17</time>
+<name>58</name>
+</trkpt>
+<trkpt lat="48.105937" lon="-1.478863">
+<ele>96.5</ele>
+<speed>16.6</speed>
+<course>208.1</course>
+<desc>Speed 16.6 km/h Distance 0.33 km</desc>
+<time>2009-02-05T20:10:52.18</time>
+<name>59</name>
+</trkpt>
+<trkpt lat="48.105920" lon="-1.478877">
+<ele>97.5</ele>
+<speed>7.6</speed>
+<course>44.5</course>
+<desc>Speed 7.6 km/h Distance 0.33 km</desc>
+<time>2009-02-05T20:10:53.17</time>
+<name>60</name>
+</trkpt>
+<trkpt lat="48.105923" lon="-1.478872">
+<ele>96.5</ele>
+<speed>1.5</speed>
+<course>44.5</course>
+<desc>Speed 1.5 km/h Distance 0.33 km</desc>
+<time>2009-02-05T20:10:54.17</time>
+<name>61</name>
+</trkpt>
+<trkpt lat="48.105923" lon="-1.478872">
+<ele>96.5</ele>
+<speed>0.3</speed>
+<course>213.8</course>
+<desc>Speed 0.3 km/h Distance 0.33 km</desc>
+<time>2009-02-05T20:10:55.17</time>
+<name>62</name>
+</trkpt>
+<trkpt lat="48.105915" lon="-1.478880">
+<ele>96.5</ele>
+<speed>3.7</speed>
+<course>227.2</course>
+<desc>Speed 3.7 km/h Distance 0.33 km</desc>
+<time>2009-02-05T20:10:56.17</time>
+<name>63</name>
+</trkpt>
+<trkpt lat="48.105893" lon="-1.478915">
+<ele>97.5</ele>
+<speed>12.6</speed>
+<course>256.0</course>
+<desc>Speed 12.6 km/h Distance 0.34 km</desc>
+<time>2009-02-05T20:10:57.18</time>
+<name>64</name>
+</trkpt>
+<trkpt lat="48.105883" lon="-1.478975">
+<ele>97.5</ele>
+<speed>16.6</speed>
+<course>265.7</course>
+<desc>Speed 16.6 km/h Distance 0.34 km</desc>
+<time>2009-02-05T20:10:58.17</time>
+<name>65</name>
+</trkpt>
+<trkpt lat="48.105880" lon="-1.479042">
+<ele>97.5</ele>
+<speed>17.9</speed>
+<course>268.1</course>
+<desc>Speed 17.9 km/h Distance 0.35 km</desc>
+<time>2009-02-05T20:10:59.17</time>
+<name>66</name>
+</trkpt>
+<trkpt lat="48.105878" lon="-1.479115">
+<ele>97.5</ele>
+<speed>19.8</speed>
+<course>267.0</course>
+<desc>Speed 19.8 km/h Distance 0.35 km</desc>
+<time>2009-02-05T20:11:00.17</time>
+<name>67</name>
+</trkpt>
+<trkpt lat="48.105875" lon="-1.479212">
+<ele>97.5</ele>
+<speed>25.9</speed>
+<course>266.4</course>
+<desc>Speed 25.9 km/h Distance 0.36 km</desc>
+<time>2009-02-05T20:11:01.17</time>
+<name>68</name>
+</trkpt>
+<trkpt lat="48.105870" lon="-1.479332">
+<ele>97.0</ele>
+<speed>32.5</speed>
+<course>265.7</course>
+<desc>Speed 32.5 km/h Distance 0.37 km</desc>
+<time>2009-02-05T20:11:02.30</time>
+<name>69</name>
+</trkpt>
+<trkpt lat="48.105863" lon="-1.479463">
+<ele>97.0</ele>
+<speed>35.4</speed>
+<course>265.8</course>
+<desc>Speed 35.4 km/h Distance 0.38 km</desc>
+<time>2009-02-05T20:11:03.17</time>
+<name>70</name>
+</trkpt>
+<trkpt lat="48.105857" lon="-1.479600">
+<ele>97.0</ele>
+<speed>36.6</speed>
+<course>266.3</course>
+<desc>Speed 36.6 km/h Distance 0.39 km</desc>
+<time>2009-02-05T20:11:04.17</time>
+<name>71</name>
+</trkpt>
+<trkpt lat="48.105850" lon="-1.479753">
+<ele>97.0</ele>
+<speed>41.1</speed>
+<course>265.8</course>
+<desc>Speed 41.1 km/h Distance 0.40 km</desc>
+<time>2009-02-05T20:11:05.17</time>
+<name>72</name>
+</trkpt>
+<trkpt lat="48.105842" lon="-1.479922">
+<ele>97.0</ele>
+<speed>45.3</speed>
+<course>266.9</course>
+<desc>Speed 45.3 km/h Distance 0.41 km</desc>
+<time>2009-02-05T20:11:06.17</time>
+<name>73</name>
+</trkpt>
+<trkpt lat="48.105835" lon="-1.480103">
+<ele>97.0</ele>
+<speed>49.1</speed>
+<course>266.3</course>
+<desc>Speed 49.1 km/h Distance 0.43 km</desc>
+<time>2009-02-05T20:11:07.17</time>
+<name>74</name>
+</trkpt>
+<trkpt lat="48.105827" lon="-1.480298">
+<ele>97.0</ele>
+<speed>52.3</speed>
+<course>267.0</course>
+<desc>Speed 52.3 km/h Distance 0.44 km</desc>
+<time>2009-02-05T20:11:08.17</time>
+<name>75</name>
+</trkpt>
+<trkpt lat="48.105820" lon="-1.480490">
+<ele>97.0</ele>
+<speed>51.8</speed>
+<course>266.3</course>
+<desc>Speed 51.8 km/h Distance 0.45 km</desc>
+<time>2009-02-05T20:11:09.17</time>
+<name>76</name>
+</trkpt>
+<trkpt lat="48.105812" lon="-1.480683">
+<ele>97.5</ele>
+<speed>51.9</speed>
+<course>267.2</course>
+<desc>Speed 51.9 km/h Distance 0.47 km</desc>
+<time>2009-02-05T20:11:10.17</time>
+<name>77</name>
+</trkpt>
+<trkpt lat="48.105805" lon="-1.480885">
+<ele>98.0</ele>
+<speed>53.8</speed>
+<course>266.5</course>
+<desc>Speed 53.8 km/h Distance 0.48 km</desc>
+<time>2009-02-05T20:11:11.17</time>
+<name>78</name>
+</trkpt>
+<trkpt lat="48.105797" lon="-1.481092">
+<ele>98.5</ele>
+<speed>55.7</speed>
+<course>266.0</course>
+<desc>Speed 55.7 km/h Distance 0.50 km</desc>
+<time>2009-02-05T20:11:12.17</time>
+<name>79</name>
+</trkpt>
+<trkpt lat="48.105787" lon="-1.481305">
+<ele>99.0</ele>
+<speed>57.3</speed>
+<course>266.8</course>
+<desc>Speed 57.3 km/h Distance 0.52 km</desc>
+<time>2009-02-05T20:11:13.17</time>
+<name>80</name>
+</trkpt>
+<trkpt lat="48.105778" lon="-1.481525">
+<ele>99.5</ele>
+<speed>58.7</speed>
+<course>265.5</course>
+<desc>Speed 58.7 km/h Distance 0.53 km</desc>
+<time>2009-02-05T20:11:14.17</time>
+<name>81</name>
+</trkpt>
+<trkpt lat="48.105767" lon="-1.481748">
+<ele>100.5</ele>
+<speed>60.0</speed>
+<course>263.7</course>
+<desc>Speed 60.0 km/h Distance 0.55 km</desc>
+<time>2009-02-05T20:11:15.17</time>
+<name>82</name>
+</trkpt>
+<trkpt lat="48.105750" lon="-1.481975">
+<ele>101.0</ele>
+<speed>61.1</speed>
+<course>264.4</course>
+<desc>Speed 61.1 km/h Distance 0.57 km</desc>
+<time>2009-02-05T20:11:16.17</time>
+<name>83</name>
+</trkpt>
+<trkpt lat="48.105735" lon="-1.482205">
+<ele>102.0</ele>
+<speed>62.2</speed>
+<course>266.3</course>
+<desc>Speed 62.2 km/h Distance 0.58 km</desc>
+<time>2009-02-05T20:11:17.17</time>
+<name>84</name>
+</trkpt>
+<trkpt lat="48.105725" lon="-1.482438">
+<ele>102.5</ele>
+<speed>62.8</speed>
+<course>266.9</course>
+<desc>Speed 62.8 km/h Distance 0.60 km</desc>
+<time>2009-02-05T20:11:18.17</time>
+<name>85</name>
+</trkpt>
+<trkpt lat="48.105717" lon="-1.482672">
+<ele>103.0</ele>
+<speed>62.2</speed>
+<course>266.8</course>
+<desc>Speed 62.2 km/h Distance 0.62 km</desc>
+<time>2009-02-05T20:11:19.17</time>
+<name>86</name>
+</trkpt>
+<trkpt lat="48.105708" lon="-1.482898">
+<ele>103.5</ele>
+<speed>60.7</speed>
+<course>266.8</course>
+<desc>Speed 60.7 km/h Distance 0.63 km</desc>
+<time>2009-02-05T20:11:20.17</time>
+<name>87</name>
+</trkpt>
+<trkpt lat="48.105700" lon="-1.483118">
+<ele>104.0</ele>
+<speed>59.4</speed>
+<course>267.4</course>
+<desc>Speed 59.4 km/h Distance 0.65 km</desc>
+<time>2009-02-05T20:11:21.17</time>
+<name>88</name>
+</trkpt>
+<trkpt lat="48.105693" lon="-1.483337">
+<ele>105.0</ele>
+<speed>58.3</speed>
+<course>266.7</course>
+<desc>Speed 58.3 km/h Distance 0.67 km</desc>
+<time>2009-02-05T20:11:22.17</time>
+<name>89</name>
+</trkpt>
+<trkpt lat="48.105685" lon="-1.483550">
+<ele>105.5</ele>
+<speed>57.5</speed>
+<course>267.3</course>
+<desc>Speed 57.5 km/h Distance 0.68 km</desc>
+<time>2009-02-05T20:11:23.17</time>
+<name>90</name>
+</trkpt>
+<trkpt lat="48.105678" lon="-1.483762">
+<ele>106.0</ele>
+<speed>56.7</speed>
+<course>267.2</course>
+<desc>Speed 56.7 km/h Distance 0.70 km</desc>
+<time>2009-02-05T20:11:24.17</time>
+<name>91</name>
+</trkpt>
+<trkpt lat="48.105672" lon="-1.483967">
+<ele>106.5</ele>
+<speed>55.1</speed>
+<course>266.4</course>
+<desc>Speed 55.1 km/h Distance 0.71 km</desc>
+<time>2009-02-05T20:11:25.16</time>
+<name>92</name>
+</trkpt>
+<trkpt lat="48.105663" lon="-1.484163">
+<ele>107.0</ele>
+<speed>53.0</speed>
+<course>267.0</course>
+<desc>Speed 53.0 km/h Distance 0.73 km</desc>
+<time>2009-02-05T20:11:26.17</time>
+<name>93</name>
+</trkpt>
+<trkpt lat="48.105657" lon="-1.484352">
+<ele>107.5</ele>
+<speed>50.8</speed>
+<course>267.6</course>
+<desc>Speed 50.8 km/h Distance 0.74 km</desc>
+<time>2009-02-05T20:11:27.16</time>
+<name>94</name>
+</trkpt>
+<trkpt lat="48.105652" lon="-1.484528">
+<ele>108.0</ele>
+<speed>47.2</speed>
+<course>270.9</course>
+<desc>Speed 47.2 km/h Distance 0.76 km</desc>
+<time>2009-02-05T20:11:28.17</time>
+<name>95</name>
+</trkpt>
+<trkpt lat="48.105653" lon="-1.484690">
+<ele>108.5</ele>
+<speed>43.7</speed>
+<course>274.8</course>
+<desc>Speed 43.7 km/h Distance 0.77 km</desc>
+<time>2009-02-05T20:11:29.17</time>
+<name>96</name>
+</trkpt>
+<trkpt lat="48.105662" lon="-1.484840">
+<ele>108.5</ele>
+<speed>40.4</speed>
+<course>276.1</course>
+<desc>Speed 40.4 km/h Distance 0.78 km</desc>
+<time>2009-02-05T20:11:30.17</time>
+<name>97</name>
+</trkpt>
+<trkpt lat="48.105672" lon="-1.484980">
+<ele>109.0</ele>
+<speed>37.6</speed>
+<course>272.2</course>
+<desc>Speed 37.6 km/h Distance 0.79 km</desc>
+<time>2009-02-05T20:11:31.17</time>
+<name>98</name>
+</trkpt>
+<trkpt lat="48.105675" lon="-1.485108">
+<ele>109.0</ele>
+<speed>34.6</speed>
+<course>265.2</course>
+<desc>Speed 34.6 km/h Distance 0.80 km</desc>
+<time>2009-02-05T20:11:32.17</time>
+<name>99</name>
+</trkpt>
+<trkpt lat="48.105668" lon="-1.485227">
+<ele>109.0</ele>
+<speed>32.0</speed>
+<course>254.6</course>
+<desc>Speed 32.0 km/h Distance 0.81 km</desc>
+<time>2009-02-05T20:11:33.25</time>
+<name>100</name>
+</trkpt>
+<trkpt lat="48.105650" lon="-1.485327">
+<ele>109.5</ele>
+<speed>27.5</speed>
+<course>254.5</course>
+<desc>Speed 27.5 km/h Distance 0.82 km</desc>
+<time>2009-02-05T20:11:34.16</time>
+<name>101</name>
+</trkpt>
+<trkpt lat="48.105642" lon="-1.485372">
+<ele>108.5</ele>
+<speed>12.6</speed>
+<course>246.8</course>
+<desc>Speed 12.6 km/h Distance 0.82 km</desc>
+<time>2009-02-05T20:11:35.16</time>
+<name>102</name>
+</trkpt>
+<trkpt lat="48.105632" lon="-1.485407">
+<ele>108.5</ele>
+<speed>10.3</speed>
+<course>247.8</course>
+<desc>Speed 10.3 km/h Distance 0.82 km</desc>
+<time>2009-02-05T20:11:36.16</time>
+<name>103</name>
+</trkpt>
+<trkpt lat="48.105627" lon="-1.485425">
+<ele>108.5</ele>
+<speed>5.2</speed>
+<course>239.2</course>
+<desc>Speed 5.2 km/h Distance 0.82 km</desc>
+<time>2009-02-05T20:11:37.16</time>
+<name>104</name>
+</trkpt>
+<trkpt lat="48.105623" lon="-1.485433">
+<ele>108.5</ele>
+<speed>2.4</speed>
+<course>341.2</course>
+<desc>Speed 2.4 km/h Distance 0.82 km</desc>
+<time>2009-02-05T20:11:38.16</time>
+<name>105</name>
+</trkpt>
+<trkpt lat="48.105627" lon="-1.485435">
+<ele>108.5</ele>
+<speed>1.0</speed>
+<course>341.2</course>
+<desc>Speed 1.0 km/h Distance 0.82 km</desc>
+<time>2009-02-05T20:11:39.16</time>
+<name>106</name>
+</trkpt>
+<trkpt lat="48.105627" lon="-1.485435">
+<ele>108.5</ele>
+<speed>0.4</speed>
+<course>217.2</course>
+<desc>Speed 0.4 km/h Distance 0.82 km</desc>
+<time>2009-02-05T20:11:40.28</time>
+<name>107</name>
+</trkpt>
+<trkpt lat="48.105625" lon="-1.485437">
+<ele>108.5</ele>
+<speed>0.1</speed>
+<course>270.0</course>
+<desc>Speed 0.1 km/h Distance 0.82 km</desc>
+<time>2009-02-05T20:11:41.18</time>
+<name>108</name>
+</trkpt>
+<trkpt lat="48.105625" lon="-1.485438">
+<ele>108.5</ele>
+<speed>0.3</speed>
+<course>270.0</course>
+<desc>Speed 0.3 km/h Distance 0.82 km</desc>
+<time>2009-02-05T20:11:42.16</time>
+<name>109</name>
+</trkpt>
+<trkpt lat="48.105625" lon="-1.485438">
+<ele>108.5</ele>
+<speed>0.3</speed>
+<course>167.4</course>
+<desc>Speed 0.3 km/h Distance 0.82 km</desc>
+<time>2009-02-05T20:11:43.16</time>
+<name>110</name>
+</trkpt>
+<trkpt lat="48.105622" lon="-1.485438">
+<ele>109.0</ele>
+<speed>1.0</speed>
+<course>167.4</course>
+<desc>Speed 1.0 km/h Distance 0.82 km</desc>
+<time>2009-02-05T20:11:44.16</time>
+<name>111</name>
+</trkpt>
+<trkpt lat="48.105622" lon="-1.485438">
+<ele>109.0</ele>
+<speed>0.3</speed>
+<course>167.4</course>
+<desc>Speed 0.3 km/h Distance 0.82 km</desc>
+<time>2009-02-05T20:11:45.17</time>
+<name>112</name>
+</trkpt>
+<trkpt lat="48.105622" lon="-1.485438">
+<ele>109.0</ele>
+<speed>0.2</speed>
+<course>243.4</course>
+<desc>Speed 0.2 km/h Distance 0.82 km</desc>
+<time>2009-02-05T20:11:46.14</time>
+<name>113</name>
+</trkpt>
+<trkpt lat="48.105620" lon="-1.485443">
+<ele>108.5</ele>
+<speed>1.3</speed>
+<course>250.6</course>
+<desc>Speed 1.3 km/h Distance 0.83 km</desc>
+<time>2009-02-05T20:11:47.14</time>
+<name>114</name>
+</trkpt>
+<trkpt lat="48.105613" lon="-1.485472">
+<ele>108.0</ele>
+<speed>7.6</speed>
+<course>249.5</course>
+<desc>Speed 7.6 km/h Distance 0.83 km</desc>
+<time>2009-02-05T20:11:48.14</time>
+<name>115</name>
+</trkpt>
+<trkpt lat="48.105593" lon="-1.485552">
+<ele>108.0</ele>
+<speed>23.3</speed>
+<course>246.8</course>
+<desc>Speed 23.3 km/h Distance 0.83 km</desc>
+<time>2009-02-05T20:11:49.15</time>
+<name>116</name>
+</trkpt>
+<trkpt lat="48.105573" lon="-1.485622">
+<ele>108.0</ele>
+<speed>20.0</speed>
+<course>247.5</course>
+<desc>Speed 20.0 km/h Distance 0.84 km</desc>
+<time>2009-02-05T20:11:50.13</time>
+<name>117</name>
+</trkpt>
+<trkpt lat="48.105552" lon="-1.485700">
+<ele>107.5</ele>
+<speed>22.9</speed>
+<course>246.7</course>
+<desc>Speed 22.9 km/h Distance 0.85 km</desc>
+<time>2009-02-05T20:11:51.13</time>
+<name>118</name>
+</trkpt>
+<trkpt lat="48.105523" lon="-1.485798">
+<ele>107.5</ele>
+<speed>28.9</speed>
+<course>246.5</course>
+<desc>Speed 28.9 km/h Distance 0.85 km</desc>
+<time>2009-02-05T20:11:52.13</time>
+<name>119</name>
+</trkpt>
+<trkpt lat="48.105490" lon="-1.485913">
+<ele>107.0</ele>
+<speed>33.5</speed>
+<course>245.2</course>
+<desc>Speed 33.5 km/h Distance 0.86 km</desc>
+<time>2009-02-05T20:11:53.13</time>
+<name>120</name>
+</trkpt>
+<trkpt lat="48.105455" lon="-1.486027">
+<ele>107.5</ele>
+<speed>33.3</speed>
+<course>242.5</course>
+<desc>Speed 33.3 km/h Distance 0.87 km</desc>
+<time>2009-02-05T20:11:54.13</time>
+<name>121</name>
+</trkpt>
+<trkpt lat="48.105415" lon="-1.486142">
+<ele>107.5</ele>
+<speed>34.5</speed>
+<course>234.9</course>
+<desc>Speed 34.5 km/h Distance 0.88 km</desc>
+<time>2009-02-05T20:11:55.12</time>
+<name>122</name>
+</trkpt>
+<trkpt lat="48.105365" lon="-1.486248">
+<ele>108.0</ele>
+<speed>33.9</speed>
+<course>225.3</course>
+<desc>Speed 33.9 km/h Distance 0.89 km</desc>
+<time>2009-02-05T20:11:56.12</time>
+<name>123</name>
+</trkpt>
+<trkpt lat="48.105303" lon="-1.486342">
+<ele>108.5</ele>
+<speed>34.3</speed>
+<course>212.0</course>
+<desc>Speed 34.3 km/h Distance 0.90 km</desc>
+<time>2009-02-05T20:11:57.13</time>
+<name>124</name>
+</trkpt>
+<trkpt lat="48.105225" lon="-1.486415">
+<ele>108.5</ele>
+<speed>36.1</speed>
+<course>192.0</course>
+<desc>Speed 36.1 km/h Distance 0.91 km</desc>
+<time>2009-02-05T20:11:58.12</time>
+<name>125</name>
+</trkpt>
+<trkpt lat="48.105120" lon="-1.486448">
+<ele>108.5</ele>
+<speed>42.5</speed>
+<course>190.5</course>
+<desc>Speed 42.5 km/h Distance 0.92 km</desc>
+<time>2009-02-05T20:11:59.14</time>
+<name>126</name>
+</trkpt>
+<trkpt lat="48.105018" lon="-1.486477">
+<ele>109.0</ele>
+<speed>41.4</speed>
+<course>188.6</course>
+<desc>Speed 41.4 km/h Distance 0.94 km</desc>
+<time>2009-02-05T20:12:00.17</time>
+<name>127</name>
+</trkpt>
+<trkpt lat="48.104908" lon="-1.486502">
+<ele>109.5</ele>
+<speed>44.2</speed>
+<course>188.1</course>
+<desc>Speed 44.2 km/h Distance 0.95 km</desc>
+<time>2009-02-05T20:12:01.12</time>
+<name>128</name>
+</trkpt>
+<trkpt lat="48.104792" lon="-1.486527">
+<ele>110.0</ele>
+<speed>47.2</speed>
+<course>187.3</course>
+<desc>Speed 47.2 km/h Distance 0.96 km</desc>
+<time>2009-02-05T20:12:02.12</time>
+<name>129</name>
+</trkpt>
+<trkpt lat="48.104670" lon="-1.486550">
+<ele>110.5</ele>
+<speed>49.7</speed>
+<course>186.4</course>
+<desc>Speed 49.7 km/h Distance 0.97 km</desc>
+<time>2009-02-05T20:12:03.12</time>
+<name>130</name>
+</trkpt>
+<trkpt lat="48.104542" lon="-1.486572">
+<ele>110.5</ele>
+<speed>52.0</speed>
+<course>185.8</course>
+<desc>Speed 52.0 km/h Distance 0.99 km</desc>
+<time>2009-02-05T20:12:04.12</time>
+<name>131</name>
+</trkpt>
+<trkpt lat="48.104410" lon="-1.486592">
+<ele>111.0</ele>
+<speed>53.4</speed>
+<course>185.0</course>
+<desc>Speed 53.4 km/h Distance 1.00 km</desc>
+<time>2009-02-05T20:12:05.12</time>
+<name>132</name>
+</trkpt>
+<trkpt lat="48.104283" lon="-1.486608">
+<ele>111.0</ele>
+<speed>50.9</speed>
+<course>182.7</course>
+<desc>Speed 50.9 km/h Distance 1.02 km</desc>
+<time>2009-02-05T20:12:06.12</time>
+<name>133</name>
+</trkpt>
+<trkpt lat="48.104165" lon="-1.486617">
+<ele>111.0</ele>
+<speed>47.9</speed>
+<course>182.9</course>
+<desc>Speed 47.9 km/h Distance 1.03 km</desc>
+<time>2009-02-05T20:12:07.12</time>
+<name>134</name>
+</trkpt>
+<trkpt lat="48.104053" lon="-1.486625">
+<ele>111.0</ele>
+<speed>45.1</speed>
+<course>182.4</course>
+<desc>Speed 45.1 km/h Distance 1.04 km</desc>
+<time>2009-02-05T20:12:08.12</time>
+<name>135</name>
+</trkpt>
+<trkpt lat="48.103947" lon="-1.486632">
+<ele>111.5</ele>
+<speed>42.6</speed>
+<course>181.9</course>
+<desc>Speed 42.6 km/h Distance 1.05 km</desc>
+<time>2009-02-05T20:12:09.12</time>
+<name>136</name>
+</trkpt>
+<trkpt lat="48.103848" lon="-1.486637">
+<ele>111.5</ele>
+<speed>39.9</speed>
+<course>182.7</course>
+<desc>Speed 39.9 km/h Distance 1.07 km</desc>
+<time>2009-02-05T20:12:10.12</time>
+<name>137</name>
+</trkpt>
+<trkpt lat="48.103757" lon="-1.486643">
+<ele>112.0</ele>
+<speed>36.8</speed>
+<course>193.6</course>
+<desc>Speed 36.8 km/h Distance 1.08 km</desc>
+<time>2009-02-05T20:12:11.12</time>
+<name>138</name>
+</trkpt>
+<trkpt lat="48.103683" lon="-1.486670">
+<ele>112.0</ele>
+<speed>31.2</speed>
+<course>210.8</course>
+<desc>Speed 31.2 km/h Distance 1.08 km</desc>
+<time>2009-02-05T20:12:12.12</time>
+<name>139</name>
+</trkpt>
+<trkpt lat="48.103622" lon="-1.486725">
+<ele>111.5</ele>
+<speed>28.6</speed>
+<course>234.8</course>
+<desc>Speed 28.6 km/h Distance 1.09 km</desc>
+<time>2009-02-05T20:12:13.12</time>
+<name>140</name>
+</trkpt>
+<trkpt lat="48.103580" lon="-1.486813">
+<ele>111.5</ele>
+<speed>29.1</speed>
+<course>250.1</course>
+<desc>Speed 29.1 km/h Distance 1.10 km</desc>
+<time>2009-02-05T20:12:14.12</time>
+<name>141</name>
+</trkpt>
+<trkpt lat="48.103555" lon="-1.486917">
+<ele>111.0</ele>
+<speed>29.2</speed>
+<course>266.6</course>
+<desc>Speed 29.2 km/h Distance 1.11 km</desc>
+<time>2009-02-05T20:12:15.12</time>
+<name>142</name>
+</trkpt>
+<trkpt lat="48.103550" lon="-1.487042">
+<ele>110.0</ele>
+<speed>32.7</speed>
+<course>271.0</course>
+<desc>Speed 32.7 km/h Distance 1.12 km</desc>
+<time>2009-02-05T20:12:16.11</time>
+<name>143</name>
+</trkpt>
+<trkpt lat="48.103552" lon="-1.487187">
+<ele>110.0</ele>
+<speed>38.2</speed>
+<course>273.5</course>
+<desc>Speed 38.2 km/h Distance 1.13 km</desc>
+<time>2009-02-05T20:12:17.11</time>
+<name>144</name>
+</trkpt>
+<trkpt lat="48.103558" lon="-1.487350">
+<ele>110.0</ele>
+<speed>43.5</speed>
+<course>273.1</course>
+<desc>Speed 43.5 km/h Distance 1.14 km</desc>
+<time>2009-02-05T20:12:18.12</time>
+<name>145</name>
+</trkpt>
+<trkpt lat="48.103565" lon="-1.487535">
+<ele>109.5</ele>
+<speed>48.9</speed>
+<course>272.8</course>
+<desc>Speed 48.9 km/h Distance 1.15 km</desc>
+<time>2009-02-05T20:12:19.11</time>
+<name>146</name>
+</trkpt>
+<trkpt lat="48.103572" lon="-1.487740">
+<ele>109.5</ele>
+<speed>54.7</speed>
+<course>272.5</course>
+<desc>Speed 54.7 km/h Distance 1.17 km</desc>
+<time>2009-02-05T20:12:20.12</time>
+<name>147</name>
+</trkpt>
+<trkpt lat="48.103578" lon="-1.487965">
+<ele>109.5</ele>
+<speed>59.8</speed>
+<course>273.1</course>
+<desc>Speed 59.8 km/h Distance 1.19 km</desc>
+<time>2009-02-05T20:12:21.11</time>
+<name>148</name>
+</trkpt>
+<trkpt lat="48.103587" lon="-1.488195">
+<ele>109.5</ele>
+<speed>61.3</speed>
+<course>273.0</course>
+<desc>Speed 61.3 km/h Distance 1.20 km</desc>
+<time>2009-02-05T20:12:22.12</time>
+<name>149</name>
+</trkpt>
+<trkpt lat="48.103595" lon="-1.488432">
+<ele>109.0</ele>
+<speed>63.3</speed>
+<course>272.9</course>
+<desc>Speed 63.3 km/h Distance 1.22 km</desc>
+<time>2009-02-05T20:12:23.17</time>
+<name>150</name>
+</trkpt>
+<trkpt lat="48.103603" lon="-1.488682">
+<ele>108.5</ele>
+<speed>66.9</speed>
+<course>273.3</course>
+<desc>Speed 66.9 km/h Distance 1.24 km</desc>
+<time>2009-02-05T20:12:24.11</time>
+<name>151</name>
+</trkpt>
+<trkpt lat="48.103613" lon="-1.488945">
+<ele>108.0</ele>
+<speed>70.5</speed>
+<course>272.6</course>
+<desc>Speed 70.5 km/h Distance 1.26 km</desc>
+<time>2009-02-05T20:12:25.11</time>
+<name>152</name>
+</trkpt>
+<trkpt lat="48.103622" lon="-1.489220">
+<ele>107.5</ele>
+<speed>73.9</speed>
+<course>272.0</course>
+<desc>Speed 73.9 km/h Distance 1.28 km</desc>
+<time>2009-02-05T20:12:26.11</time>
+<name>153</name>
+</trkpt>
+<trkpt lat="48.103628" lon="-1.489508">
+<ele>107.0</ele>
+<speed>77.1</speed>
+<course>271.9</course>
+<desc>Speed 77.1 km/h Distance 1.30 km</desc>
+<time>2009-02-05T20:12:27.11</time>
+<name>154</name>
+</trkpt>
+<trkpt lat="48.103635" lon="-1.489808">
+<ele>106.5</ele>
+<speed>80.4</speed>
+<course>271.4</course>
+<desc>Speed 80.4 km/h Distance 1.32 km</desc>
+<time>2009-02-05T20:12:28.11</time>
+<name>155</name>
+</trkpt>
+<trkpt lat="48.103640" lon="-1.490120">
+<ele>106.0</ele>
+<speed>83.2</speed>
+<course>271.4</course>
+<desc>Speed 83.2 km/h Distance 1.35 km</desc>
+<time>2009-02-05T20:12:29.11</time>
+<name>156</name>
+</trkpt>
+<trkpt lat="48.103645" lon="-1.490432">
+<ele>106.0</ele>
+<speed>83.3</speed>
+<course>271.3</course>
+<desc>Speed 83.3 km/h Distance 1.37 km</desc>
+<time>2009-02-05T20:12:30.11</time>
+<name>157</name>
+</trkpt>
+<trkpt lat="48.103650" lon="-1.490750">
+<ele>105.5</ele>
+<speed>85.3</speed>
+<course>271.3</course>
+<desc>Speed 85.3 km/h Distance 1.39 km</desc>
+<time>2009-02-05T20:12:31.12</time>
+<name>158</name>
+</trkpt>
+<trkpt lat="48.103655" lon="-1.491078">
+<ele>104.5</ele>
+<speed>88.0</speed>
+<course>272.5</course>
+<desc>Speed 88.0 km/h Distance 1.42 km</desc>
+<time>2009-02-05T20:12:32.11</time>
+<name>159</name>
+</trkpt>
+<trkpt lat="48.103665" lon="-1.491417">
+<ele>104.0</ele>
+<speed>90.7</speed>
+<course>272.9</course>
+<desc>Speed 90.7 km/h Distance 1.44 km</desc>
+<time>2009-02-05T20:12:33.12</time>
+<name>160</name>
+</trkpt>
+<trkpt lat="48.103677" lon="-1.491765">
+<ele>103.0</ele>
+<speed>93.6</speed>
+<course>272.8</course>
+<desc>Speed 93.6 km/h Distance 1.47 km</desc>
+<time>2009-02-05T20:12:34.11</time>
+<name>161</name>
+</trkpt>
+<trkpt lat="48.103688" lon="-1.492123">
+<ele>102.5</ele>
+<speed>96.1</speed>
+<course>272.7</course>
+<desc>Speed 96.1 km/h Distance 1.50 km</desc>
+<time>2009-02-05T20:12:35.11</time>
+<name>162</name>
+</trkpt>
+<trkpt lat="48.103700" lon="-1.492492">
+<ele>101.5</ele>
+<speed>98.6</speed>
+<course>272.6</course>
+<desc>Speed 98.6 km/h Distance 1.52 km</desc>
+<time>2009-02-05T20:12:36.11</time>
+<name>163</name>
+</trkpt>
+<trkpt lat="48.103712" lon="-1.492870">
+<ele>101.0</ele>
+<speed>101</speed>
+<course>273.0</course>
+<desc>Speed 101 km/h Distance 1.55 km</desc>
+<time>2009-02-05T20:12:37.11</time>
+<name>164</name>
+</trkpt>
+<trkpt lat="48.103725" lon="-1.493250">
+<ele>100.0</ele>
+<speed>102</speed>
+<course>273.0</course>
+<desc>Speed 102 km/h Distance 1.58 km</desc>
+<time>2009-02-05T20:12:38.11</time>
+<name>165</name>
+</trkpt>
+<trkpt lat="48.103738" lon="-1.493632">
+<ele>99.0</ele>
+<speed>102</speed>
+<course>273.4</course>
+<desc>Speed 102 km/h Distance 1.61 km</desc>
+<time>2009-02-05T20:12:39.11</time>
+<name>166</name>
+</trkpt>
+<trkpt lat="48.103753" lon="-1.494015">
+<ele>98.5</ele>
+<speed>103</speed>
+<course>273.7</course>
+<desc>Speed 103 km/h Distance 1.64 km</desc>
+<time>2009-02-05T20:12:40.11</time>
+<name>167</name>
+</trkpt>
+<trkpt lat="48.103770" lon="-1.494398">
+<ele>98.0</ele>
+<speed>103</speed>
+<course>274.1</course>
+<desc>Speed 103 km/h Distance 1.67 km</desc>
+<time>2009-02-05T20:12:41.10</time>
+<name>168</name>
+</trkpt>
+<trkpt lat="48.103788" lon="-1.494783">
+<ele>97.5</ele>
+<speed>104</speed>
+<course>275.2</course>
+<desc>Speed 104 km/h Distance 1.69 km</desc>
+<time>2009-02-05T20:12:42.10</time>
+<name>169</name>
+</trkpt>
+<trkpt lat="48.103812" lon="-1.495170">
+<ele>97.0</ele>
+<speed>104</speed>
+<course>278.5</course>
+<desc>Speed 104 km/h Distance 1.72 km</desc>
+<time>2009-02-05T20:12:43.10</time>
+<name>170</name>
+</trkpt>
+<trkpt lat="48.103850" lon="-1.495555">
+<ele>97.0</ele>
+<speed>104</speed>
+<course>281.4</course>
+<desc>Speed 104 km/h Distance 1.75 km</desc>
+<time>2009-02-05T20:12:44.10</time>
+<name>171</name>
+</trkpt>
+<trkpt lat="48.103902" lon="-1.495938">
+<ele>97.0</ele>
+<speed>105</speed>
+<course>284.0</course>
+<desc>Speed 105 km/h Distance 1.78 km</desc>
+<time>2009-02-05T20:12:45.10</time>
+<name>172</name>
+</trkpt>
+<trkpt lat="48.103965" lon="-1.496318">
+<ele>97.5</ele>
+<speed>105</speed>
+<course>285.0</course>
+<desc>Speed 105 km/h Distance 1.81 km</desc>
+<time>2009-02-05T20:12:46.10</time>
+<name>173</name>
+</trkpt>
+<trkpt lat="48.104033" lon="-1.496700">
+<ele>98.0</ele>
+<speed>106</speed>
+<course>285.8</course>
+<desc>Speed 106 km/h Distance 1.84 km</desc>
+<time>2009-02-05T20:12:47.10</time>
+<name>174</name>
+</trkpt>
+<trkpt lat="48.104105" lon="-1.497078">
+<ele>99.0</ele>
+<speed>106</speed>
+<course>287.0</course>
+<desc>Speed 106 km/h Distance 1.87 km</desc>
+<time>2009-02-05T20:12:48.10</time>
+<name>175</name>
+</trkpt>
+<trkpt lat="48.104182" lon="-1.497453">
+<ele>100.0</ele>
+<speed>105</speed>
+<course>288.1</course>
+<desc>Speed 105 km/h Distance 1.90 km</desc>
+<time>2009-02-05T20:12:49.10</time>
+<name>176</name>
+</trkpt>
+<trkpt lat="48.104263" lon="-1.497827">
+<ele>101.5</ele>
+<speed>105</speed>
+<course>289.4</course>
+<desc>Speed 105 km/h Distance 1.93 km</desc>
+<time>2009-02-05T20:12:50.10</time>
+<name>177</name>
+</trkpt>
+<trkpt lat="48.104350" lon="-1.498195">
+<ele>102.5</ele>
+<speed>105</speed>
+<course>289.8</course>
+<desc>Speed 105 km/h Distance 1.96 km</desc>
+<time>2009-02-05T20:12:51.10</time>
+<name>178</name>
+</trkpt>
+<trkpt lat="48.104438" lon="-1.498562">
+<ele>103.5</ele>
+<speed>104</speed>
+<course>289.9</course>
+<desc>Speed 104 km/h Distance 1.99 km</desc>
+<time>2009-02-05T20:12:52.10</time>
+<name>179</name>
+</trkpt>
+<trkpt lat="48.104527" lon="-1.498927">
+<ele>105.0</ele>
+<speed>104</speed>
+<course>290.0</course>
+<desc>Speed 104 km/h Distance 2.01 km</desc>
+<time>2009-02-05T20:12:53.10</time>
+<name>180</name>
+</trkpt>
+<trkpt lat="48.104615" lon="-1.499290">
+<ele>106.0</ele>
+<speed>104</speed>
+<course>290.4</course>
+<desc>Speed 104 km/h Distance 2.04 km</desc>
+<time>2009-02-05T20:12:54.10</time>
+<name>181</name>
+</trkpt>
+<trkpt lat="48.104705" lon="-1.499652">
+<ele>107.5</ele>
+<speed>103</speed>
+<course>290.1</course>
+<desc>Speed 103 km/h Distance 2.07 km</desc>
+<time>2009-02-05T20:12:55.10</time>
+<name>182</name>
+</trkpt>
+<trkpt lat="48.104793" lon="-1.500013">
+<ele>108.5</ele>
+<speed>103</speed>
+<course>290.3</course>
+<desc>Speed 103 km/h Distance 2.10 km</desc>
+<time>2009-02-05T20:12:56.10</time>
+<name>183</name>
+</trkpt>
+<trkpt lat="48.104882" lon="-1.500372">
+<ele>109.5</ele>
+<speed>103</speed>
+<course>290.2</course>
+<desc>Speed 103 km/h Distance 2.13 km</desc>
+<time>2009-02-05T20:12:57.10</time>
+<name>184</name>
+</trkpt>
+<trkpt lat="48.104970" lon="-1.500732">
+<ele>110.5</ele>
+<speed>102</speed>
+<course>290.2</course>
+<desc>Speed 102 km/h Distance 2.16 km</desc>
+<time>2009-02-05T20:12:58.10</time>
+<name>185</name>
+</trkpt>
+<trkpt lat="48.105058" lon="-1.501092">
+<ele>111.5</ele>
+<speed>103</speed>
+<course>290.0</course>
+<desc>Speed 103 km/h Distance 2.19 km</desc>
+<time>2009-02-05T20:12:59.09</time>
+<name>186</name>
+</trkpt>
+<trkpt lat="48.105147" lon="-1.501455">
+<ele>112.0</ele>
+<speed>103</speed>
+<course>290.3</course>
+<desc>Speed 103 km/h Distance 2.21 km</desc>
+<time>2009-02-05T20:13:00.09</time>
+<name>187</name>
+</trkpt>
+<trkpt lat="48.105237" lon="-1.501820">
+<ele>112.0</ele>
+<speed>104</speed>
+<course>290.1</course>
+<desc>Speed 104 km/h Distance 2.24 km</desc>
+<time>2009-02-05T20:13:01.09</time>
+<name>188</name>
+</trkpt>
+<trkpt lat="48.105327" lon="-1.502188">
+<ele>112.0</ele>
+<speed>105</speed>
+<course>291.1</course>
+<desc>Speed 105 km/h Distance 2.27 km</desc>
+<time>2009-02-05T20:13:02.09</time>
+<name>189</name>
+</trkpt>
+<trkpt lat="48.105422" lon="-1.502557">
+<ele>112.0</ele>
+<speed>106</speed>
+<course>291.6</course>
+<desc>Speed 106 km/h Distance 2.30 km</desc>
+<time>2009-02-05T20:13:03.09</time>
+<name>190</name>
+</trkpt>
+<trkpt lat="48.105520" lon="-1.502928">
+<ele>112.5</ele>
+<speed>107</speed>
+<course>292.4</course>
+<desc>Speed 107 km/h Distance 2.33 km</desc>
+<time>2009-02-05T20:13:04.09</time>
+<name>191</name>
+</trkpt>
+<trkpt lat="48.105622" lon="-1.503298">
+<ele>112.5</ele>
+<speed>107</speed>
+<course>292.7</course>
+<desc>Speed 107 km/h Distance 2.36 km</desc>
+<time>2009-02-05T20:13:05.09</time>
+<name>192</name>
+</trkpt>
+<trkpt lat="48.105725" lon="-1.503668">
+<ele>113.0</ele>
+<speed>107</speed>
+<course>292.4</course>
+<desc>Speed 107 km/h Distance 2.39 km</desc>
+<time>2009-02-05T20:13:06.09</time>
+<name>193</name>
+</trkpt>
+<trkpt lat="48.105827" lon="-1.504038">
+<ele>112.5</ele>
+<speed>107</speed>
+<course>292.0</course>
+<desc>Speed 107 km/h Distance 2.42 km</desc>
+<time>2009-02-05T20:13:07.09</time>
+<name>194</name>
+</trkpt>
+<trkpt lat="48.105927" lon="-1.504408">
+<ele>113.0</ele>
+<speed>107</speed>
+<course>291.9</course>
+<desc>Speed 107 km/h Distance 2.45 km</desc>
+<time>2009-02-05T20:13:08.09</time>
+<name>195</name>
+</trkpt>
+<trkpt lat="48.106027" lon="-1.504782">
+<ele>112.5</ele>
+<speed>108</speed>
+<course>291.8</course>
+<desc>Speed 108 km/h Distance 2.48 km</desc>
+<time>2009-02-05T20:13:09.09</time>
+<name>196</name>
+</trkpt>
+<trkpt lat="48.106127" lon="-1.505157">
+<ele>112.5</ele>
+<speed>108</speed>
+<course>291.4</course>
+<desc>Speed 108 km/h Distance 2.51 km</desc>
+<time>2009-02-05T20:13:10.09</time>
+<name>197</name>
+</trkpt>
+<trkpt lat="48.106225" lon="-1.505532">
+<ele>112.5</ele>
+<speed>108</speed>
+<course>291.0</course>
+<desc>Speed 108 km/h Distance 2.54 km</desc>
+<time>2009-02-05T20:13:11.09</time>
+<name>198</name>
+</trkpt>
+<trkpt lat="48.106322" lon="-1.505908">
+<ele>112.5</ele>
+<speed>108</speed>
+<course>290.5</course>
+<desc>Speed 108 km/h Distance 2.57 km</desc>
+<time>2009-02-05T20:13:12.09</time>
+<name>199</name>
+</trkpt>
+<trkpt lat="48.106417" lon="-1.506288">
+<ele>112.5</ele>
+<speed>109</speed>
+<course>289.5</course>
+<desc>Speed 109 km/h Distance 2.60 km</desc>
+<time>2009-02-05T20:13:13.09</time>
+<name>200</name>
+</trkpt>
+<trkpt lat="48.106507" lon="-1.506670">
+<ele>112.5</ele>
+<speed>109</speed>
+<course>288.6</course>
+<desc>Speed 109 km/h Distance 2.63 km</desc>
+<time>2009-02-05T20:13:14.09</time>
+<name>201</name>
+</trkpt>
+<trkpt lat="48.106593" lon="-1.507055">
+<ele>112.5</ele>
+<speed>109</speed>
+<course>287.9</course>
+<desc>Speed 109 km/h Distance 2.66 km</desc>
+<time>2009-02-05T20:13:15.09</time>
+<name>202</name>
+</trkpt>
+<trkpt lat="48.106677" lon="-1.507442">
+<ele>112.5</ele>
+<speed>109</speed>
+<course>287.1</course>
+<desc>Speed 109 km/h Distance 2.69 km</desc>
+<time>2009-02-05T20:13:16.09</time>
+<name>203</name>
+</trkpt>
+<trkpt lat="48.106757" lon="-1.507830">
+<ele>112.5</ele>
+<speed>109</speed>
+<course>286.1</course>
+<desc>Speed 109 km/h Distance 2.72 km</desc>
+<time>2009-02-05T20:13:17.08</time>
+<name>204</name>
+</trkpt>
+<trkpt lat="48.106832" lon="-1.508220">
+<ele>112.5</ele>
+<speed>109</speed>
+<course>284.9</course>
+<desc>Speed 109 km/h Distance 2.75 km</desc>
+<time>2009-02-05T20:13:18.08</time>
+<name>205</name>
+</trkpt>
+<trkpt lat="48.106902" lon="-1.508613">
+<ele>112.0</ele>
+<speed>109</speed>
+<course>284.5</course>
+<desc>Speed 109 km/h Distance 2.78 km</desc>
+<time>2009-02-05T20:13:19.08</time>
+<name>206</name>
+</trkpt>
+<trkpt lat="48.106970" lon="-1.509010">
+<ele>111.5</ele>
+<speed>110</speed>
+<course>283.8</course>
+<desc>Speed 110 km/h Distance 2.81 km</desc>
+<time>2009-02-05T20:13:20.08</time>
+<name>207</name>
+</trkpt>
+<trkpt lat="48.107035" lon="-1.509405">
+<ele>111.5</ele>
+<speed>109</speed>
+<course>283.2</course>
+<desc>Speed 109 km/h Distance 2.84 km</desc>
+<time>2009-02-05T20:13:21.08</time>
+<name>208</name>
+</trkpt>
+<trkpt lat="48.107097" lon="-1.509800">
+<ele>111.0</ele>
+<speed>109</speed>
+<course>282.1</course>
+<desc>Speed 109 km/h Distance 2.87 km</desc>
+<time>2009-02-05T20:13:22.08</time>
+<name>209</name>
+</trkpt>
+<trkpt lat="48.107153" lon="-1.510195">
+<ele>111.0</ele>
+<speed>109</speed>
+<course>281.4</course>
+<desc>Speed 109 km/h Distance 2.90 km</desc>
+<time>2009-02-05T20:13:23.08</time>
+<name>210</name>
+</trkpt>
+<trkpt lat="48.107207" lon="-1.510592">
+<ele>110.5</ele>
+<speed>108</speed>
+<course>280.7</course>
+<desc>Speed 108 km/h Distance 2.93 km</desc>
+<time>2009-02-05T20:13:24.08</time>
+<name>211</name>
+</trkpt>
+<trkpt lat="48.107257" lon="-1.510988">
+<ele>110.5</ele>
+<speed>108</speed>
+<course>279.6</course>
+<desc>Speed 108 km/h Distance 2.96 km</desc>
+<time>2009-02-05T20:13:25.08</time>
+<name>212</name>
+</trkpt>
+<trkpt lat="48.107302" lon="-1.511385">
+<ele>110.0</ele>
+<speed>108</speed>
+<course>279.3</course>
+<desc>Speed 108 km/h Distance 2.99 km</desc>
+<time>2009-02-05T20:13:26.09</time>
+<name>213</name>
+</trkpt>
+<trkpt lat="48.107345" lon="-1.511783">
+<ele>109.5</ele>
+<speed>108</speed>
+<course>278.6</course>
+<desc>Speed 108 km/h Distance 3.02 km</desc>
+<time>2009-02-05T20:13:27.08</time>
+<name>214</name>
+</trkpt>
+<trkpt lat="48.107385" lon="-1.512180">
+<ele>109.5</ele>
+<speed>108</speed>
+<course>277.9</course>
+<desc>Speed 108 km/h Distance 3.05 km</desc>
+<time>2009-02-05T20:13:28.08</time>
+<name>215</name>
+</trkpt>
+<trkpt lat="48.107422" lon="-1.512577">
+<ele>109.0</ele>
+<speed>108</speed>
+<course>276.8</course>
+<desc>Speed 108 km/h Distance 3.08 km</desc>
+<time>2009-02-05T20:13:29.08</time>
+<name>216</name>
+</trkpt>
+<trkpt lat="48.107453" lon="-1.512975">
+<ele>108.0</ele>
+<speed>107</speed>
+<course>275.7</course>
+<desc>Speed 107 km/h Distance 3.11 km</desc>
+<time>2009-02-05T20:13:30.08</time>
+<name>217</name>
+</trkpt>
+<trkpt lat="48.107480" lon="-1.513373">
+<ele>108.0</ele>
+<speed>107</speed>
+<course>275.4</course>
+<desc>Speed 107 km/h Distance 3.14 km</desc>
+<time>2009-02-05T20:13:31.08</time>
+<name>218</name>
+</trkpt>
+<trkpt lat="48.107505" lon="-1.513772">
+<ele>107.5</ele>
+<speed>107</speed>
+<course>274.7</course>
+<desc>Speed 107 km/h Distance 3.17 km</desc>
+<time>2009-02-05T20:13:32.08</time>
+<name>219</name>
+</trkpt>
+<trkpt lat="48.107527" lon="-1.514170">
+<ele>107.0</ele>
+<speed>107</speed>
+<course>274.3</course>
+<desc>Speed 107 km/h Distance 3.20 km</desc>
+<time>2009-02-05T20:13:33.09</time>
+<name>220</name>
+</trkpt>
+<trkpt lat="48.107547" lon="-1.514570">
+<ele>107.0</ele>
+<speed>107</speed>
+<course>273.9</course>
+<desc>Speed 107 km/h Distance 3.23 km</desc>
+<time>2009-02-05T20:13:34.08</time>
+<name>221</name>
+</trkpt>
+<trkpt lat="48.107565" lon="-1.514972">
+<ele>107.0</ele>
+<speed>108</speed>
+<course>273.9</course>
+<desc>Speed 108 km/h Distance 3.26 km</desc>
+<time>2009-02-05T20:13:35.08</time>
+<name>222</name>
+</trkpt>
+<trkpt lat="48.107583" lon="-1.515375">
+<ele>107.5</ele>
+<speed>108</speed>
+<course>274.2</course>
+<desc>Speed 108 km/h Distance 3.29 km</desc>
+<time>2009-02-05T20:13:36.08</time>
+<name>223</name>
+</trkpt>
+<trkpt lat="48.107603" lon="-1.515780">
+<ele>107.5</ele>
+<speed>109</speed>
+<course>273.9</course>
+<desc>Speed 109 km/h Distance 3.32 km</desc>
+<time>2009-02-05T20:13:37.08</time>
+<name>224</name>
+</trkpt>
+<trkpt lat="48.107622" lon="-1.516185">
+<ele>108.0</ele>
+<speed>109</speed>
+<course>273.8</course>
+<desc>Speed 109 km/h Distance 3.35 km</desc>
+<time>2009-02-05T20:13:38.07</time>
+<name>225</name>
+</trkpt>
+<trkpt lat="48.107640" lon="-1.516593">
+<ele>108.5</ele>
+<speed>109</speed>
+<course>273.5</course>
+<desc>Speed 109 km/h Distance 3.38 km</desc>
+<time>2009-02-05T20:13:39.08</time>
+<name>226</name>
+</trkpt>
+<trkpt lat="48.107657" lon="-1.517000">
+<ele>109.5</ele>
+<speed>110</speed>
+<course>273.8</course>
+<desc>Speed 110 km/h Distance 3.41 km</desc>
+<time>2009-02-05T20:13:40.07</time>
+<name>227</name>
+</trkpt>
+<trkpt lat="48.107675" lon="-1.517408">
+<ele>110.5</ele>
+<speed>110</speed>
+<course>274.2</course>
+<desc>Speed 110 km/h Distance 3.44 km</desc>
+<time>2009-02-05T20:13:41.07</time>
+<name>228</name>
+</trkpt>
+<trkpt lat="48.107695" lon="-1.517817">
+<ele>111.5</ele>
+<speed>110</speed>
+<course>273.9</course>
+<desc>Speed 110 km/h Distance 3.47 km</desc>
+<time>2009-02-05T20:13:42.07</time>
+<name>229</name>
+</trkpt>
+<trkpt lat="48.107713" lon="-1.518223">
+<ele>112.5</ele>
+<speed>110</speed>
+<course>273.9</course>
+<desc>Speed 110 km/h Distance 3.50 km</desc>
+<time>2009-02-05T20:13:43.07</time>
+<name>230</name>
+</trkpt>
+<trkpt lat="48.107732" lon="-1.518630">
+<ele>113.5</ele>
+<speed>109</speed>
+<course>273.8</course>
+<desc>Speed 109 km/h Distance 3.53 km</desc>
+<time>2009-02-05T20:13:44.07</time>
+<name>231</name>
+</trkpt>
+<trkpt lat="48.107750" lon="-1.519038">
+<ele>114.5</ele>
+<speed>109</speed>
+<course>273.5</course>
+<desc>Speed 109 km/h Distance 3.56 km</desc>
+<time>2009-02-05T20:13:45.07</time>
+<name>232</name>
+</trkpt>
+<trkpt lat="48.107767" lon="-1.519443">
+<ele>115.5</ele>
+<speed>109</speed>
+<course>273.9</course>
+<desc>Speed 109 km/h Distance 3.59 km</desc>
+<time>2009-02-05T20:13:46.07</time>
+<name>233</name>
+</trkpt>
+<trkpt lat="48.107785" lon="-1.519850">
+<ele>116.5</ele>
+<speed>109</speed>
+<course>274.2</course>
+<desc>Speed 109 km/h Distance 3.62 km</desc>
+<time>2009-02-05T20:13:47.08</time>
+<name>234</name>
+</trkpt>
+<trkpt lat="48.107805" lon="-1.520255">
+<ele>117.5</ele>
+<speed>109</speed>
+<course>274.6</course>
+<desc>Speed 109 km/h Distance 3.65 km</desc>
+<time>2009-02-05T20:13:48.07</time>
+<name>235</name>
+</trkpt>
+<trkpt lat="48.107827" lon="-1.520660">
+<ele>118.5</ele>
+<speed>109</speed>
+<course>276.0</course>
+<desc>Speed 109 km/h Distance 3.68 km</desc>
+<time>2009-02-05T20:13:49.07</time>
+<name>236</name>
+</trkpt>
+<trkpt lat="48.107855" lon="-1.521065">
+<ele>119.0</ele>
+<speed>109</speed>
+<course>276.7</course>
+<desc>Speed 109 km/h Distance 3.71 km</desc>
+<time>2009-02-05T20:13:50.07</time>
+<name>237</name>
+</trkpt>
+<trkpt lat="48.107887" lon="-1.521472">
+<ele>120.0</ele>
+<speed>109</speed>
+<course>277.4</course>
+<desc>Speed 109 km/h Distance 3.75 km</desc>
+<time>2009-02-05T20:13:51.07</time>
+<name>238</name>
+</trkpt>
+<trkpt lat="48.107922" lon="-1.521877">
+<ele>120.5</ele>
+<speed>110</speed>
+<course>278.0</course>
+<desc>Speed 110 km/h Distance 3.78 km</desc>
+<time>2009-02-05T20:13:52.08</time>
+<name>239</name>
+</trkpt>
+<trkpt lat="48.107960" lon="-1.522283">
+<ele>121.0</ele>
+<speed>110</speed>
+<course>279.1</course>
+<desc>Speed 110 km/h Distance 3.81 km</desc>
+<time>2009-02-05T20:13:53.07</time>
+<name>240</name>
+</trkpt>
+<trkpt lat="48.108003" lon="-1.522687">
+<ele>122.0</ele>
+<speed>110</speed>
+<course>279.8</course>
+<desc>Speed 110 km/h Distance 3.84 km</desc>
+<time>2009-02-05T20:13:54.07</time>
+<name>241</name>
+</trkpt>
+<trkpt lat="48.108050" lon="-1.523090">
+<ele>122.5</ele>
+<speed>110</speed>
+<course>280.9</course>
+<desc>Speed 110 km/h Distance 3.87 km</desc>
+<time>2009-02-05T20:13:55.07</time>
+<name>242</name>
+</trkpt>
+<trkpt lat="48.108102" lon="-1.523493">
+<ele>123.0</ele>
+<speed>110</speed>
+<course>281.6</course>
+<desc>Speed 110 km/h Distance 3.90 km</desc>
+<time>2009-02-05T20:13:56.07</time>
+<name>243</name>
+</trkpt>
+<trkpt lat="48.108157" lon="-1.523893">
+<ele>123.5</ele>
+<speed>109</speed>
+<course>282.7</course>
+<desc>Speed 109 km/h Distance 3.93 km</desc>
+<time>2009-02-05T20:13:57.07</time>
+<name>244</name>
+</trkpt>
+<trkpt lat="48.108217" lon="-1.524293">
+<ele>124.0</ele>
+<speed>110</speed>
+<course>283.4</course>
+<desc>Speed 110 km/h Distance 3.96 km</desc>
+<time>2009-02-05T20:13:58.07</time>
+<name>245</name>
+</trkpt>
+<trkpt lat="48.108280" lon="-1.524692">
+<ele>124.0</ele>
+<speed>110</speed>
+<course>284.5</course>
+<desc>Speed 110 km/h Distance 3.99 km</desc>
+<time>2009-02-05T20:13:59.06</time>
+<name>246</name>
+</trkpt>
+<trkpt lat="48.108348" lon="-1.525088">
+<ele>124.5</ele>
+<speed>110</speed>
+<course>285.5</course>
+<desc>Speed 110 km/h Distance 4.02 km</desc>
+<time>2009-02-05T20:14:00.06</time>
+<name>247</name>
+</trkpt>
+<trkpt lat="48.108422" lon="-1.525483">
+<ele>124.5</ele>
+<speed>110</speed>
+<course>286.3</course>
+<desc>Speed 110 km/h Distance 4.05 km</desc>
+<time>2009-02-05T20:14:01.07</time>
+<name>248</name>
+</trkpt>
+<trkpt lat="48.108498" lon="-1.525877">
+<ele>125.0</ele>
+<speed>110</speed>
+<course>287.3</course>
+<desc>Speed 110 km/h Distance 4.08 km</desc>
+<time>2009-02-05T20:14:02.06</time>
+<name>249</name>
+</trkpt>
+<trkpt lat="48.108580" lon="-1.526268">
+<ele>125.5</ele>
+<speed>110</speed>
+<course>288.1</course>
+<desc>Speed 110 km/h Distance 4.11 km</desc>
+<time>2009-02-05T20:14:03.06</time>
+<name>250</name>
+</trkpt>
+<trkpt lat="48.108665" lon="-1.526658">
+<ele>126.0</ele>
+<speed>110</speed>
+<course>289.4</course>
+<desc>Speed 110 km/h Distance 4.14 km</desc>
+<time>2009-02-05T20:14:04.06</time>
+<name>251</name>
+</trkpt>
+<trkpt lat="48.108757" lon="-1.527048">
+<ele>126.0</ele>
+<speed>110</speed>
+<course>289.9</course>
+<desc>Speed 110 km/h Distance 4.17 km</desc>
+<time>2009-02-05T20:14:05.06</time>
+<name>252</name>
+</trkpt>
+<trkpt lat="48.108850" lon="-1.527435">
+<ele>126.5</ele>
+<speed>110</speed>
+<course>290.4</course>
+<desc>Speed 110 km/h Distance 4.20 km</desc>
+<time>2009-02-05T20:14:06.06</time>
+<name>253</name>
+</trkpt>
+<trkpt lat="48.108945" lon="-1.527818">
+<ele>127.0</ele>
+<speed>110</speed>
+<course>291.6</course>
+<desc>Speed 110 km/h Distance 4.23 km</desc>
+<time>2009-02-05T20:14:07.06</time>
+<name>254</name>
+</trkpt>
+<trkpt lat="48.109045" lon="-1.528197">
+<ele>127.0</ele>
+<speed>109</speed>
+<course>292.1</course>
+<desc>Speed 109 km/h Distance 4.26 km</desc>
+<time>2009-02-05T20:14:08.06</time>
+<name>255</name>
+</trkpt>
+<trkpt lat="48.109147" lon="-1.528572">
+<ele>127.5</ele>
+<speed>108</speed>
+<course>292.1</course>
+<desc>Speed 108 km/h Distance 4.29 km</desc>
+<time>2009-02-05T20:14:09.06</time>
+<name>256</name>
+</trkpt>
+<trkpt lat="48.109248" lon="-1.528947">
+<ele>128.0</ele>
+<speed>108</speed>
+<course>292.5</course>
+<desc>Speed 108 km/h Distance 4.32 km</desc>
+<time>2009-02-05T20:14:10.06</time>
+<name>257</name>
+</trkpt>
+<trkpt lat="48.109352" lon="-1.529320">
+<ele>128.0</ele>
+<speed>108</speed>
+<course>292.5</course>
+<desc>Speed 108 km/h Distance 4.35 km</desc>
+<time>2009-02-05T20:14:11.06</time>
+<name>258</name>
+</trkpt>
+<trkpt lat="48.109455" lon="-1.529693">
+<ele>128.0</ele>
+<speed>108</speed>
+<course>292.1</course>
+<desc>Speed 108 km/h Distance 4.38 km</desc>
+<time>2009-02-05T20:14:12.06</time>
+<name>259</name>
+</trkpt>
+<trkpt lat="48.109557" lon="-1.530068">
+<ele>128.0</ele>
+<speed>108</speed>
+<course>292.1</course>
+<desc>Speed 108 km/h Distance 4.41 km</desc>
+<time>2009-02-05T20:14:13.06</time>
+<name>260</name>
+</trkpt>
+<trkpt lat="48.109658" lon="-1.530443">
+<ele>127.5</ele>
+<speed>108</speed>
+<course>292.3</course>
+<desc>Speed 108 km/h Distance 4.44 km</desc>
+<time>2009-02-05T20:14:14.06</time>
+<name>261</name>
+</trkpt>
+<trkpt lat="48.109762" lon="-1.530820">
+<ele>127.0</ele>
+<speed>109</speed>
+<course>292.3</course>
+<desc>Speed 109 km/h Distance 4.47 km</desc>
+<time>2009-02-05T20:14:15.06</time>
+<name>262</name>
+</trkpt>
+<trkpt lat="48.109865" lon="-1.531197">
+<ele>126.5</ele>
+<speed>109</speed>
+<course>292.1</course>
+<desc>Speed 109 km/h Distance 4.50 km</desc>
+<time>2009-02-05T20:14:16.06</time>
+<name>263</name>
+</trkpt>
+<trkpt lat="48.109967" lon="-1.531572">
+<ele>126.0</ele>
+<speed>109</speed>
+<course>292.2</course>
+<desc>Speed 109 km/h Distance 4.53 km</desc>
+<time>2009-02-05T20:14:17.06</time>
+<name>264</name>
+</trkpt>
+<trkpt lat="48.110068" lon="-1.531945">
+<ele>125.0</ele>
+<speed>108</speed>
+<course>292.1</course>
+<desc>Speed 108 km/h Distance 4.56 km</desc>
+<time>2009-02-05T20:14:18.05</time>
+<name>265</name>
+</trkpt>
+<trkpt lat="48.110168" lon="-1.532313">
+<ele>124.0</ele>
+<speed>107</speed>
+<course>292.2</course>
+<desc>Speed 107 km/h Distance 4.59 km</desc>
+<time>2009-02-05T20:14:19.05</time>
+<name>266</name>
+</trkpt>
+<trkpt lat="48.110268" lon="-1.532680">
+<ele>123.5</ele>
+<speed>106</speed>
+<course>292.4</course>
+<desc>Speed 106 km/h Distance 4.62 km</desc>
+<time>2009-02-05T20:14:20.05</time>
+<name>267</name>
+</trkpt>
+<trkpt lat="48.110370" lon="-1.533050">
+<ele>123.0</ele>
+<speed>107</speed>
+<course>292.0</course>
+<desc>Speed 107 km/h Distance 4.65 km</desc>
+<time>2009-02-05T20:14:21.05</time>
+<name>268</name>
+</trkpt>
+<trkpt lat="48.110472" lon="-1.533427">
+<ele>123.0</ele>
+<speed>109</speed>
+<course>291.6</course>
+<desc>Speed 109 km/h Distance 4.68 km</desc>
+<time>2009-02-05T20:14:22.05</time>
+<name>269</name>
+</trkpt>
+<trkpt lat="48.110573" lon="-1.533812">
+<ele>122.5</ele>
+<speed>111</speed>
+<course>291.4</course>
+<desc>Speed 111 km/h Distance 4.71 km</desc>
+<time>2009-02-05T20:14:23.05</time>
+<name>270</name>
+</trkpt>
+<trkpt lat="48.110675" lon="-1.534200">
+<ele>122.5</ele>
+<speed>112</speed>
+<course>290.8</course>
+<desc>Speed 112 km/h Distance 4.74 km</desc>
+<time>2009-02-05T20:14:24.05</time>
+<name>271</name>
+</trkpt>
+<trkpt lat="48.110775" lon="-1.534595">
+<ele>122.5</ele>
+<speed>113</speed>
+<course>291.1</course>
+<desc>Speed 113 km/h Distance 4.78 km</desc>
+<time>2009-02-05T20:14:25.05</time>
+<name>272</name>
+</trkpt>
+<trkpt lat="48.110877" lon="-1.534990">
+<ele>122.0</ele>
+<speed>114</speed>
+<course>291.8</course>
+<desc>Speed 114 km/h Distance 4.81 km</desc>
+<time>2009-02-05T20:14:26.05</time>
+<name>273</name>
+</trkpt>
+<trkpt lat="48.110982" lon="-1.535383">
+<ele>121.5</ele>
+<speed>113</speed>
+<course>291.9</course>
+<desc>Speed 113 km/h Distance 4.84 km</desc>
+<time>2009-02-05T20:14:27.05</time>
+<name>274</name>
+</trkpt>
+<trkpt lat="48.111087" lon="-1.535775">
+<ele>121.0</ele>
+<speed>113</speed>
+<course>292.3</course>
+<desc>Speed 113 km/h Distance 4.87 km</desc>
+<time>2009-02-05T20:14:28.05</time>
+<name>275</name>
+</trkpt>
+<trkpt lat="48.111193" lon="-1.536165">
+<ele>120.5</ele>
+<speed>113</speed>
+<course>292.0</course>
+<desc>Speed 113 km/h Distance 4.90 km</desc>
+<time>2009-02-05T20:14:29.05</time>
+<name>276</name>
+</trkpt>
+<trkpt lat="48.111298" lon="-1.536553">
+<ele>120.5</ele>
+<speed>112</speed>
+<course>292.0</course>
+<desc>Speed 112 km/h Distance 4.93 km</desc>
+<time>2009-02-05T20:14:30.05</time>
+<name>277</name>
+</trkpt>
+<trkpt lat="48.111403" lon="-1.536942">
+<ele>120.0</ele>
+<speed>112</speed>
+<course>292.1</course>
+<desc>Speed 112 km/h Distance 4.96 km</desc>
+<time>2009-02-05T20:14:31.05</time>
+<name>278</name>
+</trkpt>
+<trkpt lat="48.111508" lon="-1.537328">
+<ele>120.5</ele>
+<speed>112</speed>
+<course>291.6</course>
+<desc>Speed 112 km/h Distance 5.00 km</desc>
+<time>2009-02-05T20:14:32.06</time>
+<name>279</name>
+</trkpt>
+<trkpt lat="48.111612" lon="-1.537720">
+<ele>120.5</ele>
+<speed>113</speed>
+<course>290.6</course>
+<desc>Speed 113 km/h Distance 5.03 km</desc>
+<time>2009-02-05T20:14:33.06</time>
+<name>280</name>
+</trkpt>
+<trkpt lat="48.111710" lon="-1.538112">
+<ele>121.5</ele>
+<speed>113</speed>
+<course>289.8</course>
+<desc>Speed 113 km/h Distance 5.06 km</desc>
+<time>2009-02-05T20:14:34.05</time>
+<name>281</name>
+</trkpt>
+<trkpt lat="48.111805" lon="-1.538507">
+<ele>122.0</ele>
+<speed>112</speed>
+<course>288.6</course>
+<desc>Speed 112 km/h Distance 5.09 km</desc>
+<time>2009-02-05T20:14:35.05</time>
+<name>282</name>
+</trkpt>
+<trkpt lat="48.111893" lon="-1.538900">
+<ele>123.0</ele>
+<speed>111</speed>
+<course>287.6</course>
+<desc>Speed 111 km/h Distance 5.12 km</desc>
+<time>2009-02-05T20:14:36.05</time>
+<name>283</name>
+</trkpt>
+<trkpt lat="48.111977" lon="-1.539293">
+<ele>123.5</ele>
+<speed>111</speed>
+<course>287.2</course>
+<desc>Speed 111 km/h Distance 5.15 km</desc>
+<time>2009-02-05T20:14:37.05</time>
+<name>284</name>
+</trkpt>
+<trkpt lat="48.112058" lon="-1.539688">
+<ele>124.5</ele>
+<speed>111</speed>
+<course>286.5</course>
+<desc>Speed 111 km/h Distance 5.18 km</desc>
+<time>2009-02-05T20:14:38.05</time>
+<name>285</name>
+</trkpt>
+<trkpt lat="48.112137" lon="-1.540083">
+<ele>125.0</ele>
+<speed>111</speed>
+<course>285.8</course>
+<desc>Speed 111 km/h Distance 5.21 km</desc>
+<time>2009-02-05T20:14:39.05</time>
+<name>286</name>
+</trkpt>
+<trkpt lat="48.112212" lon="-1.540480">
+<ele>125.5</ele>
+<speed>110</speed>
+<course>284.7</course>
+<desc>Speed 110 km/h Distance 5.24 km</desc>
+<time>2009-02-05T20:14:40.05</time>
+<name>287</name>
+</trkpt>
+<trkpt lat="48.112282" lon="-1.540880">
+<ele>126.5</ele>
+<speed>111</speed>
+<course>284.0</course>
+<desc>Speed 111 km/h Distance 5.27 km</desc>
+<time>2009-02-05T20:14:41.04</time>
+<name>288</name>
+</trkpt>
+<trkpt lat="48.112348" lon="-1.541280">
+<ele>127.0</ele>
+<speed>111</speed>
+<course>283.6</course>
+<desc>Speed 111 km/h Distance 5.30 km</desc>
+<time>2009-02-05T20:14:42.04</time>
+<name>289</name>
+</trkpt>
+<trkpt lat="48.112413" lon="-1.541682">
+<ele>127.5</ele>
+<speed>111</speed>
+<course>282.8</course>
+<desc>Speed 111 km/h Distance 5.33 km</desc>
+<time>2009-02-05T20:14:43.04</time>
+<name>290</name>
+</trkpt>
+<trkpt lat="48.112475" lon="-1.542087">
+<ele>127.5</ele>
+<speed>111</speed>
+<course>281.8</course>
+<desc>Speed 111 km/h Distance 5.37 km</desc>
+<time>2009-02-05T20:14:44.04</time>
+<name>291</name>
+</trkpt>
+<trkpt lat="48.112532" lon="-1.542493">
+<ele>127.5</ele>
+<speed>111</speed>
+<course>280.3</course>
+<desc>Speed 111 km/h Distance 5.40 km</desc>
+<time>2009-02-05T20:14:45.04</time>
+<name>292</name>
+</trkpt>
+<trkpt lat="48.112582" lon="-1.542905">
+<ele>127.5</ele>
+<speed>112</speed>
+<course>280.0</course>
+<desc>Speed 112 km/h Distance 5.43 km</desc>
+<time>2009-02-05T20:14:46.04</time>
+<name>293</name>
+</trkpt>
+<trkpt lat="48.112630" lon="-1.543315">
+<ele>127.0</ele>
+<speed>112</speed>
+<course>280.3</course>
+<desc>Speed 112 km/h Distance 5.46 km</desc>
+<time>2009-02-05T20:14:47.04</time>
+<name>294</name>
+</trkpt>
+<trkpt lat="48.112680" lon="-1.543727">
+<ele>126.5</ele>
+<speed>112</speed>
+<course>281.1</course>
+<desc>Speed 112 km/h Distance 5.49 km</desc>
+<time>2009-02-05T20:14:48.04</time>
+<name>295</name>
+</trkpt>
+<trkpt lat="48.112733" lon="-1.544135">
+<ele>126.0</ele>
+<speed>112</speed>
+<course>282.4</course>
+<desc>Speed 112 km/h Distance 5.52 km</desc>
+<time>2009-02-05T20:14:49.04</time>
+<name>296</name>
+</trkpt>
+<trkpt lat="48.112793" lon="-1.544543">
+<ele>125.0</ele>
+<speed>112</speed>
+<course>282.0</course>
+<desc>Speed 112 km/h Distance 5.55 km</desc>
+<time>2009-02-05T20:14:50.04</time>
+<name>297</name>
+</trkpt>
+<trkpt lat="48.112852" lon="-1.544953">
+<ele>124.5</ele>
+<speed>112</speed>
+<course>280.9</course>
+<desc>Speed 112 km/h Distance 5.58 km</desc>
+<time>2009-02-05T20:14:51.04</time>
+<name>298</name>
+</trkpt>
+<trkpt lat="48.112905" lon="-1.545367">
+<ele>123.5</ele>
+<speed>113</speed>
+<course>280.2</course>
+<desc>Speed 113 km/h Distance 5.61 km</desc>
+<time>2009-02-05T20:14:52.04</time>
+<name>299</name>
+</trkpt>
+<trkpt lat="48.112955" lon="-1.545783">
+<ele>122.0</ele>
+<speed>113</speed>
+<course>279.9</course>
+<desc>Speed 113 km/h Distance 5.65 km</desc>
+<time>2009-02-05T20:14:53.04</time>
+<name>300</name>
+</trkpt>
+<trkpt lat="48.113003" lon="-1.546198">
+<ele>120.5</ele>
+<speed>113</speed>
+<course>279.5</course>
+<desc>Speed 113 km/h Distance 5.68 km</desc>
+<time>2009-02-05T20:14:54.04</time>
+<name>301</name>
+</trkpt>
+<trkpt lat="48.113050" lon="-1.546617">
+<ele>118.5</ele>
+<speed>114</speed>
+<course>279.7</course>
+<desc>Speed 114 km/h Distance 5.71 km</desc>
+<time>2009-02-05T20:14:55.04</time>
+<name>302</name>
+</trkpt>
+<trkpt lat="48.113098" lon="-1.547038">
+<ele>117.0</ele>
+<speed>115</speed>
+<course>279.7</course>
+<desc>Speed 115 km/h Distance 5.74 km</desc>
+<time>2009-02-05T20:14:56.04</time>
+<name>303</name>
+</trkpt>
+<trkpt lat="48.113147" lon="-1.547462">
+<ele>115.5</ele>
+<speed>115</speed>
+<course>279.7</course>
+<desc>Speed 115 km/h Distance 5.77 km</desc>
+<time>2009-02-05T20:14:57.04</time>
+<name>304</name>
+</trkpt>
+<trkpt lat="48.113195" lon="-1.547887">
+<ele>114.5</ele>
+<speed>115</speed>
+<course>280.3</course>
+<desc>Speed 115 km/h Distance 5.80 km</desc>
+<time>2009-02-05T20:14:58.04</time>
+<name>305</name>
+</trkpt>
+<trkpt lat="48.113247" lon="-1.548312">
+<ele>113.5</ele>
+<speed>116</speed>
+<course>280.2</course>
+<desc>Speed 116 km/h Distance 5.84 km</desc>
+<time>2009-02-05T20:14:59.04</time>
+<name>306</name>
+</trkpt>
+<trkpt lat="48.113298" lon="-1.548740">
+<ele>113.0</ele>
+<speed>116</speed>
+<course>280.2</course>
+<desc>Speed 116 km/h Distance 5.87 km</desc>
+<time>2009-02-05T20:15:00.04</time>
+<name>307</name>
+</trkpt>
+<trkpt lat="48.113350" lon="-1.549168">
+<ele>113.0</ele>
+<speed>116</speed>
+<course>279.9</course>
+<desc>Speed 116 km/h Distance 5.90 km</desc>
+<time>2009-02-05T20:15:01.04</time>
+<name>308</name>
+</trkpt>
+<trkpt lat="48.113400" lon="-1.549597">
+<ele>112.5</ele>
+<speed>116</speed>
+<course>279.9</course>
+<desc>Speed 116 km/h Distance 5.93 km</desc>
+<time>2009-02-05T20:15:02.04</time>
+<name>309</name>
+</trkpt>
+<trkpt lat="48.113450" lon="-1.550025">
+<ele>112.5</ele>
+<speed>116</speed>
+<course>279.6</course>
+<desc>Speed 116 km/h Distance 5.97 km</desc>
+<time>2009-02-05T20:15:03.04</time>
+<name>310</name>
+</trkpt>
+<trkpt lat="48.113498" lon="-1.550452">
+<ele>112.5</ele>
+<speed>116</speed>
+<course>280.0</course>
+<desc>Speed 116 km/h Distance 6.00 km</desc>
+<time>2009-02-05T20:15:04.03</time>
+<name>311</name>
+</trkpt>
+<trkpt lat="48.113548" lon="-1.550877">
+<ele>112.0</ele>
+<speed>116</speed>
+<course>279.7</course>
+<desc>Speed 116 km/h Distance 6.03 km</desc>
+<time>2009-02-05T20:15:05.03</time>
+<name>312</name>
+</trkpt>
+<trkpt lat="48.113597" lon="-1.551302">
+<ele>111.5</ele>
+<speed>115</speed>
+<course>280.0</course>
+<desc>Speed 115 km/h Distance 6.06 km</desc>
+<time>2009-02-05T20:15:06.03</time>
+<name>313</name>
+</trkpt>
+<trkpt lat="48.113647" lon="-1.551725">
+<ele>111.5</ele>
+<speed>115</speed>
+<course>279.7</course>
+<desc>Speed 115 km/h Distance 6.09 km</desc>
+<time>2009-02-05T20:15:07.03</time>
+<name>314</name>
+</trkpt>
+<trkpt lat="48.113695" lon="-1.552148">
+<ele>111.5</ele>
+<speed>115</speed>
+<course>280.1</course>
+<desc>Speed 115 km/h Distance 6.13 km</desc>
+<time>2009-02-05T20:15:08.03</time>
+<name>315</name>
+</trkpt>
+<trkpt lat="48.113745" lon="-1.552570">
+<ele>111.5</ele>
+<speed>115</speed>
+<course>280.4</course>
+<desc>Speed 115 km/h Distance 6.16 km</desc>
+<time>2009-02-05T20:15:09.03</time>
+<name>316</name>
+</trkpt>
+<trkpt lat="48.113797" lon="-1.552990">
+<ele>111.0</ele>
+<speed>114</speed>
+<course>280.1</course>
+<desc>Speed 114 km/h Distance 6.19 km</desc>
+<time>2009-02-05T20:15:10.03</time>
+<name>317</name>
+</trkpt>
+<trkpt lat="48.113847" lon="-1.553412">
+<ele>111.0</ele>
+<speed>114</speed>
+<course>280.1</course>
+<desc>Speed 114 km/h Distance 6.22 km</desc>
+<time>2009-02-05T20:15:11.04</time>
+<name>318</name>
+</trkpt>
+<trkpt lat="48.113897" lon="-1.553833">
+<ele>110.5</ele>
+<speed>114</speed>
+<course>279.8</course>
+<desc>Speed 114 km/h Distance 6.25 km</desc>
+<time>2009-02-05T20:15:12.03</time>
+<name>319</name>
+</trkpt>
+<trkpt lat="48.113945" lon="-1.554253">
+<ele>110.5</ele>
+<speed>114</speed>
+<course>280.1</course>
+<desc>Speed 114 km/h Distance 6.28 km</desc>
+<time>2009-02-05T20:15:13.03</time>
+<name>320</name>
+</trkpt>
+<trkpt lat="48.113995" lon="-1.554672">
+<ele>110.0</ele>
+<speed>114</speed>
+<course>280.2</course>
+<desc>Speed 114 km/h Distance 6.32 km</desc>
+<time>2009-02-05T20:15:14.03</time>
+<name>321</name>
+</trkpt>
+<trkpt lat="48.114045" lon="-1.555088">
+<ele>110.0</ele>
+<speed>113</speed>
+<course>280.1</course>
+<desc>Speed 113 km/h Distance 6.35 km</desc>
+<time>2009-02-05T20:15:15.03</time>
+<name>322</name>
+</trkpt>
+<trkpt lat="48.114093" lon="-1.555497">
+<ele>110.0</ele>
+<speed>111</speed>
+<course>280.1</course>
+<desc>Speed 111 km/h Distance 6.38 km</desc>
+<time>2009-02-05T20:15:16.03</time>
+<name>323</name>
+</trkpt>
+<trkpt lat="48.114142" lon="-1.555905">
+<ele>110.0</ele>
+<speed>111</speed>
+<course>280.5</course>
+<desc>Speed 111 km/h Distance 6.41 km</desc>
+<time>2009-02-05T20:15:17.05</time>
+<name>324</name>
+</trkpt>
+<trkpt lat="48.114192" lon="-1.556310">
+<ele>110.0</ele>
+<speed>111</speed>
+<course>280.1</course>
+<desc>Speed 111 km/h Distance 6.44 km</desc>
+<time>2009-02-05T20:15:18.03</time>
+<name>325</name>
+</trkpt>
+<trkpt lat="48.114240" lon="-1.556715">
+<ele>111.0</ele>
+<speed>110</speed>
+<course>280.6</course>
+<desc>Speed 110 km/h Distance 6.47 km</desc>
+<time>2009-02-05T20:15:19.03</time>
+<name>326</name>
+</trkpt>
+<trkpt lat="48.114290" lon="-1.557117">
+<ele>111.5</ele>
+<speed>110</speed>
+<course>280.6</course>
+<desc>Speed 110 km/h Distance 6.50 km</desc>
+<time>2009-02-05T20:15:20.03</time>
+<name>327</name>
+</trkpt>
+<trkpt lat="48.114340" lon="-1.557517">
+<ele>112.5</ele>
+<speed>109</speed>
+<course>280.9</course>
+<desc>Speed 109 km/h Distance 6.53 km</desc>
+<time>2009-02-05T20:15:21.03</time>
+<name>328</name>
+</trkpt>
+<trkpt lat="48.114392" lon="-1.557917">
+<ele>113.5</ele>
+<speed>109</speed>
+<course>281.0</course>
+<desc>Speed 109 km/h Distance 6.56 km</desc>
+<time>2009-02-05T20:15:22.03</time>
+<name>329</name>
+</trkpt>
+<trkpt lat="48.114443" lon="-1.558315">
+<ele>115.0</ele>
+<speed>109</speed>
+<course>281.6</course>
+<desc>Speed 109 km/h Distance 6.59 km</desc>
+<time>2009-02-05T20:15:23.03</time>
+<name>330</name>
+</trkpt>
+<trkpt lat="48.114498" lon="-1.558715">
+<ele>116.0</ele>
+<speed>109</speed>
+<course>281.3</course>
+<desc>Speed 109 km/h Distance 6.62 km</desc>
+<time>2009-02-05T20:15:24.03</time>
+<name>331</name>
+</trkpt>
+<trkpt lat="48.114552" lon="-1.559115">
+<ele>117.0</ele>
+<speed>110</speed>
+<course>281.2</course>
+<desc>Speed 110 km/h Distance 6.65 km</desc>
+<time>2009-02-05T20:15:25.03</time>
+<name>332</name>
+</trkpt>
+<trkpt lat="48.114605" lon="-1.559517">
+<ele>118.0</ele>
+<speed>110</speed>
+<course>280.5</course>
+<desc>Speed 110 km/h Distance 6.68 km</desc>
+<time>2009-02-05T20:15:26.03</time>
+<name>333</name>
+</trkpt>
+<trkpt lat="48.114655" lon="-1.559922">
+<ele>118.5</ele>
+<speed>110</speed>
+<course>280.8</course>
+<desc>Speed 110 km/h Distance 6.71 km</desc>
+<time>2009-02-05T20:15:27.03</time>
+<name>334</name>
+</trkpt>
+<trkpt lat="48.114707" lon="-1.560327">
+<ele>119.0</ele>
+<speed>110</speed>
+<course>280.9</course>
+<desc>Speed 110 km/h Distance 6.74 km</desc>
+<time>2009-02-05T20:15:28.03</time>
+<name>335</name>
+</trkpt>
+<trkpt lat="48.114758" lon="-1.560728">
+<ele>119.5</ele>
+<speed>110</speed>
+<course>281.6</course>
+<desc>Speed 110 km/h Distance 6.77 km</desc>
+<time>2009-02-05T20:15:29.03</time>
+<name>336</name>
+</trkpt>
+<trkpt lat="48.114813" lon="-1.561130">
+<ele>119.5</ele>
+<speed>110</speed>
+<course>282.2</course>
+<desc>Speed 110 km/h Distance 6.80 km</desc>
+<time>2009-02-05T20:15:30.02</time>
+<name>337</name>
+</trkpt>
+<trkpt lat="48.114872" lon="-1.561533">
+<ele>120.0</ele>
+<speed>111</speed>
+<course>282.6</course>
+<desc>Speed 111 km/h Distance 6.84 km</desc>
+<time>2009-02-05T20:15:31.03</time>
+<name>338</name>
+</trkpt>
+<trkpt lat="48.114932" lon="-1.561937">
+<ele>119.5</ele>
+<speed>111</speed>
+<course>281.9</course>
+<desc>Speed 111 km/h Distance 6.87 km</desc>
+<time>2009-02-05T20:15:32.02</time>
+<name>339</name>
+</trkpt>
+<trkpt lat="48.114988" lon="-1.562340">
+<ele>119.5</ele>
+<speed>111</speed>
+<course>282.2</course>
+<desc>Speed 111 km/h Distance 6.90 km</desc>
+<time>2009-02-05T20:15:33.03</time>
+<name>340</name>
+</trkpt>
+<trkpt lat="48.115047" lon="-1.562743">
+<ele>119.0</ele>
+<speed>111</speed>
+<course>281.9</course>
+<desc>Speed 111 km/h Distance 6.93 km</desc>
+<time>2009-02-05T20:15:34.02</time>
+<name>341</name>
+</trkpt>
+<trkpt lat="48.115103" lon="-1.563147">
+<ele>118.5</ele>
+<speed>111</speed>
+<course>282.2</course>
+<desc>Speed 111 km/h Distance 6.96 km</desc>
+<time>2009-02-05T20:15:35.02</time>
+<name>342</name>
+</trkpt>
+<trkpt lat="48.115162" lon="-1.563552">
+<ele>118.0</ele>
+<speed>111</speed>
+<course>282.9</course>
+<desc>Speed 111 km/h Distance 6.99 km</desc>
+<time>2009-02-05T20:15:36.02</time>
+<name>343</name>
+</trkpt>
+<trkpt lat="48.115223" lon="-1.563955">
+<ele>117.0</ele>
+<speed>111</speed>
+<course>284.7</course>
+<desc>Speed 111 km/h Distance 7.02 km</desc>
+<time>2009-02-05T20:15:37.02</time>
+<name>344</name>
+</trkpt>
+<trkpt lat="48.115293" lon="-1.564355">
+<ele>116.0</ele>
+<speed>111</speed>
+<course>287.2</course>
+<desc>Speed 111 km/h Distance 7.05 km</desc>
+<time>2009-02-05T20:15:38.02</time>
+<name>345</name>
+</trkpt>
+<trkpt lat="48.115375" lon="-1.564750">
+<ele>115.5</ele>
+<speed>111</speed>
+<course>290.4</course>
+<desc>Speed 111 km/h Distance 7.08 km</desc>
+<time>2009-02-05T20:15:39.02</time>
+<name>346</name>
+</trkpt>
+<trkpt lat="48.115472" lon="-1.565140">
+<ele>113.5</ele>
+<speed>112</speed>
+<course>293.9</course>
+<desc>Speed 112 km/h Distance 7.11 km</desc>
+<time>2009-02-05T20:15:40.02</time>
+<name>347</name>
+</trkpt>
+<trkpt lat="48.115583" lon="-1.565518">
+<ele>112.0</ele>
+<speed>111</speed>
+<course>298.5</course>
+<desc>Speed 111 km/h Distance 7.14 km</desc>
+<time>2009-02-05T20:15:41.02</time>
+<name>348</name>
+</trkpt>
+<trkpt lat="48.115715" lon="-1.565882">
+<ele>111.0</ele>
+<speed>111</speed>
+<course>299.3</course>
+<desc>Speed 111 km/h Distance 7.17 km</desc>
+<time>2009-02-05T20:15:42.02</time>
+<name>349</name>
+</trkpt>
+<trkpt lat="48.115852" lon="-1.566247">
+<ele>109.5</ele>
+<speed>112</speed>
+<course>301.5</course>
+<desc>Speed 112 km/h Distance 7.20 km</desc>
+<time>2009-02-05T20:15:43.02</time>
+<name>350</name>
+</trkpt>
+<trkpt lat="48.115998" lon="-1.566605">
+<ele>109.0</ele>
+<speed>113</speed>
+<course>303.4</course>
+<desc>Speed 113 km/h Distance 7.24 km</desc>
+<time>2009-02-05T20:15:44.02</time>
+<name>351</name>
+</trkpt>
+<trkpt lat="48.116153" lon="-1.566957">
+<ele>107.5</ele>
+<speed>113</speed>
+<course>305.6</course>
+<desc>Speed 113 km/h Distance 7.27 km</desc>
+<time>2009-02-05T20:15:45.02</time>
+<name>352</name>
+</trkpt>
+<trkpt lat="48.116318" lon="-1.567302">
+<ele>107.0</ele>
+<speed>113</speed>
+<course>307.9</course>
+<desc>Speed 113 km/h Distance 7.30 km</desc>
+<time>2009-02-05T20:15:46.02</time>
+<name>353</name>
+</trkpt>
+<trkpt lat="48.116492" lon="-1.567635">
+<ele>106.0</ele>
+<speed>113</speed>
+<course>311.0</course>
+<desc>Speed 113 km/h Distance 7.33 km</desc>
+<time>2009-02-05T20:15:47.02</time>
+<name>354</name>
+</trkpt>
+<trkpt lat="48.116677" lon="-1.567953">
+<ele>104.5</ele>
+<speed>113</speed>
+<course>313.6</course>
+<desc>Speed 113 km/h Distance 7.36 km</desc>
+<time>2009-02-05T20:15:48.02</time>
+<name>355</name>
+</trkpt>
+<trkpt lat="48.116872" lon="-1.568260">
+<ele>103.5</ele>
+<speed>113</speed>
+<course>315.4</course>
+<desc>Speed 113 km/h Distance 7.39 km</desc>
+<time>2009-02-05T20:15:49.02</time>
+<name>356</name>
+</trkpt>
+<trkpt lat="48.117075" lon="-1.568560">
+<ele>102.5</ele>
+<speed>114</speed>
+<course>315.3</course>
+<desc>Speed 114 km/h Distance 7.42 km</desc>
+<time>2009-02-05T20:15:50.01</time>
+<name>357</name>
+</trkpt>
+<trkpt lat="48.117278" lon="-1.568862">
+<ele>101.5</ele>
+<speed>114</speed>
+<course>315.2</course>
+<desc>Speed 114 km/h Distance 7.46 km</desc>
+<time>2009-02-05T20:15:51.02</time>
+<name>358</name>
+</trkpt>
+<trkpt lat="48.117480" lon="-1.569162">
+<ele>100.5</ele>
+<speed>114</speed>
+<course>315.0</course>
+<desc>Speed 114 km/h Distance 7.49 km</desc>
+<time>2009-02-05T20:15:52.02</time>
+<name>359</name>
+</trkpt>
+<trkpt lat="48.117682" lon="-1.569463">
+<ele>100.0</ele>
+<speed>114</speed>
+<course>315.0</course>
+<desc>Speed 114 km/h Distance 7.52 km</desc>
+<time>2009-02-05T20:15:53.01</time>
+<name>360</name>
+</trkpt>
+<trkpt lat="48.117883" lon="-1.569765">
+<ele>99.5</ele>
+<speed>114</speed>
+<course>314.8</course>
+<desc>Speed 114 km/h Distance 7.55 km</desc>
+<time>2009-02-05T20:15:54.01</time>
+<name>361</name>
+</trkpt>
+<trkpt lat="48.118083" lon="-1.570067">
+<ele>99.0</ele>
+<speed>114</speed>
+<course>314.6</course>
+<desc>Speed 114 km/h Distance 7.58 km</desc>
+<time>2009-02-05T20:15:55.01</time>
+<name>362</name>
+</trkpt>
+<trkpt lat="48.118283" lon="-1.570370">
+<ele>98.5</ele>
+<speed>114</speed>
+<course>315.4</course>
+<desc>Speed 114 km/h Distance 7.61 km</desc>
+<time>2009-02-05T20:15:56.01</time>
+<name>363</name>
+</trkpt>
+<trkpt lat="48.118485" lon="-1.570668">
+<ele>98.5</ele>
+<speed>114</speed>
+<course>316.9</course>
+<desc>Speed 114 km/h Distance 7.65 km</desc>
+<time>2009-02-05T20:15:57.01</time>
+<name>364</name>
+</trkpt>
+<trkpt lat="48.118693" lon="-1.570960">
+<ele>98.5</ele>
+<speed>114</speed>
+<course>320.2</course>
+<desc>Speed 114 km/h Distance 7.68 km</desc>
+<time>2009-02-05T20:15:58.01</time>
+<name>365</name>
+</trkpt>
+<trkpt lat="48.118913" lon="-1.571235">
+<ele>98.5</ele>
+<speed>115</speed>
+<course>324.1</course>
+<desc>Speed 115 km/h Distance 7.71 km</desc>
+<time>2009-02-05T20:15:59.01</time>
+<name>366</name>
+</trkpt>
+<trkpt lat="48.119147" lon="-1.571488">
+<ele>98.5</ele>
+<speed>115</speed>
+<course>326.6</course>
+<desc>Speed 115 km/h Distance 7.74 km</desc>
+<time>2009-02-05T20:16:00.01</time>
+<name>367</name>
+</trkpt>
+<trkpt lat="48.119387" lon="-1.571725">
+<ele>99.0</ele>
+<speed>115</speed>
+<course>332.6</course>
+<desc>Speed 115 km/h Distance 7.77 km</desc>
+<time>2009-02-05T20:16:01.01</time>
+<name>368</name>
+</trkpt>
+<trkpt lat="48.119647" lon="-1.571927">
+<ele>100.0</ele>
+<speed>118</speed>
+<course>334.9</course>
+<desc>Speed 118 km/h Distance 7.81 km</desc>
+<time>2009-02-05T20:16:02.01</time>
+<name>369</name>
+</trkpt>
+<trkpt lat="48.119910" lon="-1.572112">
+<ele>100.5</ele>
+<speed>116</speed>
+<course>338.9</course>
+<desc>Speed 116 km/h Distance 7.84 km</desc>
+<time>2009-02-05T20:16:03.01</time>
+<name>370</name>
+</trkpt>
+<trkpt lat="48.120178" lon="-1.572267">
+<ele>101.5</ele>
+<speed>115</speed>
+<course>343.4</course>
+<desc>Speed 115 km/h Distance 7.87 km</desc>
+<time>2009-02-05T20:16:04.01</time>
+<name>371</name>
+</trkpt>
+<trkpt lat="48.120455" lon="-1.572390">
+<ele>101.5</ele>
+<speed>116</speed>
+<course>345.3</course>
+<desc>Speed 116 km/h Distance 7.90 km</desc>
+<time>2009-02-05T20:16:05.01</time>
+<name>372</name>
+</trkpt>
+<trkpt lat="48.120735" lon="-1.572500">
+<ele>102.0</ele>
+<speed>116</speed>
+<course>346.3</course>
+<desc>Speed 116 km/h Distance 7.94 km</desc>
+<time>2009-02-05T20:16:06.01</time>
+<name>373</name>
+</trkpt>
+<trkpt lat="48.121013" lon="-1.572602">
+<ele>102.0</ele>
+<speed>115</speed>
+<course>346.4</course>
+<desc>Speed 115 km/h Distance 7.97 km</desc>
+<time>2009-02-05T20:16:07.01</time>
+<name>374</name>
+</trkpt>
+<trkpt lat="48.121290" lon="-1.572702">
+<ele>102.0</ele>
+<speed>114</speed>
+<course>346.4</course>
+<desc>Speed 114 km/h Distance 8.00 km</desc>
+<time>2009-02-05T20:16:08.01</time>
+<name>375</name>
+</trkpt>
+<trkpt lat="48.121567" lon="-1.572802">
+<ele>102.0</ele>
+<speed>114</speed>
+<course>345.9</course>
+<desc>Speed 114 km/h Distance 8.03 km</desc>
+<time>2009-02-05T20:16:09.01</time>
+<name>376</name>
+</trkpt>
+<trkpt lat="48.121842" lon="-1.572905">
+<ele>101.5</ele>
+<speed>113</speed>
+<course>345.6</course>
+<desc>Speed 113 km/h Distance 8.06 km</desc>
+<time>2009-02-05T20:16:10.01</time>
+<name>377</name>
+</trkpt>
+<trkpt lat="48.122115" lon="-1.573010">
+<ele>101.5</ele>
+<speed>113</speed>
+<course>345.6</course>
+<desc>Speed 113 km/h Distance 8.09 km</desc>
+<time>2009-02-05T20:16:11.01</time>
+<name>378</name>
+</trkpt>
+<trkpt lat="48.122388" lon="-1.573115">
+<ele>101.0</ele>
+<speed>113</speed>
+<course>345.6</course>
+<desc>Speed 113 km/h Distance 8.12 km</desc>
+<time>2009-02-05T20:16:12.01</time>
+<name>379</name>
+</trkpt>
+<trkpt lat="48.122662" lon="-1.573220">
+<ele>100.0</ele>
+<speed>113</speed>
+<course>345.7</course>
+<desc>Speed 113 km/h Distance 8.16 km</desc>
+<time>2009-02-05T20:16:13.00</time>
+<name>380</name>
+</trkpt>
+<trkpt lat="48.122937" lon="-1.573325">
+<ele>99.5</ele>
+<speed>113</speed>
+<course>345.2</course>
+<desc>Speed 113 km/h Distance 8.19 km</desc>
+<time>2009-02-05T20:16:14.01</time>
+<name>381</name>
+</trkpt>
+<trkpt lat="48.123210" lon="-1.573433">
+<ele>98.5</ele>
+<speed>114</speed>
+<course>345.5</course>
+<desc>Speed 114 km/h Distance 8.22 km</desc>
+<time>2009-02-05T20:16:15.00</time>
+<name>382</name>
+</trkpt>
+<trkpt lat="48.123485" lon="-1.573540">
+<ele>98.0</ele>
+<speed>114</speed>
+<course>345.8</course>
+<desc>Speed 114 km/h Distance 8.25 km</desc>
+<time>2009-02-05T20:16:16.00</time>
+<name>383</name>
+</trkpt>
+<trkpt lat="48.123762" lon="-1.573645">
+<ele>97.0</ele>
+<speed>114</speed>
+<course>346.5</course>
+<desc>Speed 114 km/h Distance 8.28 km</desc>
+<time>2009-02-05T20:16:17.00</time>
+<name>384</name>
+</trkpt>
+<trkpt lat="48.124040" lon="-1.573745">
+<ele>96.0</ele>
+<speed>115</speed>
+<course>347.1</course>
+<desc>Speed 115 km/h Distance 8.31 km</desc>
+<time>2009-02-05T20:16:18.00</time>
+<name>385</name>
+</trkpt>
+<trkpt lat="48.124322" lon="-1.573842">
+<ele>95.5</ele>
+<speed>115</speed>
+<course>348.2</course>
+<desc>Speed 115 km/h Distance 8.35 km</desc>
+<time>2009-02-05T20:16:19.00</time>
+<name>386</name>
+</trkpt>
+<trkpt lat="48.124603" lon="-1.573930">
+<ele>94.5</ele>
+<speed>116</speed>
+<course>349.4</course>
+<desc>Speed 116 km/h Distance 8.38 km</desc>
+<time>2009-02-05T20:16:20.00</time>
+<name>387</name>
+</trkpt>
+<trkpt lat="48.124888" lon="-1.574010">
+<ele>93.5</ele>
+<speed>116</speed>
+<course>350.8</course>
+<desc>Speed 116 km/h Distance 8.41 km</desc>
+<time>2009-02-05T20:16:21.00</time>
+<name>388</name>
+</trkpt>
+<trkpt lat="48.125177" lon="-1.574080">
+<ele>92.5</ele>
+<speed>117</speed>
+<course>352.5</course>
+<desc>Speed 117 km/h Distance 8.44 km</desc>
+<time>2009-02-05T20:16:22.00</time>
+<name>389</name>
+</trkpt>
+<trkpt lat="48.125463" lon="-1.574137">
+<ele>92.0</ele>
+<speed>116</speed>
+<course>353.4</course>
+<desc>Speed 116 km/h Distance 8.48 km</desc>
+<time>2009-02-05T20:16:23.00</time>
+<name>390</name>
+</trkpt>
+<trkpt lat="48.125752" lon="-1.574187">
+<ele>91.0</ele>
+<speed>116</speed>
+<course>354.7</course>
+<desc>Speed 116 km/h Distance 8.51 km</desc>
+<time>2009-02-05T20:16:24.00</time>
+<name>391</name>
+</trkpt>
+<trkpt lat="48.126038" lon="-1.574227">
+<ele>90.5</ele>
+<speed>116</speed>
+<course>356.3</course>
+<desc>Speed 116 km/h Distance 8.54 km</desc>
+<time>2009-02-05T20:16:25.00</time>
+<name>392</name>
+</trkpt>
+<trkpt lat="48.126327" lon="-1.574255">
+<ele>89.5</ele>
+<speed>116</speed>
+<course>357.6</course>
+<desc>Speed 116 km/h Distance 8.57 km</desc>
+<time>2009-02-05T20:16:26.00</time>
+<name>393</name>
+</trkpt>
+<trkpt lat="48.126615" lon="-1.574273">
+<ele>88.5</ele>
+<speed>115</speed>
+<course>358.9</course>
+<desc>Speed 115 km/h Distance 8.60 km</desc>
+<time>2009-02-05T20:16:26.99</time>
+<name>394</name>
+</trkpt>
+<trkpt lat="48.126902" lon="-1.574282">
+<ele>87.5</ele>
+<speed>115</speed>
+<course>0.3</course>
+<desc>Speed 115 km/h Distance 8.64 km</desc>
+<time>2009-02-05T20:16:27.99</time>
+<name>395</name>
+</trkpt>
+<trkpt lat="48.127188" lon="-1.574280">
+<ele>86.5</ele>
+<speed>115</speed>
+<course>1.6</course>
+<desc>Speed 115 km/h Distance 8.67 km</desc>
+<time>2009-02-05T20:16:28.99</time>
+<name>396</name>
+</trkpt>
+<trkpt lat="48.127475" lon="-1.574268">
+<ele>86.0</ele>
+<speed>115</speed>
+<course>2.9</course>
+<desc>Speed 115 km/h Distance 8.70 km</desc>
+<time>2009-02-05T20:16:29.99</time>
+<name>397</name>
+</trkpt>
+<trkpt lat="48.127760" lon="-1.574247">
+<ele>85.0</ele>
+<speed>114</speed>
+<course>4.2</course>
+<desc>Speed 114 km/h Distance 8.73 km</desc>
+<time>2009-02-05T20:16:31.00</time>
+<name>398</name>
+</trkpt>
+<trkpt lat="48.128045" lon="-1.574215">
+<ele>84.5</ele>
+<speed>114</speed>
+<course>5.0</course>
+<desc>Speed 114 km/h Distance 8.76 km</desc>
+<time>2009-02-05T20:16:31.99</time>
+<name>399</name>
+</trkpt>
+<trkpt lat="48.128327" lon="-1.574178">
+<ele>84.0</ele>
+<speed>113</speed>
+<course>5.4</course>
+<desc>Speed 113 km/h Distance 8.80 km</desc>
+<time>2009-02-05T20:16:33.00</time>
+<name>400</name>
+</trkpt>
+<trkpt lat="48.128607" lon="-1.574138">
+<ele>83.5</ele>
+<speed>113</speed>
+<course>5.2</course>
+<desc>Speed 113 km/h Distance 8.83 km</desc>
+<time>2009-02-05T20:16:33.99</time>
+<name>401</name>
+</trkpt>
+<trkpt lat="48.128887" lon="-1.574100">
+<ele>83.0</ele>
+<speed>112</speed>
+<course>5.0</course>
+<desc>Speed 112 km/h Distance 8.86 km</desc>
+<time>2009-02-05T20:16:34.99</time>
+<name>402</name>
+</trkpt>
+<trkpt lat="48.129167" lon="-1.574063">
+<ele>82.5</ele>
+<speed>112</speed>
+<course>4.1</course>
+<desc>Speed 112 km/h Distance 8.89 km</desc>
+<time>2009-02-05T20:16:35.99</time>
+<name>403</name>
+</trkpt>
+<trkpt lat="48.129447" lon="-1.574033">
+<ele>82.0</ele>
+<speed>112</speed>
+<course>3.4</course>
+<desc>Speed 112 km/h Distance 8.92 km</desc>
+<time>2009-02-05T20:16:36.99</time>
+<name>404</name>
+</trkpt>
+<trkpt lat="48.129727" lon="-1.574008">
+<ele>82.0</ele>
+<speed>112</speed>
+<course>2.7</course>
+<desc>Speed 112 km/h Distance 8.95 km</desc>
+<time>2009-02-05T20:16:37.99</time>
+<name>405</name>
+</trkpt>
+<trkpt lat="48.130007" lon="-1.573988">
+<ele>81.5</ele>
+<speed>112</speed>
+<course>1.8</course>
+<desc>Speed 112 km/h Distance 8.98 km</desc>
+<time>2009-02-05T20:16:38.99</time>
+<name>406</name>
+</trkpt>
+<trkpt lat="48.130282" lon="-1.573975">
+<ele>81.5</ele>
+<speed>111</speed>
+<course>0.0</course>
+<desc>Speed 111 km/h Distance 9.01 km</desc>
+<time>2009-02-05T20:16:40.00</time>
+<name>407</name>
+</trkpt>
+<trkpt lat="48.130562" lon="-1.573975">
+<ele>81.5</ele>
+<speed>112</speed>
+<course>357.5</course>
+<desc>Speed 112 km/h Distance 9.04 km</desc>
+<time>2009-02-05T20:16:40.99</time>
+<name>408</name>
+</trkpt>
+<trkpt lat="48.130843" lon="-1.573993">
+<ele>81.0</ele>
+<speed>113</speed>
+<course>355.5</course>
+<desc>Speed 113 km/h Distance 9.08 km</desc>
+<time>2009-02-05T20:16:41.99</time>
+<name>409</name>
+</trkpt>
+<trkpt lat="48.131128" lon="-1.574027">
+<ele>81.0</ele>
+<speed>114</speed>
+<course>353.6</course>
+<desc>Speed 114 km/h Distance 9.11 km</desc>
+<time>2009-02-05T20:16:42.99</time>
+<name>410</name>
+</trkpt>
+<trkpt lat="48.131415" lon="-1.574075">
+<ele>81.0</ele>
+<speed>115</speed>
+<course>352.7</course>
+<desc>Speed 115 km/h Distance 9.14 km</desc>
+<time>2009-02-05T20:16:43.99</time>
+<name>411</name>
+</trkpt>
+<trkpt lat="48.131703" lon="-1.574130">
+<ele>80.5</ele>
+<speed>116</speed>
+<course>352.5</course>
+<desc>Speed 116 km/h Distance 9.17 km</desc>
+<time>2009-02-05T20:16:44.99</time>
+<name>412</name>
+</trkpt>
+<trkpt lat="48.131990" lon="-1.574187">
+<ele>80.5</ele>
+<speed>115</speed>
+<course>351.8</course>
+<desc>Speed 115 km/h Distance 9.20 km</desc>
+<time>2009-02-05T20:16:45.99</time>
+<name>413</name>
+</trkpt>
+<trkpt lat="48.132275" lon="-1.574248">
+<ele>80.5</ele>
+<speed>115</speed>
+<course>350.3</course>
+<desc>Speed 115 km/h Distance 9.24 km</desc>
+<time>2009-02-05T20:16:46.99</time>
+<name>414</name>
+</trkpt>
+<trkpt lat="48.132555" lon="-1.574320">
+<ele>80.0</ele>
+<speed>114</speed>
+<course>348.7</course>
+<desc>Speed 114 km/h Distance 9.27 km</desc>
+<time>2009-02-05T20:16:47.99</time>
+<name>415</name>
+</trkpt>
+<trkpt lat="48.132833" lon="-1.574403">
+<ele>80.0</ele>
+<speed>113</speed>
+<course>347.5</course>
+<desc>Speed 113 km/h Distance 9.30 km</desc>
+<time>2009-02-05T20:16:48.99</time>
+<name>416</name>
+</trkpt>
+<trkpt lat="48.133108" lon="-1.574495">
+<ele>80.0</ele>
+<speed>113</speed>
+<course>346.4</course>
+<desc>Speed 113 km/h Distance 9.33 km</desc>
+<time>2009-02-05T20:16:49.99</time>
+<name>417</name>
+</trkpt>
+<trkpt lat="48.133380" lon="-1.574593">
+<ele>80.0</ele>
+<speed>112</speed>
+<course>345.3</course>
+<desc>Speed 112 km/h Distance 9.36 km</desc>
+<time>2009-02-05T20:16:50.99</time>
+<name>418</name>
+</trkpt>
+<trkpt lat="48.133652" lon="-1.574700">
+<ele>80.0</ele>
+<speed>112</speed>
+<course>344.4</course>
+<desc>Speed 112 km/h Distance 9.39 km</desc>
+<time>2009-02-05T20:16:51.99</time>
+<name>419</name>
+</trkpt>
+<trkpt lat="48.133918" lon="-1.574812">
+<ele>80.0</ele>
+<speed>111</speed>
+<course>343.5</course>
+<desc>Speed 111 km/h Distance 9.42 km</desc>
+<time>2009-02-05T20:16:52.99</time>
+<name>420</name>
+</trkpt>
+<trkpt lat="48.134185" lon="-1.574930">
+<ele>79.5</ele>
+<speed>111</speed>
+<course>342.2</course>
+<desc>Speed 111 km/h Distance 9.46 km</desc>
+<time>2009-02-05T20:16:53.98</time>
+<name>421</name>
+</trkpt>
+<trkpt lat="48.134448" lon="-1.575057">
+<ele>79.5</ele>
+<speed>111</speed>
+<course>340.1</course>
+<desc>Speed 111 km/h Distance 9.49 km</desc>
+<time>2009-02-05T20:16:54.98</time>
+<name>422</name>
+</trkpt>
+<trkpt lat="48.134707" lon="-1.575197">
+<ele>79.5</ele>
+<speed>110</speed>
+<course>338.6</course>
+<desc>Speed 110 km/h Distance 9.52 km</desc>
+<time>2009-02-05T20:16:55.98</time>
+<name>423</name>
+</trkpt>
+<trkpt lat="48.134965" lon="-1.575348">
+<ele>79.5</ele>
+<speed>111</speed>
+<course>336.6</course>
+<desc>Speed 111 km/h Distance 9.55 km</desc>
+<time>2009-02-05T20:16:56.98</time>
+<name>424</name>
+</trkpt>
+<trkpt lat="48.135220" lon="-1.575513">
+<ele>79.5</ele>
+<speed>111</speed>
+<course>335.4</course>
+<desc>Speed 111 km/h Distance 9.58 km</desc>
+<time>2009-02-05T20:16:57.99</time>
+<name>425</name>
+</trkpt>
+<trkpt lat="48.135470" lon="-1.575685">
+<ele>79.5</ele>
+<speed>110</speed>
+<course>333.8</course>
+<desc>Speed 110 km/h Distance 9.61 km</desc>
+<time>2009-02-05T20:16:58.98</time>
+<name>426</name>
+</trkpt>
+<trkpt lat="48.135717" lon="-1.575867">
+<ele>79.5</ele>
+<speed>110</speed>
+<course>332.5</course>
+<desc>Speed 110 km/h Distance 9.64 km</desc>
+<time>2009-02-05T20:16:59.98</time>
+<name>427</name>
+</trkpt>
+<trkpt lat="48.135958" lon="-1.576055">
+<ele>79.5</ele>
+<speed>109</speed>
+<course>331.0</course>
+<desc>Speed 109 km/h Distance 9.67 km</desc>
+<time>2009-02-05T20:17:00.98</time>
+<name>428</name>
+</trkpt>
+<trkpt lat="48.136197" lon="-1.576253">
+<ele>79.5</ele>
+<speed>109</speed>
+<course>329.8</course>
+<desc>Speed 109 km/h Distance 9.70 km</desc>
+<time>2009-02-05T20:17:01.98</time>
+<name>429</name>
+</trkpt>
+<trkpt lat="48.136432" lon="-1.576458">
+<ele>80.0</ele>
+<speed>109</speed>
+<course>328.6</course>
+<desc>Speed 109 km/h Distance 9.73 km</desc>
+<time>2009-02-05T20:17:02.98</time>
+<name>430</name>
+</trkpt>
+<trkpt lat="48.136663" lon="-1.576670">
+<ele>80.0</ele>
+<speed>108</speed>
+<course>327.3</course>
+<desc>Speed 108 km/h Distance 9.76 km</desc>
+<time>2009-02-05T20:17:03.98</time>
+<name>431</name>
+</trkpt>
+<trkpt lat="48.136890" lon="-1.576888">
+<ele>80.5</ele>
+<speed>108</speed>
+<course>326.3</course>
+<desc>Speed 108 km/h Distance 9.79 km</desc>
+<time>2009-02-05T20:17:04.98</time>
+<name>432</name>
+</trkpt>
+<trkpt lat="48.137115" lon="-1.577113">
+<ele>80.5</ele>
+<speed>108</speed>
+<course>324.9</course>
+<desc>Speed 108 km/h Distance 9.82 km</desc>
+<time>2009-02-05T20:17:05.97</time>
+<name>433</name>
+</trkpt>
+<trkpt lat="48.137335" lon="-1.577345">
+<ele>80.5</ele>
+<speed>108</speed>
+<course>324.5</course>
+<desc>Speed 108 km/h Distance 9.85 km</desc>
+<time>2009-02-05T20:17:06.98</time>
+<name>434</name>
+</trkpt>
+<trkpt lat="48.137555" lon="-1.577580">
+<ele>80.5</ele>
+<speed>108</speed>
+<course>323.5</course>
+<desc>Speed 108 km/h Distance 9.88 km</desc>
+<time>2009-02-05T20:17:07.97</time>
+<name>435</name>
+</trkpt>
+<trkpt lat="48.137770" lon="-1.577818">
+<ele>80.5</ele>
+<speed>108</speed>
+<course>322.5</course>
+<desc>Speed 108 km/h Distance 9.91 km</desc>
+<time>2009-02-05T20:17:08.98</time>
+<name>436</name>
+</trkpt>
+<trkpt lat="48.137980" lon="-1.578060">
+<ele>80.5</ele>
+<speed>105</speed>
+<course>321.1</course>
+<desc>Speed 105 km/h Distance 9.94 km</desc>
+<time>2009-02-05T20:17:09.98</time>
+<name>437</name>
+</trkpt>
+<trkpt lat="48.138178" lon="-1.578300">
+<ele>81.0</ele>
+<speed>103</speed>
+<course>320.2</course>
+<desc>Speed 103 km/h Distance 9.97 km</desc>
+<time>2009-02-05T20:17:10.98</time>
+<name>438</name>
+</trkpt>
+<trkpt lat="48.138372" lon="-1.578542">
+<ele>81.0</ele>
+<speed>101</speed>
+<course>319.8</course>
+<desc>Speed 101 km/h Distance 10.00 km</desc>
+<time>2009-02-05T20:17:11.97</time>
+<name>439</name>
+</trkpt>
+<trkpt lat="48.138560" lon="-1.578780">
+<ele>81.0</ele>
+<speed>98.8</speed>
+<course>320.1</course>
+<desc>Speed 98.8 km/h Distance 10.02 km</desc>
+<time>2009-02-05T20:17:12.98</time>
+<name>440</name>
+</trkpt>
+<trkpt lat="48.138745" lon="-1.579012">
+<ele>81.0</ele>
+<speed>96.4</speed>
+<course>320.3</course>
+<desc>Speed 96.4 km/h Distance 10.05 km</desc>
+<time>2009-02-05T20:17:13.97</time>
+<name>441</name>
+</trkpt>
+<trkpt lat="48.138923" lon="-1.579233">
+<ele>81.5</ele>
+<speed>92.6</speed>
+<course>320.1</course>
+<desc>Speed 92.6 km/h Distance 10.08 km</desc>
+<time>2009-02-05T20:17:14.97</time>
+<name>442</name>
+</trkpt>
+<trkpt lat="48.139093" lon="-1.579447">
+<ele>82.0</ele>
+<speed>88.9</speed>
+<course>318.8</course>
+<desc>Speed 88.9 km/h Distance 10.10 km</desc>
+<time>2009-02-05T20:17:15.97</time>
+<name>443</name>
+</trkpt>
+<trkpt lat="48.139253" lon="-1.579657">
+<ele>83.0</ele>
+<speed>85.1</speed>
+<course>316.9</course>
+<desc>Speed 85.1 km/h Distance 10.12 km</desc>
+<time>2009-02-05T20:17:16.97</time>
+<name>444</name>
+</trkpt>
+<trkpt lat="48.139402" lon="-1.579865">
+<ele>84.0</ele>
+<speed>81.4</speed>
+<course>315.6</course>
+<desc>Speed 81.4 km/h Distance 10.15 km</desc>
+<time>2009-02-05T20:17:17.97</time>
+<name>445</name>
+</trkpt>
+<trkpt lat="48.139537" lon="-1.580063">
+<ele>85.0</ele>
+<speed>75.6</speed>
+<course>314.7</course>
+<desc>Speed 75.6 km/h Distance 10.17 km</desc>
+<time>2009-02-05T20:17:18.97</time>
+<name>446</name>
+</trkpt>
+<trkpt lat="48.139650" lon="-1.580235">
+<ele>85.5</ele>
+<speed>64.6</speed>
+<course>313.6</course>
+<desc>Speed 64.6 km/h Distance 10.19 km</desc>
+<time>2009-02-05T20:17:19.97</time>
+<name>447</name>
+</trkpt>
+<trkpt lat="48.139743" lon="-1.580382">
+<ele>86.0</ele>
+<speed>54.6</speed>
+<course>313.4</course>
+<desc>Speed 54.6 km/h Distance 10.20 km</desc>
+<time>2009-02-05T20:17:20.97</time>
+<name>448</name>
+</trkpt>
+<trkpt lat="48.139820" lon="-1.580503">
+<ele>86.5</ele>
+<speed>45.4</speed>
+<course>315.5</course>
+<desc>Speed 45.4 km/h Distance 10.21 km</desc>
+<time>2009-02-05T20:17:21.97</time>
+<name>449</name>
+</trkpt>
+<trkpt lat="48.139887" lon="-1.580602">
+<ele>86.5</ele>
+<speed>37.8</speed>
+<course>321.3</course>
+<desc>Speed 37.8 km/h Distance 10.22 km</desc>
+<time>2009-02-05T20:17:22.97</time>
+<name>450</name>
+</trkpt>
+<trkpt lat="48.139953" lon="-1.580682">
+<ele>86.5</ele>
+<speed>34.1</speed>
+<course>329.4</course>
+<desc>Speed 34.1 km/h Distance 10.23 km</desc>
+<time>2009-02-05T20:17:23.97</time>
+<name>451</name>
+</trkpt>
+<trkpt lat="48.140027" lon="-1.580747">
+<ele>86.5</ele>
+<speed>34.5</speed>
+<course>342.7</course>
+<desc>Speed 34.5 km/h Distance 10.24 km</desc>
+<time>2009-02-05T20:17:24.97</time>
+<name>452</name>
+</trkpt>
+<trkpt lat="48.140130" lon="-1.580795">
+<ele>86.5</ele>
+<speed>43.6</speed>
+<course>339.8</course>
+<desc>Speed 43.6 km/h Distance 10.26 km</desc>
+<time>2009-02-05T20:17:25.97</time>
+<name>453</name>
+</trkpt>
+<trkpt lat="48.140227" lon="-1.580848">
+<ele>86.0</ele>
+<speed>41.0</speed>
+<course>331.7</course>
+<desc>Speed 41.0 km/h Distance 10.27 km</desc>
+<time>2009-02-05T20:17:26.97</time>
+<name>454</name>
+</trkpt>
+<trkpt lat="48.140322" lon="-1.580925">
+<ele>86.0</ele>
+<speed>43.0</speed>
+<course>323.4</course>
+<desc>Speed 43.0 km/h Distance 10.28 km</desc>
+<time>2009-02-05T20:17:27.97</time>
+<name>455</name>
+</trkpt>
+<trkpt lat="48.140410" lon="-1.581023">
+<ele>86.0</ele>
+<speed>43.9</speed>
+<course>304.9</course>
+<desc>Speed 43.9 km/h Distance 10.29 km</desc>
+<time>2009-02-05T20:17:28.97</time>
+<name>456</name>
+</trkpt>
+<trkpt lat="48.140477" lon="-1.581167">
+<ele>86.0</ele>
+<speed>46.5</speed>
+<course>290.5</course>
+<desc>Speed 46.5 km/h Distance 10.30 km</desc>
+<time>2009-02-05T20:17:29.97</time>
+<name>457</name>
+</trkpt>
+<trkpt lat="48.140520" lon="-1.581340">
+<ele>86.5</ele>
+<speed>49.7</speed>
+<course>280.4</course>
+<desc>Speed 49.7 km/h Distance 10.32 km</desc>
+<time>2009-02-05T20:17:30.97</time>
+<name>458</name>
+</trkpt>
+<trkpt lat="48.140542" lon="-1.581517">
+<ele>87.0</ele>
+<speed>48.1</speed>
+<course>267.6</course>
+<desc>Speed 48.1 km/h Distance 10.33 km</desc>
+<time>2009-02-05T20:17:31.97</time>
+<name>459</name>
+</trkpt>
+<trkpt lat="48.140537" lon="-1.581698">
+<ele>86.5</ele>
+<speed>48.9</speed>
+<course>253.6</course>
+<desc>Speed 48.9 km/h Distance 10.34 km</desc>
+<time>2009-02-05T20:17:32.97</time>
+<name>460</name>
+</trkpt>
+<trkpt lat="48.140500" lon="-1.581885">
+<ele>87.0</ele>
+<speed>52.1</speed>
+<course>241.1</course>
+<desc>Speed 52.1 km/h Distance 10.36 km</desc>
+<time>2009-02-05T20:17:33.97</time>
+<name>461</name>
+</trkpt>
+<trkpt lat="48.140437" lon="-1.582057">
+<ele>87.0</ele>
+<speed>52.2</speed>
+<course>233.5</course>
+<desc>Speed 52.2 km/h Distance 10.37 km</desc>
+<time>2009-02-05T20:17:34.96</time>
+<name>462</name>
+</trkpt>
+<trkpt lat="48.140360" lon="-1.582212">
+<ele>87.5</ele>
+<speed>51.8</speed>
+<course>222.0</course>
+<desc>Speed 51.8 km/h Distance 10.39 km</desc>
+<time>2009-02-05T20:17:35.97</time>
+<name>463</name>
+</trkpt>
+<trkpt lat="48.140265" lon="-1.582340">
+<ele>88.5</ele>
+<speed>51.4</speed>
+<course>205.1</course>
+<desc>Speed 51.4 km/h Distance 10.40 km</desc>
+<time>2009-02-05T20:17:36.96</time>
+<name>464</name>
+</trkpt>
+<trkpt lat="48.140153" lon="-1.582418">
+<ele>87.5</ele>
+<speed>50.3</speed>
+<course>191.1</course>
+<desc>Speed 50.3 km/h Distance 10.42 km</desc>
+<time>2009-02-05T20:17:37.96</time>
+<name>465</name>
+</trkpt>
+<trkpt lat="48.140028" lon="-1.582455">
+<ele>87.0</ele>
+<speed>50.9</speed>
+<course>179.4</course>
+<desc>Speed 50.9 km/h Distance 10.43 km</desc>
+<time>2009-02-05T20:17:38.97</time>
+<name>466</name>
+</trkpt>
+<trkpt lat="48.139905" lon="-1.582453">
+<ele>85.0</ele>
+<speed>49.5</speed>
+<course>178.9</course>
+<desc>Speed 49.5 km/h Distance 10.44 km</desc>
+<time>2009-02-05T20:17:39.96</time>
+<name>467</name>
+</trkpt>
+<trkpt lat="48.139795" lon="-1.582450">
+<ele>85.5</ele>
+<speed>44.5</speed>
+<course>189.5</course>
+<desc>Speed 44.5 km/h Distance 10.46 km</desc>
+<time>2009-02-05T20:17:40.96</time>
+<name>468</name>
+</trkpt>
+<trkpt lat="48.139695" lon="-1.582475">
+<ele>85.5</ele>
+<speed>41.2</speed>
+<course>210.6</course>
+<desc>Speed 41.2 km/h Distance 10.47 km</desc>
+<time>2009-02-05T20:17:41.97</time>
+<name>469</name>
+</trkpt>
+<trkpt lat="48.139607" lon="-1.582553">
+<ele>86.5</ele>
+<speed>41.4</speed>
+<course>225.2</course>
+<desc>Speed 41.4 km/h Distance 10.48 km</desc>
+<time>2009-02-05T20:17:42.96</time>
+<name>470</name>
+</trkpt>
+<trkpt lat="48.139528" lon="-1.582672">
+<ele>88.0</ele>
+<speed>44.7</speed>
+<course>240.4</course>
+<desc>Speed 44.7 km/h Distance 10.49 km</desc>
+<time>2009-02-05T20:17:43.96</time>
+<name>471</name>
+</trkpt>
+<trkpt lat="48.139468" lon="-1.582830">
+<ele>89.5</ele>
+<speed>49.0</speed>
+<course>253.0</course>
+<desc>Speed 49.0 km/h Distance 10.50 km</desc>
+<time>2009-02-05T20:17:44.96</time>
+<name>472</name>
+</trkpt>
+<trkpt lat="48.139432" lon="-1.583010">
+<ele>90.0</ele>
+<speed>50.8</speed>
+<course>265.9</course>
+<desc>Speed 50.8 km/h Distance 10.52 km</desc>
+<time>2009-02-05T20:17:45.96</time>
+<name>473</name>
+</trkpt>
+<trkpt lat="48.139422" lon="-1.583217">
+<ele>91.0</ele>
+<speed>54.7</speed>
+<course>268.7</course>
+<desc>Speed 54.7 km/h Distance 10.53 km</desc>
+<time>2009-02-05T20:17:46.96</time>
+<name>474</name>
+</trkpt>
+<trkpt lat="48.139418" lon="-1.583437">
+<ele>92.0</ele>
+<speed>58.6</speed>
+<course>269.4</course>
+<desc>Speed 58.6 km/h Distance 10.55 km</desc>
+<time>2009-02-05T20:17:47.96</time>
+<name>475</name>
+</trkpt>
+<trkpt lat="48.139417" lon="-1.583668">
+<ele>92.5</ele>
+<speed>61.4</speed>
+<course>267.5</course>
+<desc>Speed 61.4 km/h Distance 10.57 km</desc>
+<time>2009-02-05T20:17:48.96</time>
+<name>476</name>
+</trkpt>
+<trkpt lat="48.139410" lon="-1.583893">
+<ele>93.0</ele>
+<speed>60.3</speed>
+<course>263.8</course>
+<desc>Speed 60.3 km/h Distance 10.58 km</desc>
+<time>2009-02-05T20:17:49.96</time>
+<name>477</name>
+</trkpt>
+<trkpt lat="48.139393" lon="-1.584123">
+<ele>93.5</ele>
+<speed>61.5</speed>
+<course>259.2</course>
+<desc>Speed 61.5 km/h Distance 10.60 km</desc>
+<time>2009-02-05T20:17:50.97</time>
+<name>478</name>
+</trkpt>
+<trkpt lat="48.139363" lon="-1.584360">
+<ele>94.0</ele>
+<speed>64.3</speed>
+<course>254.9</course>
+<desc>Speed 64.3 km/h Distance 10.62 km</desc>
+<time>2009-02-05T20:17:51.96</time>
+<name>479</name>
+</trkpt>
+<trkpt lat="48.139320" lon="-1.584600">
+<ele>94.5</ele>
+<speed>66.4</speed>
+<course>250.1</course>
+<desc>Speed 66.4 km/h Distance 10.64 km</desc>
+<time>2009-02-05T20:17:52.96</time>
+<name>480</name>
+</trkpt>
+<trkpt lat="48.139262" lon="-1.584842">
+<ele>94.5</ele>
+<speed>68.8</speed>
+<course>246.3</course>
+<desc>Speed 68.8 km/h Distance 10.66 km</desc>
+<time>2009-02-05T20:17:53.96</time>
+<name>481</name>
+</trkpt>
+<trkpt lat="48.139190" lon="-1.585087">
+<ele>95.0</ele>
+<speed>71.6</speed>
+<course>241.6</course>
+<desc>Speed 71.6 km/h Distance 10.68 km</desc>
+<time>2009-02-05T20:17:54.96</time>
+<name>482</name>
+</trkpt>
+<trkpt lat="48.139102" lon="-1.585332">
+<ele>95.0</ele>
+<speed>74.3</speed>
+<course>239.6</course>
+<desc>Speed 74.3 km/h Distance 10.70 km</desc>
+<time>2009-02-05T20:17:55.96</time>
+<name>483</name>
+</trkpt>
+<trkpt lat="48.139005" lon="-1.585578">
+<ele>95.0</ele>
+<speed>77.1</speed>
+<course>237.7</course>
+<desc>Speed 77.1 km/h Distance 10.72 km</desc>
+<time>2009-02-05T20:17:56.96</time>
+<name>484</name>
+</trkpt>
+<trkpt lat="48.138898" lon="-1.585832">
+<ele>95.0</ele>
+<speed>80.0</speed>
+<course>235.9</course>
+<desc>Speed 80.0 km/h Distance 10.74 km</desc>
+<time>2009-02-05T20:17:57.95</time>
+<name>485</name>
+</trkpt>
+<trkpt lat="48.138783" lon="-1.586087">
+<ele>94.5</ele>
+<speed>82.7</speed>
+<course>234.1</course>
+<desc>Speed 82.7 km/h Distance 10.76 km</desc>
+<time>2009-02-05T20:17:58.95</time>
+<name>486</name>
+</trkpt>
+<trkpt lat="48.138658" lon="-1.586345">
+<ele>94.5</ele>
+<speed>85.4</speed>
+<course>232.6</course>
+<desc>Speed 85.4 km/h Distance 10.79 km</desc>
+<time>2009-02-05T20:17:59.95</time>
+<name>487</name>
+</trkpt>
+<trkpt lat="48.138528" lon="-1.586600">
+<ele>94.0</ele>
+<speed>85.8</speed>
+<course>230.3</course>
+<desc>Speed 85.8 km/h Distance 10.81 km</desc>
+<time>2009-02-05T20:18:00.97</time>
+<name>488</name>
+</trkpt>
+<trkpt lat="48.138392" lon="-1.586847">
+<ele>93.5</ele>
+<speed>86.0</speed>
+<course>229.1</course>
+<desc>Speed 86.0 km/h Distance 10.84 km</desc>
+<time>2009-02-05T20:18:01.95</time>
+<name>489</name>
+</trkpt>
+<trkpt lat="48.138248" lon="-1.587095">
+<ele>93.0</ele>
+<speed>87.8</speed>
+<course>228.9</course>
+<desc>Speed 87.8 km/h Distance 10.86 km</desc>
+<time>2009-02-05T20:18:02.96</time>
+<name>490</name>
+</trkpt>
+<trkpt lat="48.138102" lon="-1.587347">
+<ele>92.5</ele>
+<speed>89.7</speed>
+<course>228.6</course>
+<desc>Speed 89.7 km/h Distance 10.88 km</desc>
+<time>2009-02-05T20:18:03.95</time>
+<name>491</name>
+</trkpt>
+<trkpt lat="48.137952" lon="-1.587602">
+<ele>92.5</ele>
+<speed>91.2</speed>
+<course>228.3</course>
+<desc>Speed 91.2 km/h Distance 10.91 km</desc>
+<time>2009-02-05T20:18:04.95</time>
+<name>492</name>
+</trkpt>
+<trkpt lat="48.137798" lon="-1.587860">
+<ele>92.5</ele>
+<speed>92.2</speed>
+<course>228.3</course>
+<desc>Speed 92.2 km/h Distance 10.94 km</desc>
+<time>2009-02-05T20:18:05.95</time>
+<name>493</name>
+</trkpt>
+<trkpt lat="48.137645" lon="-1.588118">
+<ele>93.0</ele>
+<speed>92.8</speed>
+<course>228.5</course>
+<desc>Speed 92.8 km/h Distance 10.96 km</desc>
+<time>2009-02-05T20:18:06.95</time>
+<name>494</name>
+</trkpt>
+<trkpt lat="48.137492" lon="-1.588378">
+<ele>93.5</ele>
+<speed>93.2</speed>
+<course>228.2</course>
+<desc>Speed 93.2 km/h Distance 10.99 km</desc>
+<time>2009-02-05T20:18:07.95</time>
+<name>495</name>
+</trkpt>
+<trkpt lat="48.137337" lon="-1.588638">
+<ele>94.5</ele>
+<speed>93.4</speed>
+<course>228.7</course>
+<desc>Speed 93.4 km/h Distance 11.01 km</desc>
+<time>2009-02-05T20:18:08.95</time>
+<name>496</name>
+</trkpt>
+<trkpt lat="48.137183" lon="-1.588900">
+<ele>95.0</ele>
+<speed>93.3</speed>
+<course>228.5</course>
+<desc>Speed 93.3 km/h Distance 11.04 km</desc>
+<time>2009-02-05T20:18:09.95</time>
+<name>497</name>
+</trkpt>
+<trkpt lat="48.137030" lon="-1.589160">
+<ele>96.0</ele>
+<speed>93.3</speed>
+<course>228.5</course>
+<desc>Speed 93.3 km/h Distance 11.06 km</desc>
+<time>2009-02-05T20:18:10.95</time>
+<name>498</name>
+</trkpt>
+<trkpt lat="48.136877" lon="-1.589420">
+<ele>97.0</ele>
+<speed>93.0</speed>
+<course>228.5</course>
+<desc>Speed 93.0 km/h Distance 11.09 km</desc>
+<time>2009-02-05T20:18:11.95</time>
+<name>499</name>
+</trkpt>
+<trkpt lat="48.136723" lon="-1.589680">
+<ele>97.5</ele>
+<speed>92.8</speed>
+<course>228.4</course>
+<desc>Speed 92.8 km/h Distance 11.12 km</desc>
+<time>2009-02-05T20:18:12.95</time>
+<name>500</name>
+</trkpt>
+<trkpt lat="48.136570" lon="-1.589938">
+<ele>98.5</ele>
+<speed>92.7</speed>
+<course>228.5</course>
+<desc>Speed 92.7 km/h Distance 11.14 km</desc>
+<time>2009-02-05T20:18:13.95</time>
+<name>501</name>
+</trkpt>
+<trkpt lat="48.136418" lon="-1.590195">
+<ele>99.0</ele>
+<speed>91.7</speed>
+<course>228.4</course>
+<desc>Speed 91.7 km/h Distance 11.17 km</desc>
+<time>2009-02-05T20:18:14.95</time>
+<name>502</name>
+</trkpt>
+<trkpt lat="48.136268" lon="-1.590448">
+<ele>100.0</ele>
+<speed>90.8</speed>
+<course>228.4</course>
+<desc>Speed 90.8 km/h Distance 11.19 km</desc>
+<time>2009-02-05T20:18:15.95</time>
+<name>503</name>
+</trkpt>
+<trkpt lat="48.136118" lon="-1.590702">
+<ele>101.0</ele>
+<speed>90.9</speed>
+<course>228.6</course>
+<desc>Speed 90.9 km/h Distance 11.22 km</desc>
+<time>2009-02-05T20:18:16.95</time>
+<name>504</name>
+</trkpt>
+<trkpt lat="48.135968" lon="-1.590957">
+<ele>101.5</ele>
+<speed>91.2</speed>
+<course>228.2</course>
+<desc>Speed 91.2 km/h Distance 11.24 km</desc>
+<time>2009-02-05T20:18:17.95</time>
+<name>505</name>
+</trkpt>
+<trkpt lat="48.135818" lon="-1.591208">
+<ele>102.5</ele>
+<speed>90.5</speed>
+<course>228.4</course>
+<desc>Speed 90.5 km/h Distance 11.27 km</desc>
+<time>2009-02-05T20:18:18.95</time>
+<name>506</name>
+</trkpt>
+<trkpt lat="48.135670" lon="-1.591458">
+<ele>103.5</ele>
+<speed>89.6</speed>
+<course>228.8</course>
+<desc>Speed 89.6 km/h Distance 11.29 km</desc>
+<time>2009-02-05T20:18:19.95</time>
+<name>507</name>
+</trkpt>
+<trkpt lat="48.135525" lon="-1.591707">
+<ele>104.0</ele>
+<speed>88.7</speed>
+<course>228.6</course>
+<desc>Speed 88.7 km/h Distance 11.32 km</desc>
+<time>2009-02-05T20:18:20.95</time>
+<name>508</name>
+</trkpt>
+<trkpt lat="48.135382" lon="-1.591950">
+<ele>105.0</ele>
+<speed>87.2</speed>
+<course>228.4</course>
+<desc>Speed 87.2 km/h Distance 11.34 km</desc>
+<time>2009-02-05T20:18:21.95</time>
+<name>509</name>
+</trkpt>
+<trkpt lat="48.135238" lon="-1.592192">
+<ele>106.0</ele>
+<speed>86.7</speed>
+<course>228.7</course>
+<desc>Speed 86.7 km/h Distance 11.37 km</desc>
+<time>2009-02-05T20:18:22.95</time>
+<name>510</name>
+</trkpt>
+<trkpt lat="48.135097" lon="-1.592433">
+<ele>106.5</ele>
+<speed>86.4</speed>
+<course>228.4</course>
+<desc>Speed 86.4 km/h Distance 11.39 km</desc>
+<time>2009-02-05T20:18:23.94</time>
+<name>511</name>
+</trkpt>
+<trkpt lat="48.134953" lon="-1.592675">
+<ele>107.5</ele>
+<speed>86.4</speed>
+<course>228.2</course>
+<desc>Speed 86.4 km/h Distance 11.41 km</desc>
+<time>2009-02-05T20:18:24.95</time>
+<name>512</name>
+</trkpt>
+<trkpt lat="48.134810" lon="-1.592915">
+<ele>108.5</ele>
+<speed>86.5</speed>
+<course>228.7</course>
+<desc>Speed 86.5 km/h Distance 11.44 km</desc>
+<time>2009-02-05T20:18:25.94</time>
+<name>513</name>
+</trkpt>
+<trkpt lat="48.134668" lon="-1.593157">
+<ele>109.5</ele>
+<speed>86.4</speed>
+<course>228.2</course>
+<desc>Speed 86.4 km/h Distance 11.46 km</desc>
+<time>2009-02-05T20:18:26.95</time>
+<name>514</name>
+</trkpt>
+<trkpt lat="48.134525" lon="-1.593397">
+<ele>110.5</ele>
+<speed>86.5</speed>
+<course>227.8</course>
+<desc>Speed 86.5 km/h Distance 11.49 km</desc>
+<time>2009-02-05T20:18:27.94</time>
+<name>515</name>
+</trkpt>
+<trkpt lat="48.134380" lon="-1.593637">
+<ele>111.5</ele>
+<speed>86.5</speed>
+<course>226.4</course>
+<desc>Speed 86.5 km/h Distance 11.51 km</desc>
+<time>2009-02-05T20:18:28.94</time>
+<name>516</name>
+</trkpt>
+<trkpt lat="48.134232" lon="-1.593870">
+<ele>112.5</ele>
+<speed>86.3</speed>
+<course>225.7</course>
+<desc>Speed 86.3 km/h Distance 11.53 km</desc>
+<time>2009-02-05T20:18:29.94</time>
+<name>517</name>
+</trkpt>
+<trkpt lat="48.134082" lon="-1.594100">
+<ele>113.5</ele>
+<speed>86.1</speed>
+<course>225.2</course>
+<desc>Speed 86.1 km/h Distance 11.56 km</desc>
+<time>2009-02-05T20:18:30.95</time>
+<name>518</name>
+</trkpt>
+<trkpt lat="48.133932" lon="-1.594327">
+<ele>114.5</ele>
+<speed>85.4</speed>
+<course>225.7</course>
+<desc>Speed 85.4 km/h Distance 11.58 km</desc>
+<time>2009-02-05T20:18:31.94</time>
+<name>519</name>
+</trkpt>
+<trkpt lat="48.133785" lon="-1.594552">
+<ele>114.5</ele>
+<speed>84.0</speed>
+<course>226.0</course>
+<desc>Speed 84.0 km/h Distance 11.60 km</desc>
+<time>2009-02-05T20:18:32.95</time>
+<name>520</name>
+</trkpt>
+<trkpt lat="48.133643" lon="-1.594772">
+<ele>114.5</ele>
+<speed>82.1</speed>
+<course>225.7</course>
+<desc>Speed 82.1 km/h Distance 11.63 km</desc>
+<time>2009-02-05T20:18:33.94</time>
+<name>521</name>
+</trkpt>
+<trkpt lat="48.133503" lon="-1.594987">
+<ele>114.0</ele>
+<speed>80.7</speed>
+<course>225.9</course>
+<desc>Speed 80.7 km/h Distance 11.65 km</desc>
+<time>2009-02-05T20:18:34.95</time>
+<name>522</name>
+</trkpt>
+<trkpt lat="48.133367" lon="-1.595198">
+<ele>114.0</ele>
+<speed>78.7</speed>
+<course>225.3</course>
+<desc>Speed 78.7 km/h Distance 11.67 km</desc>
+<time>2009-02-05T20:18:35.94</time>
+<name>523</name>
+</trkpt>
+<trkpt lat="48.133233" lon="-1.595400">
+<ele>114.0</ele>
+<speed>75.9</speed>
+<course>224.8</course>
+<desc>Speed 75.9 km/h Distance 11.69 km</desc>
+<time>2009-02-05T20:18:36.94</time>
+<name>524</name>
+</trkpt>
+<trkpt lat="48.133103" lon="-1.595593">
+<ele>114.0</ele>
+<speed>73.4</speed>
+<course>221.5</course>
+<desc>Speed 73.4 km/h Distance 11.71 km</desc>
+<time>2009-02-05T20:18:37.94</time>
+<name>525</name>
+</trkpt>
+<trkpt lat="48.132970" lon="-1.595770">
+<ele>113.5</ele>
+<speed>71.2</speed>
+<course>218.6</course>
+<desc>Speed 71.2 km/h Distance 11.73 km</desc>
+<time>2009-02-05T20:18:38.94</time>
+<name>526</name>
+</trkpt>
+<trkpt lat="48.132835" lon="-1.595932">
+<ele>113.0</ele>
+<speed>69.4</speed>
+<course>215.7</course>
+<desc>Speed 69.4 km/h Distance 11.75 km</desc>
+<time>2009-02-05T20:18:39.94</time>
+<name>527</name>
+</trkpt>
+<trkpt lat="48.132703" lon="-1.596073">
+<ele>112.5</ele>
+<speed>65.0</speed>
+<course>214.1</course>
+<desc>Speed 65.0 km/h Distance 11.77 km</desc>
+<time>2009-02-05T20:18:40.94</time>
+<name>528</name>
+</trkpt>
+<trkpt lat="48.132582" lon="-1.596197">
+<ele>112.0</ele>
+<speed>59.0</speed>
+<course>212.1</course>
+<desc>Speed 59.0 km/h Distance 11.79 km</desc>
+<time>2009-02-05T20:18:41.94</time>
+<name>529</name>
+</trkpt>
+<trkpt lat="48.132468" lon="-1.596303">
+<ele>111.5</ele>
+<speed>53.8</speed>
+<course>211.6</course>
+<desc>Speed 53.8 km/h Distance 11.80 km</desc>
+<time>2009-02-05T20:18:42.94</time>
+<name>530</name>
+</trkpt>
+<trkpt lat="48.132360" lon="-1.596403">
+<ele>111.0</ele>
+<speed>51.0</speed>
+<course>211.9</course>
+<desc>Speed 51.0 km/h Distance 11.81 km</desc>
+<time>2009-02-05T20:18:43.94</time>
+<name>531</name>
+</trkpt>
+<trkpt lat="48.132263" lon="-1.596493">
+<ele>110.5</ele>
+<speed>46.2</speed>
+<course>214.2</course>
+<desc>Speed 46.2 km/h Distance 11.83 km</desc>
+<time>2009-02-05T20:18:44.94</time>
+<name>532</name>
+</trkpt>
+<trkpt lat="48.132180" lon="-1.596578">
+<ele>110.5</ele>
+<speed>40.5</speed>
+<course>219.7</course>
+<desc>Speed 40.5 km/h Distance 11.84 km</desc>
+<time>2009-02-05T20:18:45.94</time>
+<name>533</name>
+</trkpt>
+<trkpt lat="48.132112" lon="-1.596663">
+<ele>110.0</ele>
+<speed>36.2</speed>
+<course>232.3</course>
+<desc>Speed 36.2 km/h Distance 11.85 km</desc>
+<time>2009-02-05T20:18:46.94</time>
+<name>534</name>
+</trkpt>
+<trkpt lat="48.132060" lon="-1.596763">
+<ele>110.0</ele>
+<speed>33.8</speed>
+<course>245.2</course>
+<desc>Speed 33.8 km/h Distance 11.86 km</desc>
+<time>2009-02-05T20:18:47.93</time>
+<name>535</name>
+</trkpt>
+<trkpt lat="48.132027" lon="-1.596872">
+<ele>110.0</ele>
+<speed>32.5</speed>
+<course>244.2</course>
+<desc>Speed 32.5 km/h Distance 11.87 km</desc>
+<time>2009-02-05T20:18:48.94</time>
+<name>536</name>
+</trkpt>
+<trkpt lat="48.131993" lon="-1.596975">
+<ele>109.5</ele>
+<speed>30.3</speed>
+<course>233.7</course>
+<desc>Speed 30.3 km/h Distance 11.88 km</desc>
+<time>2009-02-05T20:18:49.94</time>
+<name>537</name>
+</trkpt>
+<trkpt lat="48.131950" lon="-1.597063">
+<ele>109.5</ele>
+<speed>29.6</speed>
+<course>224.8</course>
+<desc>Speed 29.6 km/h Distance 11.88 km</desc>
+<time>2009-02-05T20:18:50.93</time>
+<name>538</name>
+</trkpt>
+<trkpt lat="48.131892" lon="-1.597150">
+<ele>109.0</ele>
+<speed>32.7</speed>
+<course>231.3</course>
+<desc>Speed 32.7 km/h Distance 11.89 km</desc>
+<time>2009-02-05T20:18:51.93</time>
+<name>539</name>
+</trkpt>
+<trkpt lat="48.131827" lon="-1.597272">
+<ele>108.0</ele>
+<speed>42.0</speed>
+<course>250.0</course>
+<desc>Speed 42.0 km/h Distance 11.90 km</desc>
+<time>2009-02-05T20:18:52.94</time>
+<name>540</name>
+</trkpt>
+<trkpt lat="48.131787" lon="-1.597437">
+<ele>109.0</ele>
+<speed>47.1</speed>
+<course>250.5</course>
+<desc>Speed 47.1 km/h Distance 11.92 km</desc>
+<time>2009-02-05T20:18:53.94</time>
+<name>541</name>
+</trkpt>
+<trkpt lat="48.131745" lon="-1.597613">
+<ele>108.0</ele>
+<speed>50.1</speed>
+<course>252.0</course>
+<desc>Speed 50.1 km/h Distance 11.93 km</desc>
+<time>2009-02-05T20:18:54.93</time>
+<name>542</name>
+</trkpt>
+<trkpt lat="48.131702" lon="-1.597813">
+<ele>107.5</ele>
+<speed>56.5</speed>
+<course>252.1</course>
+<desc>Speed 56.5 km/h Distance 11.95 km</desc>
+<time>2009-02-05T20:18:55.93</time>
+<name>543</name>
+</trkpt>
+<trkpt lat="48.131657" lon="-1.598022">
+<ele>107.5</ele>
+<speed>58.9</speed>
+<course>251.0</course>
+<desc>Speed 58.9 km/h Distance 11.96 km</desc>
+<time>2009-02-05T20:18:56.93</time>
+<name>544</name>
+</trkpt>
+<trkpt lat="48.131608" lon="-1.598232">
+<ele>107.0</ele>
+<speed>59.5</speed>
+<course>250.5</course>
+<desc>Speed 59.5 km/h Distance 11.98 km</desc>
+<time>2009-02-05T20:18:57.93</time>
+<name>545</name>
+</trkpt>
+<trkpt lat="48.131557" lon="-1.598450">
+<ele>106.5</ele>
+<speed>62.5</speed>
+<course>248.0</course>
+<desc>Speed 62.5 km/h Distance 12.00 km</desc>
+<time>2009-02-05T20:18:58.93</time>
+<name>546</name>
+</trkpt>
+<trkpt lat="48.131495" lon="-1.598678">
+<ele>106.0</ele>
+<speed>66.4</speed>
+<course>245.4</course>
+<desc>Speed 66.4 km/h Distance 12.02 km</desc>
+<time>2009-02-05T20:18:59.93</time>
+<name>547</name>
+</trkpt>
+<trkpt lat="48.131422" lon="-1.598918">
+<ele>106.0</ele>
+<speed>70.9</speed>
+<course>240.6</course>
+<desc>Speed 70.9 km/h Distance 12.03 km</desc>
+<time>2009-02-05T20:19:00.94</time>
+<name>548</name>
+</trkpt>
+<trkpt lat="48.131328" lon="-1.599167">
+<ele>105.0</ele>
+<speed>76.3</speed>
+<course>237.8</course>
+<desc>Speed 76.3 km/h Distance 12.06 km</desc>
+<time>2009-02-05T20:19:01.93</time>
+<name>549</name>
+</trkpt>
+<trkpt lat="48.131222" lon="-1.599420">
+<ele>104.0</ele>
+<speed>80.0</speed>
+<course>235.2</course>
+<desc>Speed 80.0 km/h Distance 12.08 km</desc>
+<time>2009-02-05T20:19:02.93</time>
+<name>550</name>
+</trkpt>
+<trkpt lat="48.131107" lon="-1.599668">
+<ele>103.0</ele>
+<speed>80.7</speed>
+<course>233.9</course>
+<desc>Speed 80.7 km/h Distance 12.10 km</desc>
+<time>2009-02-05T20:19:03.93</time>
+<name>551</name>
+</trkpt>
+<trkpt lat="48.130983" lon="-1.599922">
+<ele>102.0</ele>
+<speed>83.6</speed>
+<course>234.4</course>
+<desc>Speed 83.6 km/h Distance 12.12 km</desc>
+<time>2009-02-05T20:19:04.93</time>
+<name>552</name>
+</trkpt>
+<trkpt lat="48.130857" lon="-1.600187">
+<ele>101.0</ele>
+<speed>87.2</speed>
+<course>235.2</course>
+<desc>Speed 87.2 km/h Distance 12.15 km</desc>
+<time>2009-02-05T20:19:05.92</time>
+<name>553</name>
+</trkpt>
+<trkpt lat="48.130728" lon="-1.600463">
+<ele>100.0</ele>
+<speed>89.8</speed>
+<course>235.8</course>
+<desc>Speed 89.8 km/h Distance 12.17 km</desc>
+<time>2009-02-05T20:19:06.92</time>
+<name>554</name>
+</trkpt>
+<trkpt lat="48.130600" lon="-1.600747">
+<ele>99.0</ele>
+<speed>91.5</speed>
+<course>236.6</course>
+<desc>Speed 91.5 km/h Distance 12.20 km</desc>
+<time>2009-02-05T20:19:07.93</time>
+<name>555</name>
+</trkpt>
+<trkpt lat="48.130473" lon="-1.601035">
+<ele>98.0</ele>
+<speed>92.7</speed>
+<course>237.1</course>
+<desc>Speed 92.7 km/h Distance 12.22 km</desc>
+<time>2009-02-05T20:19:08.92</time>
+<name>556</name>
+</trkpt>
+<trkpt lat="48.130347" lon="-1.601328">
+<ele>97.0</ele>
+<speed>93.2</speed>
+<course>238.2</course>
+<desc>Speed 93.2 km/h Distance 12.25 km</desc>
+<time>2009-02-05T20:19:09.92</time>
+<name>557</name>
+</trkpt>
+<trkpt lat="48.130223" lon="-1.601627">
+<ele>96.0</ele>
+<speed>93.4</speed>
+<course>238.9</course>
+<desc>Speed 93.4 km/h Distance 12.28 km</desc>
+<time>2009-02-05T20:19:10.93</time>
+<name>558</name>
+</trkpt>
+<trkpt lat="48.130103" lon="-1.601925">
+<ele>95.0</ele>
+<speed>93.7</speed>
+<course>239.3</course>
+<desc>Speed 93.7 km/h Distance 12.30 km</desc>
+<time>2009-02-05T20:19:11.93</time>
+<name>559</name>
+</trkpt>
+<trkpt lat="48.129983" lon="-1.602228">
+<ele>94.0</ele>
+<speed>94.1</speed>
+<course>239.6</course>
+<desc>Speed 94.1 km/h Distance 12.33 km</desc>
+<time>2009-02-05T20:19:12.92</time>
+<name>560</name>
+</trkpt>
+<trkpt lat="48.129863" lon="-1.602535">
+<ele>93.0</ele>
+<speed>94.5</speed>
+<course>240.9</course>
+<desc>Speed 94.5 km/h Distance 12.35 km</desc>
+<time>2009-02-05T20:19:13.93</time>
+<name>561</name>
+</trkpt>
+<trkpt lat="48.129748" lon="-1.602845">
+<ele>92.0</ele>
+<speed>95.0</speed>
+<course>241.5</course>
+<desc>Speed 95.0 km/h Distance 12.38 km</desc>
+<time>2009-02-05T20:19:14.92</time>
+<name>562</name>
+</trkpt>
+<trkpt lat="48.129635" lon="-1.603158">
+<ele>91.5</ele>
+<speed>95.3</speed>
+<course>241.9</course>
+<desc>Speed 95.3 km/h Distance 12.41 km</desc>
+<time>2009-02-05T20:19:15.94</time>
+<name>563</name>
+</trkpt>
+<trkpt lat="48.129523" lon="-1.603472">
+<ele>91.0</ele>
+<speed>94.9</speed>
+<course>243.5</course>
+<desc>Speed 94.9 km/h Distance 12.43 km</desc>
+<time>2009-02-05T20:19:16.92</time>
+<name>564</name>
+</trkpt>
+<trkpt lat="48.129418" lon="-1.603787">
+<ele>90.5</ele>
+<speed>94.5</speed>
+<course>243.9</course>
+<desc>Speed 94.5 km/h Distance 12.46 km</desc>
+<time>2009-02-05T20:19:17.92</time>
+<name>565</name>
+</trkpt>
+<trkpt lat="48.129315" lon="-1.604103">
+<ele>90.5</ele>
+<speed>94.0</speed>
+<course>244.7</course>
+<desc>Speed 94.0 km/h Distance 12.49 km</desc>
+<time>2009-02-05T20:19:18.92</time>
+<name>566</name>
+</trkpt>
+<trkpt lat="48.129215" lon="-1.604420">
+<ele>90.0</ele>
+<speed>93.5</speed>
+<course>245.9</course>
+<desc>Speed 93.5 km/h Distance 12.51 km</desc>
+<time>2009-02-05T20:19:19.92</time>
+<name>567</name>
+</trkpt>
+<trkpt lat="48.129120" lon="-1.604738">
+<ele>90.0</ele>
+<speed>93.0</speed>
+<course>246.7</course>
+<desc>Speed 93.0 km/h Distance 12.54 km</desc>
+<time>2009-02-05T20:19:20.92</time>
+<name>568</name>
+</trkpt>
+<trkpt lat="48.129028" lon="-1.605057">
+<ele>89.5</ele>
+<speed>92.7</speed>
+<course>247.0</course>
+<desc>Speed 92.7 km/h Distance 12.56 km</desc>
+<time>2009-02-05T20:19:21.92</time>
+<name>569</name>
+</trkpt>
+<trkpt lat="48.128938" lon="-1.605375">
+<ele>89.0</ele>
+<speed>92.5</speed>
+<course>247.5</course>
+<desc>Speed 92.5 km/h Distance 12.59 km</desc>
+<time>2009-02-05T20:19:22.92</time>
+<name>570</name>
+</trkpt>
+<trkpt lat="48.128850" lon="-1.605695">
+<ele>89.0</ele>
+<speed>92.9</speed>
+<course>247.7</course>
+<desc>Speed 92.9 km/h Distance 12.62 km</desc>
+<time>2009-02-05T20:19:23.92</time>
+<name>571</name>
+</trkpt>
+<trkpt lat="48.128762" lon="-1.606018">
+<ele>88.5</ele>
+<speed>93.1</speed>
+<course>249.0</course>
+<desc>Speed 93.1 km/h Distance 12.64 km</desc>
+<time>2009-02-05T20:19:24.92</time>
+<name>572</name>
+</trkpt>
+<trkpt lat="48.128678" lon="-1.606343">
+<ele>88.0</ele>
+<speed>93.5</speed>
+<course>250.0</course>
+<desc>Speed 93.5 km/h Distance 12.67 km</desc>
+<time>2009-02-05T20:19:25.92</time>
+<name>573</name>
+</trkpt>
+<trkpt lat="48.128598" lon="-1.606673">
+<ele>88.0</ele>
+<speed>93.8</speed>
+<course>250.5</course>
+<desc>Speed 93.8 km/h Distance 12.69 km</desc>
+<time>2009-02-05T20:19:26.92</time>
+<name>574</name>
+</trkpt>
+<trkpt lat="48.128520" lon="-1.607005">
+<ele>87.5</ele>
+<speed>94.1</speed>
+<course>251.4</course>
+<desc>Speed 94.1 km/h Distance 12.72 km</desc>
+<time>2009-02-05T20:19:27.92</time>
+<name>575</name>
+</trkpt>
+<trkpt lat="48.128445" lon="-1.607338">
+<ele>87.0</ele>
+<speed>94.4</speed>
+<course>252.3</course>
+<desc>Speed 94.4 km/h Distance 12.75 km</desc>
+<time>2009-02-05T20:19:28.92</time>
+<name>576</name>
+</trkpt>
+<trkpt lat="48.128373" lon="-1.607675">
+<ele>87.0</ele>
+<speed>94.5</speed>
+<course>252.8</course>
+<desc>Speed 94.5 km/h Distance 12.77 km</desc>
+<time>2009-02-05T20:19:29.92</time>
+<name>577</name>
+</trkpt>
+<trkpt lat="48.128303" lon="-1.608013">
+<ele>86.5</ele>
+<speed>94.8</speed>
+<course>252.8</course>
+<desc>Speed 94.8 km/h Distance 12.80 km</desc>
+<time>2009-02-05T20:19:30.92</time>
+<name>578</name>
+</trkpt>
+<trkpt lat="48.128233" lon="-1.608352">
+<ele>86.0</ele>
+<speed>94.9</speed>
+<course>252.9</course>
+<desc>Speed 94.9 km/h Distance 12.82 km</desc>
+<time>2009-02-05T20:19:31.92</time>
+<name>579</name>
+</trkpt>
+<trkpt lat="48.128163" lon="-1.608692">
+<ele>86.5</ele>
+<speed>94.9</speed>
+<course>253.1</course>
+<desc>Speed 94.9 km/h Distance 12.85 km</desc>
+<time>2009-02-05T20:19:32.92</time>
+<name>580</name>
+</trkpt>
+<trkpt lat="48.128095" lon="-1.609028">
+<ele>86.5</ele>
+<speed>94.6</speed>
+<course>252.7</course>
+<desc>Speed 94.6 km/h Distance 12.88 km</desc>
+<time>2009-02-05T20:19:33.91</time>
+<name>581</name>
+</trkpt>
+<trkpt lat="48.128025" lon="-1.609365">
+<ele>86.5</ele>
+<speed>94.1</speed>
+<course>252.8</course>
+<desc>Speed 94.1 km/h Distance 12.90 km</desc>
+<time>2009-02-05T20:19:34.91</time>
+<name>582</name>
+</trkpt>
+<trkpt lat="48.127957" lon="-1.609697">
+<ele>87.0</ele>
+<speed>93.4</speed>
+<course>252.5</course>
+<desc>Speed 93.4 km/h Distance 12.93 km</desc>
+<time>2009-02-05T20:19:35.91</time>
+<name>583</name>
+</trkpt>
+<trkpt lat="48.127887" lon="-1.610028">
+<ele>87.5</ele>
+<speed>93.0</speed>
+<course>252.6</course>
+<desc>Speed 93.0 km/h Distance 12.96 km</desc>
+<time>2009-02-05T20:19:36.91</time>
+<name>584</name>
+</trkpt>
+<trkpt lat="48.127818" lon="-1.610355">
+<ele>88.0</ele>
+<speed>92.0</speed>
+<course>253.1</course>
+<desc>Speed 92.0 km/h Distance 12.98 km</desc>
+<time>2009-02-05T20:19:37.91</time>
+<name>585</name>
+</trkpt>
+<trkpt lat="48.127753" lon="-1.610675">
+<ele>88.0</ele>
+<speed>89.5</speed>
+<course>252.5</course>
+<desc>Speed 89.5 km/h Distance 13.01 km</desc>
+<time>2009-02-05T20:19:38.92</time>
+<name>586</name>
+</trkpt>
+<trkpt lat="48.127688" lon="-1.610983">
+<ele>88.5</ele>
+<speed>86.5</speed>
+<course>252.9</course>
+<desc>Speed 86.5 km/h Distance 13.03 km</desc>
+<time>2009-02-05T20:19:39.92</time>
+<name>587</name>
+</trkpt>
+<trkpt lat="48.127627" lon="-1.611283">
+<ele>88.5</ele>
+<speed>84.0</speed>
+<course>252.9</course>
+<desc>Speed 84.0 km/h Distance 13.05 km</desc>
+<time>2009-02-05T20:19:40.92</time>
+<name>588</name>
+</trkpt>
+<trkpt lat="48.127567" lon="-1.611575">
+<ele>89.0</ele>
+<speed>81.7</speed>
+<course>252.7</course>
+<desc>Speed 81.7 km/h Distance 13.08 km</desc>
+<time>2009-02-05T20:19:41.91</time>
+<name>589</name>
+</trkpt>
+<trkpt lat="48.127508" lon="-1.611855">
+<ele>89.0</ele>
+<speed>78.5</speed>
+<course>253.1</course>
+<desc>Speed 78.5 km/h Distance 13.10 km</desc>
+<time>2009-02-05T20:19:42.91</time>
+<name>590</name>
+</trkpt>
+<trkpt lat="48.127455" lon="-1.612118">
+<ele>89.5</ele>
+<speed>73.9</speed>
+<course>253.7</course>
+<desc>Speed 73.9 km/h Distance 13.12 km</desc>
+<time>2009-02-05T20:19:43.91</time>
+<name>591</name>
+</trkpt>
+<trkpt lat="48.127412" lon="-1.612340">
+<ele>90.5</ele>
+<speed>61.8</speed>
+<course>254.4</course>
+<desc>Speed 61.8 km/h Distance 13.13 km</desc>
+<time>2009-02-05T20:19:44.91</time>
+<name>592</name>
+</trkpt>
+<trkpt lat="48.127377" lon="-1.612528">
+<ele>91.5</ele>
+<speed>52.4</speed>
+<course>255.6</course>
+<desc>Speed 52.4 km/h Distance 13.15 km</desc>
+<time>2009-02-05T20:19:45.91</time>
+<name>593</name>
+</trkpt>
+<trkpt lat="48.127348" lon="-1.612693">
+<ele>92.5</ele>
+<speed>45.9</speed>
+<course>252.6</course>
+<desc>Speed 45.9 km/h Distance 13.16 km</desc>
+<time>2009-02-05T20:19:46.91</time>
+<name>594</name>
+</trkpt>
+<trkpt lat="48.127318" lon="-1.612837">
+<ele>93.0</ele>
+<speed>40.4</speed>
+<course>252.3</course>
+<desc>Speed 40.4 km/h Distance 13.17 km</desc>
+<time>2009-02-05T20:19:47.92</time>
+<name>595</name>
+</trkpt>
+<trkpt lat="48.127292" lon="-1.612962">
+<ele>93.0</ele>
+<speed>35.4</speed>
+<course>256.0</course>
+<desc>Speed 35.4 km/h Distance 13.18 km</desc>
+<time>2009-02-05T20:19:48.91</time>
+<name>596</name>
+</trkpt>
+<trkpt lat="48.127272" lon="-1.613082">
+<ele>93.0</ele>
+<speed>33.2</speed>
+<course>267.5</course>
+<desc>Speed 33.2 km/h Distance 13.19 km</desc>
+<time>2009-02-05T20:19:49.91</time>
+<name>597</name>
+</trkpt>
+<trkpt lat="48.127268" lon="-1.613198">
+<ele>93.0</ele>
+<speed>31.7</speed>
+<course>284.0</course>
+<desc>Speed 31.7 km/h Distance 13.20 km</desc>
+<time>2009-02-05T20:19:50.91</time>
+<name>598</name>
+</trkpt>
+<trkpt lat="48.127288" lon="-1.613318">
+<ele>93.0</ele>
+<speed>32.9</speed>
+<course>283.8</course>
+<desc>Speed 32.9 km/h Distance 13.21 km</desc>
+<time>2009-02-05T20:19:51.91</time>
+<name>599</name>
+</trkpt>
+<trkpt lat="48.127308" lon="-1.613440">
+<ele>93.5</ele>
+<speed>33.7</speed>
+<course>263.3</course>
+<desc>Speed 33.7 km/h Distance 13.22 km</desc>
+<time>2009-02-05T20:19:52.92</time>
+<name>600</name>
+</trkpt>
+<trkpt lat="48.127298" lon="-1.613568">
+<ele>93.5</ele>
+<speed>34.3</speed>
+<course>236.1</course>
+<desc>Speed 34.3 km/h Distance 13.23 km</desc>
+<time>2009-02-05T20:19:53.91</time>
+<name>601</name>
+</trkpt>
+<trkpt lat="48.127247" lon="-1.613683">
+<ele>92.5</ele>
+<speed>37.3</speed>
+<course>225.5</course>
+<desc>Speed 37.3 km/h Distance 13.24 km</desc>
+<time>2009-02-05T20:19:54.91</time>
+<name>602</name>
+</trkpt>
+<trkpt lat="48.127183" lon="-1.613780">
+<ele>91.0</ele>
+<speed>36.5</speed>
+<course>224.3</course>
+<desc>Speed 36.5 km/h Distance 13.25 km</desc>
+<time>2009-02-05T20:19:55.91</time>
+<name>603</name>
+</trkpt>
+<trkpt lat="48.127118" lon="-1.613875">
+<ele>91.0</ele>
+<speed>36.5</speed>
+<course>242.7</course>
+<desc>Speed 36.5 km/h Distance 13.26 km</desc>
+<time>2009-02-05T20:19:56.91</time>
+<name>604</name>
+</trkpt>
+<trkpt lat="48.127070" lon="-1.614015">
+<ele>93.0</ele>
+<speed>42.4</speed>
+<course>253.8</course>
+<desc>Speed 42.4 km/h Distance 13.27 km</desc>
+<time>2009-02-05T20:19:57.91</time>
+<name>605</name>
+</trkpt>
+<trkpt lat="48.127038" lon="-1.614178">
+<ele>94.0</ele>
+<speed>45.1</speed>
+<course>255.7</course>
+<desc>Speed 45.1 km/h Distance 13.28 km</desc>
+<time>2009-02-05T20:19:58.91</time>
+<name>606</name>
+</trkpt>
+<trkpt lat="48.127008" lon="-1.614355">
+<ele>94.0</ele>
+<speed>48.7</speed>
+<course>257.0</course>
+<desc>Speed 48.7 km/h Distance 13.30 km</desc>
+<time>2009-02-05T20:19:59.91</time>
+<name>607</name>
+</trkpt>
+<trkpt lat="48.126978" lon="-1.614550">
+<ele>94.5</ele>
+<speed>53.2</speed>
+<course>257.2</course>
+<desc>Speed 53.2 km/h Distance 13.31 km</desc>
+<time>2009-02-05T20:20:00.92</time>
+<name>608</name>
+</trkpt>
+<trkpt lat="48.126947" lon="-1.614758">
+<ele>94.5</ele>
+<speed>57.1</speed>
+<course>258.5</course>
+<desc>Speed 57.1 km/h Distance 13.33 km</desc>
+<time>2009-02-05T20:20:01.91</time>
+<name>609</name>
+</trkpt>
+<trkpt lat="48.126917" lon="-1.614978">
+<ele>94.5</ele>
+<speed>60.0</speed>
+<course>259.6</course>
+<desc>Speed 60.0 km/h Distance 13.34 km</desc>
+<time>2009-02-05T20:20:02.90</time>
+<name>610</name>
+</trkpt>
+<trkpt lat="48.126890" lon="-1.615197">
+<ele>95.0</ele>
+<speed>59.7</speed>
+<course>260.7</course>
+<desc>Speed 59.7 km/h Distance 13.36 km</desc>
+<time>2009-02-05T20:20:03.90</time>
+<name>611</name>
+</trkpt>
+<trkpt lat="48.126865" lon="-1.615425">
+<ele>95.5</ele>
+<speed>61.9</speed>
+<course>261.1</course>
+<desc>Speed 61.9 km/h Distance 13.38 km</desc>
+<time>2009-02-05T20:20:04.91</time>
+<name>612</name>
+</trkpt>
+<trkpt lat="48.126840" lon="-1.615665">
+<ele>96.0</ele>
+<speed>64.6</speed>
+<course>263.1</course>
+<desc>Speed 64.6 km/h Distance 13.40 km</desc>
+<time>2009-02-05T20:20:05.91</time>
+<name>613</name>
+</trkpt>
+<trkpt lat="48.126820" lon="-1.615913">
+<ele>96.5</ele>
+<speed>67.0</speed>
+<course>263.9</course>
+<desc>Speed 67.0 km/h Distance 13.42 km</desc>
+<time>2009-02-05T20:20:06.91</time>
+<name>614</name>
+</trkpt>
+<trkpt lat="48.126802" lon="-1.616170">
+<ele>97.5</ele>
+<speed>69.1</speed>
+<course>265.2</course>
+<desc>Speed 69.1 km/h Distance 13.43 km</desc>
+<time>2009-02-05T20:20:07.91</time>
+<name>615</name>
+</trkpt>
+<trkpt lat="48.126787" lon="-1.616435">
+<ele>98.0</ele>
+<speed>71.1</speed>
+<course>265.8</course>
+<desc>Speed 71.1 km/h Distance 13.45 km</desc>
+<time>2009-02-05T20:20:08.91</time>
+<name>616</name>
+</trkpt>
+<trkpt lat="48.126773" lon="-1.616707">
+<ele>99.0</ele>
+<speed>72.9</speed>
+<course>267.4</course>
+<desc>Speed 72.9 km/h Distance 13.47 km</desc>
+<time>2009-02-05T20:20:09.90</time>
+<name>617</name>
+</trkpt>
+<trkpt lat="48.126765" lon="-1.616983">
+<ele>99.5</ele>
+<speed>74.6</speed>
+<course>268.0</course>
+<desc>Speed 74.6 km/h Distance 13.49 km</desc>
+<time>2009-02-05T20:20:10.91</time>
+<name>618</name>
+</trkpt>
+<trkpt lat="48.126758" lon="-1.617267">
+<ele>100.5</ele>
+<speed>76.0</speed>
+<course>269.5</course>
+<desc>Speed 76.0 km/h Distance 13.52 km</desc>
+<time>2009-02-05T20:20:11.90</time>
+<name>619</name>
+</trkpt>
+<trkpt lat="48.126757" lon="-1.617557">
+<ele>101.5</ele>
+<speed>77.5</speed>
+<course>270.5</course>
+<desc>Speed 77.5 km/h Distance 13.54 km</desc>
+<time>2009-02-05T20:20:12.90</time>
+<name>620</name>
+</trkpt>
+<trkpt lat="48.126758" lon="-1.617852">
+<ele>102.0</ele>
+<speed>79.0</speed>
+<course>271.9</course>
+<desc>Speed 79.0 km/h Distance 13.56 km</desc>
+<time>2009-02-05T20:20:13.90</time>
+<name>621</name>
+</trkpt>
+<trkpt lat="48.126765" lon="-1.618148">
+<ele>103.0</ele>
+<speed>79.6</speed>
+<course>273.5</course>
+<desc>Speed 79.6 km/h Distance 13.58 km</desc>
+<time>2009-02-05T20:20:14.90</time>
+<name>622</name>
+</trkpt>
+<trkpt lat="48.126777" lon="-1.618437">
+<ele>104.0</ele>
+<speed>77.4</speed>
+<course>274.7</course>
+<desc>Speed 77.4 km/h Distance 13.60 km</desc>
+<time>2009-02-05T20:20:15.90</time>
+<name>623</name>
+</trkpt>
+<trkpt lat="48.126792" lon="-1.618710">
+<ele>105.0</ele>
+<speed>73.9</speed>
+<course>274.9</course>
+<desc>Speed 73.9 km/h Distance 13.62 km</desc>
+<time>2009-02-05T20:20:16.90</time>
+<name>624</name>
+</trkpt>
+<trkpt lat="48.126807" lon="-1.618972">
+<ele>105.5</ele>
+<speed>70.3</speed>
+<course>276.3</course>
+<desc>Speed 70.3 km/h Distance 13.64 km</desc>
+<time>2009-02-05T20:20:17.90</time>
+<name>625</name>
+</trkpt>
+<trkpt lat="48.126825" lon="-1.619222">
+<ele>106.5</ele>
+<speed>67.3</speed>
+<course>277.2</course>
+<desc>Speed 67.3 km/h Distance 13.66 km</desc>
+<time>2009-02-05T20:20:18.90</time>
+<name>626</name>
+</trkpt>
+<trkpt lat="48.126845" lon="-1.619460">
+<ele>107.0</ele>
+<speed>64.4</speed>
+<course>278.6</course>
+<desc>Speed 64.4 km/h Distance 13.68 km</desc>
+<time>2009-02-05T20:20:19.91</time>
+<name>627</name>
+</trkpt>
+<trkpt lat="48.126868" lon="-1.619690">
+<ele>107.5</ele>
+<speed>62.2</speed>
+<course>279.4</course>
+<desc>Speed 62.2 km/h Distance 13.70 km</desc>
+<time>2009-02-05T20:20:20.90</time>
+<name>628</name>
+</trkpt>
+<trkpt lat="48.126892" lon="-1.619902">
+<ele>107.5</ele>
+<speed>57.6</speed>
+<course>282.4</course>
+<desc>Speed 57.6 km/h Distance 13.71 km</desc>
+<time>2009-02-05T20:20:21.90</time>
+<name>629</name>
+</trkpt>
+<trkpt lat="48.126917" lon="-1.620072">
+<ele>107.5</ele>
+<speed>46.2</speed>
+<course>274.4</course>
+<desc>Speed 46.2 km/h Distance 13.73 km</desc>
+<time>2009-02-05T20:20:22.90</time>
+<name>630</name>
+</trkpt>
+<trkpt lat="48.126923" lon="-1.620202">
+<ele>106.5</ele>
+<speed>35.1</speed>
+<course>284.7</course>
+<desc>Speed 35.1 km/h Distance 13.74 km</desc>
+<time>2009-02-05T20:20:23.90</time>
+<name>631</name>
+</trkpt>
+<trkpt lat="48.126945" lon="-1.620325">
+<ele>106.0</ele>
+<speed>33.7</speed>
+<course>299.3</course>
+<desc>Speed 33.7 km/h Distance 13.74 km</desc>
+<time>2009-02-05T20:20:24.90</time>
+<name>632</name>
+</trkpt>
+<trkpt lat="48.126975" lon="-1.620405">
+<ele>106.0</ele>
+<speed>24.2</speed>
+<course>302.3</course>
+<desc>Speed 24.2 km/h Distance 13.75 km</desc>
+<time>2009-02-05T20:20:25.90</time>
+<name>633</name>
+</trkpt>
+<trkpt lat="48.126988" lon="-1.620437">
+<ele>107.5</ele>
+<speed>9.7</speed>
+<course>270.0</course>
+<desc>Speed 9.7 km/h Distance 13.75 km</desc>
+<time>2009-02-05T20:20:26.90</time>
+<name>634</name>
+</trkpt>
+<trkpt lat="48.126988" lon="-1.620443">
+<ele>106.5</ele>
+<speed>1.9</speed>
+<course>296.6</course>
+<desc>Speed 1.9 km/h Distance 13.75 km</desc>
+<time>2009-02-05T20:20:27.90</time>
+<name>635</name>
+</trkpt>
+<trkpt lat="48.126992" lon="-1.620453">
+<ele>106.0</ele>
+<speed>2.4</speed>
+<course>309.3</course>
+<desc>Speed 2.4 km/h Distance 13.76 km</desc>
+<time>2009-02-05T20:20:28.90</time>
+<name>636</name>
+</trkpt>
+<trkpt lat="48.127002" lon="-1.620472">
+<ele>106.0</ele>
+<speed>5.3</speed>
+<course>317.4</course>
+<desc>Speed 5.3 km/h Distance 13.76 km</desc>
+<time>2009-02-05T20:20:29.90</time>
+<name>637</name>
+</trkpt>
+<trkpt lat="48.127028" lon="-1.620508">
+<ele>106.0</ele>
+<speed>14.4</speed>
+<course>332.1</course>
+<desc>Speed 14.4 km/h Distance 13.76 km</desc>
+<time>2009-02-05T20:20:30.90</time>
+<name>638</name>
+</trkpt>
+<trkpt lat="48.127085" lon="-1.620553">
+<ele>105.5</ele>
+<speed>24.3</speed>
+<course>328.8</course>
+<desc>Speed 24.3 km/h Distance 13.77 km</desc>
+<time>2009-02-05T20:20:31.90</time>
+<name>639</name>
+</trkpt>
+<trkpt lat="48.127138" lon="-1.620602">
+<ele>105.5</ele>
+<speed>23.4</speed>
+<course>319.0</course>
+<desc>Speed 23.4 km/h Distance 13.78 km</desc>
+<time>2009-02-05T20:20:32.91</time>
+<name>640</name>
+</trkpt>
+<trkpt lat="48.127193" lon="-1.620673">
+<ele>105.5</ele>
+<speed>28.2</speed>
+<course>302.6</course>
+<desc>Speed 28.2 km/h Distance 13.78 km</desc>
+<time>2009-02-05T20:20:33.90</time>
+<name>641</name>
+</trkpt>
+<trkpt lat="48.127237" lon="-1.620775">
+<ele>107.0</ele>
+<speed>31.9</speed>
+<course>294.1</course>
+<desc>Speed 31.9 km/h Distance 13.79 km</desc>
+<time>2009-02-05T20:20:34.90</time>
+<name>642</name>
+</trkpt>
+<trkpt lat="48.127270" lon="-1.620887">
+<ele>107.5</ele>
+<speed>32.2</speed>
+<course>279.2</course>
+<desc>Speed 32.2 km/h Distance 13.80 km</desc>
+<time>2009-02-05T20:20:35.90</time>
+<name>643</name>
+</trkpt>
+<trkpt lat="48.127283" lon="-1.621010">
+<ele>107.5</ele>
+<speed>33.1</speed>
+<course>258.5</course>
+<desc>Speed 33.1 km/h Distance 13.81 km</desc>
+<time>2009-02-05T20:20:36.90</time>
+<name>644</name>
+</trkpt>
+<trkpt lat="48.127265" lon="-1.621145">
+<ele>108.0</ele>
+<speed>36.3</speed>
+<course>244.0</course>
+<desc>Speed 36.3 km/h Distance 13.82 km</desc>
+<time>2009-02-05T20:20:37.90</time>
+<name>645</name>
+</trkpt>
+<trkpt lat="48.127222" lon="-1.621278">
+<ele>108.5</ele>
+<speed>39.0</speed>
+<course>234.7</course>
+<desc>Speed 39.0 km/h Distance 13.83 km</desc>
+<time>2009-02-05T20:20:38.90</time>
+<name>646</name>
+</trkpt>
+<trkpt lat="48.127163" lon="-1.621402">
+<ele>108.5</ele>
+<speed>40.3</speed>
+<course>238.2</course>
+<desc>Speed 40.3 km/h Distance 13.84 km</desc>
+<time>2009-02-05T20:20:39.90</time>
+<name>647</name>
+</trkpt>
+<trkpt lat="48.127107" lon="-1.621538">
+<ele>108.5</ele>
+<speed>42.8</speed>
+<course>252.0</course>
+<desc>Speed 42.8 km/h Distance 13.86 km</desc>
+<time>2009-02-05T20:20:40.90</time>
+<name>648</name>
+</trkpt>
+<trkpt lat="48.127072" lon="-1.621700">
+<ele>109.0</ele>
+<speed>45.3</speed>
+<course>265.2</course>
+<desc>Speed 45.3 km/h Distance 13.87 km</desc>
+<time>2009-02-05T20:20:41.90</time>
+<name>649</name>
+</trkpt>
+<trkpt lat="48.127062" lon="-1.621880">
+<ele>109.5</ele>
+<speed>48.3</speed>
+<course>275.1</course>
+<desc>Speed 48.3 km/h Distance 13.88 km</desc>
+<time>2009-02-05T20:20:42.89</time>
+<name>650</name>
+</trkpt>
+<trkpt lat="48.127073" lon="-1.622077">
+<ele>110.0</ele>
+<speed>52.5</speed>
+<course>278.1</course>
+<desc>Speed 52.5 km/h Distance 13.90 km</desc>
+<time>2009-02-05T20:20:43.90</time>
+<name>651</name>
+</trkpt>
+<trkpt lat="48.127093" lon="-1.622287">
+<ele>110.5</ele>
+<speed>56.0</speed>
+<course>278.8</course>
+<desc>Speed 56.0 km/h Distance 13.91 km</desc>
+<time>2009-02-05T20:20:44.89</time>
+<name>652</name>
+</trkpt>
+<trkpt lat="48.127117" lon="-1.622513">
+<ele>110.5</ele>
+<speed>60.1</speed>
+<course>278.3</course>
+<desc>Speed 60.1 km/h Distance 13.93 km</desc>
+<time>2009-02-05T20:20:45.90</time>
+<name>653</name>
+</trkpt>
+<trkpt lat="48.127140" lon="-1.622752">
+<ele>110.5</ele>
+<speed>64.0</speed>
+<course>279.0</course>
+<desc>Speed 64.0 km/h Distance 13.95 km</desc>
+<time>2009-02-05T20:20:46.90</time>
+<name>654</name>
+</trkpt>
+<trkpt lat="48.127167" lon="-1.623003">
+<ele>110.5</ele>
+<speed>67.2</speed>
+<course>278.6</course>
+<desc>Speed 67.2 km/h Distance 13.97 km</desc>
+<time>2009-02-05T20:20:47.90</time>
+<name>655</name>
+</trkpt>
+<trkpt lat="48.127192" lon="-1.623250">
+<ele>110.5</ele>
+<speed>66.1</speed>
+<course>278.6</course>
+<desc>Speed 66.1 km/h Distance 13.98 km</desc>
+<time>2009-02-05T20:20:48.89</time>
+<name>656</name>
+</trkpt>
+<trkpt lat="48.127217" lon="-1.623498">
+<ele>111.0</ele>
+<speed>67.1</speed>
+<course>278.4</course>
+<desc>Speed 67.1 km/h Distance 14.00 km</desc>
+<time>2009-02-05T20:20:49.90</time>
+<name>657</name>
+</trkpt>
+<trkpt lat="48.127242" lon="-1.623752">
+<ele>111.5</ele>
+<speed>68.0</speed>
+<course>278.4</course>
+<desc>Speed 68.0 km/h Distance 14.02 km</desc>
+<time>2009-02-05T20:20:50.89</time>
+<name>658</name>
+</trkpt>
+<trkpt lat="48.127267" lon="-1.624005">
+<ele>112.0</ele>
+<speed>67.7</speed>
+<course>278.2</course>
+<desc>Speed 67.7 km/h Distance 14.04 km</desc>
+<time>2009-02-05T20:20:51.91</time>
+<name>659</name>
+</trkpt>
+<trkpt lat="48.127290" lon="-1.624247">
+<ele>112.5</ele>
+<speed>65.2</speed>
+<course>278.5</course>
+<desc>Speed 65.2 km/h Distance 14.06 km</desc>
+<time>2009-02-05T20:20:52.89</time>
+<name>660</name>
+</trkpt>
+<trkpt lat="48.127313" lon="-1.624480">
+<ele>113.0</ele>
+<speed>62.4</speed>
+<course>278.3</course>
+<desc>Speed 62.4 km/h Distance 14.08 km</desc>
+<time>2009-02-05T20:20:53.90</time>
+<name>661</name>
+</trkpt>
+<trkpt lat="48.127335" lon="-1.624702">
+<ele>113.0</ele>
+<speed>59.7</speed>
+<course>277.9</course>
+<desc>Speed 59.7 km/h Distance 14.09 km</desc>
+<time>2009-02-05T20:20:54.89</time>
+<name>662</name>
+</trkpt>
+<trkpt lat="48.127355" lon="-1.624917">
+<ele>113.5</ele>
+<speed>57.7</speed>
+<course>278.9</course>
+<desc>Speed 57.7 km/h Distance 14.11 km</desc>
+<time>2009-02-05T20:20:55.89</time>
+<name>663</name>
+</trkpt>
+<trkpt lat="48.127377" lon="-1.625125">
+<ele>113.5</ele>
+<speed>55.7</speed>
+<course>278.5</course>
+<desc>Speed 55.7 km/h Distance 14.13 km</desc>
+<time>2009-02-05T20:20:56.89</time>
+<name>664</name>
+</trkpt>
+<trkpt lat="48.127397" lon="-1.625325">
+<ele>114.0</ele>
+<speed>53.7</speed>
+<course>278.2</course>
+<desc>Speed 53.7 km/h Distance 14.14 km</desc>
+<time>2009-02-05T20:20:57.89</time>
+<name>665</name>
+</trkpt>
+<trkpt lat="48.127415" lon="-1.625517">
+<ele>114.0</ele>
+<speed>51.8</speed>
+<course>276.1</course>
+<desc>Speed 51.8 km/h Distance 14.15 km</desc>
+<time>2009-02-05T20:20:58.89</time>
+<name>666</name>
+</trkpt>
+<trkpt lat="48.127428" lon="-1.625703">
+<ele>114.0</ele>
+<speed>50.1</speed>
+<course>276.3</course>
+<desc>Speed 50.1 km/h Distance 14.17 km</desc>
+<time>2009-02-05T20:20:59.89</time>
+<name>667</name>
+</trkpt>
+<trkpt lat="48.127442" lon="-1.625885">
+<ele>114.0</ele>
+<speed>48.6</speed>
+<course>274.0</course>
+<desc>Speed 48.6 km/h Distance 14.18 km</desc>
+<time>2009-02-05T20:21:00.89</time>
+<name>668</name>
+</trkpt>
+<trkpt lat="48.127450" lon="-1.626062">
+<ele>113.5</ele>
+<speed>47.7</speed>
+<course>273.2</course>
+<desc>Speed 47.7 km/h Distance 14.20 km</desc>
+<time>2009-02-05T20:21:01.89</time>
+<name>669</name>
+</trkpt>
+<trkpt lat="48.127457" lon="-1.626238">
+<ele>113.5</ele>
+<speed>47.4</speed>
+<course>271.6</course>
+<desc>Speed 47.4 km/h Distance 14.21 km</desc>
+<time>2009-02-05T20:21:02.89</time>
+<name>670</name>
+</trkpt>
+<trkpt lat="48.127460" lon="-1.626413">
+<ele>113.0</ele>
+<speed>46.6</speed>
+<course>269.2</course>
+<desc>Speed 46.6 km/h Distance 14.22 km</desc>
+<time>2009-02-05T20:21:03.89</time>
+<name>671</name>
+</trkpt>
+<trkpt lat="48.127458" lon="-1.626588">
+<ele>112.5</ele>
+<speed>46.7</speed>
+<course>268.3</course>
+<desc>Speed 46.7 km/h Distance 14.23 km</desc>
+<time>2009-02-05T20:21:04.88</time>
+<name>672</name>
+</trkpt>
+<trkpt lat="48.127455" lon="-1.626762">
+<ele>112.5</ele>
+<speed>46.5</speed>
+<course>266.7</course>
+<desc>Speed 46.5 km/h Distance 14.25 km</desc>
+<time>2009-02-05T20:21:05.89</time>
+<name>673</name>
+</trkpt>
+<trkpt lat="48.127448" lon="-1.626935">
+<ele>112.0</ele>
+<speed>46.5</speed>
+<course>265.9</course>
+<desc>Speed 46.5 km/h Distance 14.26 km</desc>
+<time>2009-02-05T20:21:06.89</time>
+<name>674</name>
+</trkpt>
+<trkpt lat="48.127440" lon="-1.627108">
+<ele>112.0</ele>
+<speed>46.5</speed>
+<course>263.4</course>
+<desc>Speed 46.5 km/h Distance 14.27 km</desc>
+<time>2009-02-05T20:21:07.89</time>
+<name>675</name>
+</trkpt>
+<trkpt lat="48.127427" lon="-1.627282">
+<ele>111.5</ele>
+<speed>46.3</speed>
+<course>262.6</course>
+<desc>Speed 46.3 km/h Distance 14.29 km</desc>
+<time>2009-02-05T20:21:08.88</time>
+<name>676</name>
+</trkpt>
+<trkpt lat="48.127412" lon="-1.627455">
+<ele>111.5</ele>
+<speed>46.8</speed>
+<course>261.0</course>
+<desc>Speed 46.8 km/h Distance 14.30 km</desc>
+<time>2009-02-05T20:21:09.89</time>
+<name>677</name>
+</trkpt>
+<trkpt lat="48.127393" lon="-1.627628">
+<ele>111.0</ele>
+<speed>46.8</speed>
+<course>259.1</course>
+<desc>Speed 46.8 km/h Distance 14.31 km</desc>
+<time>2009-02-05T20:21:10.89</time>
+<name>678</name>
+</trkpt>
+<trkpt lat="48.127372" lon="-1.627797">
+<ele>110.5</ele>
+<speed>45.5</speed>
+<course>257.0</course>
+<desc>Speed 45.5 km/h Distance 14.32 km</desc>
+<time>2009-02-05T20:21:11.89</time>
+<name>679</name>
+</trkpt>
+
+
+
+
+</trkseg>
+</trk>
+</gpx>
