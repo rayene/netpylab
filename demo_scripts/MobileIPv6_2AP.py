@@ -69,8 +69,8 @@ cn.start()
 wf = WhiteFountain(mn, '2002::1', None, 'wf')
 am = AnsweringMachine(cn, 'am')
 
-world.monitor.watch(lambda: wf.i, "wf sent", 'red')
-world.monitor.watch(lambda: am.received, "am received", 'blue')
+# world.monitor.watch(lambda: wf.i, "wf sent", 'red')
+# world.monitor.watch(lambda: am.received, "am received", 'blue')
 
 wf.start()
 am.start()

@@ -14,7 +14,7 @@ t = GpxPath('../gpx/rennes1.gpx', 'Rennes1')
 c = Car(world, t, label='c')
 c.start(at=0)
 
-world.monitor.watch(lambda: c.speed, "Speed")
+# world.monitor.watch(lambda: c.speed, "Speed")
 
 if world.gui:
     world.gui.target_obj = c
