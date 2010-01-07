@@ -1,0 +1,5 @@
+recursive-include netpylab *.py *.png
+include demo_scripts *.py
+include doc *.rst *.png Makefile
+include gpx *.gpx
+prune examples/sample?/build

@@ -1,13 +1,10 @@
 
-
-
 Installation Notes
 ==================
 
 =====
 Linux
 =====
-
 
 ========
 Mac Os X 

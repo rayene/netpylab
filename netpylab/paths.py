@@ -10,7 +10,7 @@ class Point(object):
         """docstring for __init__"""
         self.time = time
         self.speed = speed
-        self.direrction = direrction
+        self.direction = direction
         if lat is not None and lon is not None:
             self.lat, self.lon = lat, lon
             self.xo, self.yo = self.osm2map()

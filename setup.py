@@ -26,8 +26,42 @@ else:
     REQUIRES = []
 
 setup(
+    name='netpylab',
+    version='0.7',
+    description='The python networking laboratory',
+    author='Rayene Ben Rayana',
+    author_email='rayene.benrayana@gmail.com',
+    url = 'http://github.com/rayene/netpylab',
+    packages=['netpylab'],
     app=APP,
     data_files=DATA_FILES,
     options=OPTIONS,
     setup_requires=REQUIRES,
-)
+    long_description = """  """,
+    classifiers=[
+          "Topic :: Internet",
+          "Topic :: Education",
+          "Topic :: Scientific/Engineering",
+          "Topic :: Communications",
+          "License :: OSI Approved :: GNU General Public License (GPL)",
+          'Environment :: Console',
+          "Programming Language :: Python",
+          "Development Status :: 2 - Pre-Alpha",
+          "Intended Audience :: Developers",
+          "Intended Audience :: Education",
+          "Intended Audience :: Information Technology",
+          "Intended Audience :: Science/Research",
+          "Intended Audience :: Telecommunications Industry",
+          "Natural Language :: English",
+          "Operating System :: OS Independent"],
+    keywords='network simulation emulation',
+    license='GPL',
+    # install_requires=[
+                    # 'scapy', 
+                    # 'wxPython',
+                    # ]
+                    )
+    
+
+    
+      

@@ -24,7 +24,9 @@ import os
 
 
 
+# third-party modules
 import wx,  wx.aui
+# netpylab modules
 from gui_map import MapCanvas
 from gui_sequence import SequenceCanvas
 from gui_log import LogListPanel
@@ -361,7 +363,7 @@ class MainWindow(wx.Frame):
     
     def OnOpen(self,e):
         """ Open a file"""
-        self.dirname = 'scripts'
+        self.dirname = '../demo_scripts'
         dlg = wx.FileDialog(self, "Choose a file", self.dirname, "", "*.*", wx.OPEN)
         if dlg.ShowModal() == wx.ID_OK:
             self.filename=dlg.GetFilename()

@@ -1,24 +1,29 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+#This file is part of netpylab
 
+""" Docstring """
 __author__ = "Rayene Ben Rayana"
 __date__ = "26 July 2008"
 __version__ = "$Revision: 1.0 $"
-__credits__ = ["JMB, G, C"]
-__copyright__ = "Copyright 2009,"
-__license__ = "GPL"
-__version__ = "1.0.1"
+__credits__ = ["Jean-Marie Bonnin", "Guillaume Habault", "Cédric Branger"]
+__copyright__ = "Copyright 2009, Rayene Ben Rayana"
+__license__ = "GPL v3"
+__version__ = "0.7"
 __maintainer__ = "Rayene Ben Rayana"
 __email__ = "rayene.benrayana@gmail.com"
-__status__ = "unstable"
+__status__ = "Prototype"
 __docformat__ = 'restructuredtext'
 
 
+# built-in modules
 import logging
-import channels
-#-----------------------------------------------------------------------
-from packets import PacketList
+# third-party modules
 from SimPy.SimulationStep import SimulationStep as Sim, Process, SimEvent, hold, waitevent
+#netpylab modules
+import channels
+from packets import PacketList
+
 
 class Monitor(list):
     def __init__(self, world, func, label, color = 'red', time_label = 'time(s)'):

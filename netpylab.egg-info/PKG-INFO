@@ -1,0 +1,26 @@
+Metadata-Version: 1.0
+Name: netpylab
+Version: 0.7
+Summary: The python networking laboratory
+Home-page: http://github.com/rayene/netpylab
+Author: Rayene Ben Rayana
+Author-email: rayene.benrayana@gmail.com
+License: GPL
+Description: 
+Keywords: network simulation emulation
+Platform: UNKNOWN
+Classifier: Topic :: Internet
+Classifier: Topic :: Education
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Communications
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Environment :: Console
+Classifier: Programming Language :: Python
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Telecommunications Industry
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
