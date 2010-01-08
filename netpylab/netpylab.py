@@ -18,6 +18,7 @@ __docformat__ = 'restructuredtext'
 
 # built-in modules
 import logging
+
 # third-party modules
 from SimPy.SimulationStep import SimulationStep as Sim, Process, SimEvent, hold, waitevent
 #netpylab modules
