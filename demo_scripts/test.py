@@ -7,7 +7,7 @@ from interfaces import *
 from applications import *
 from channels import *
 from report import Report
-from ipv6 import mac2linklocal
+from layers.ipv6 import mac2linklocal
 
 world = World()
 
