@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>4. NetPyLab API &mdash; NetPyLab v0.7a documentation</title>
+    <link rel="stylesheet" href="_static/sphinxdoc.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '',
+        VERSION:     '0.7a',
+        COLLAPSE_MODINDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="top" title="NetPyLab v0.7a documentation" href="index.html" /> 
+  </head>
+  <body>
+
+<div style="background-color: white; text-align: left; padding: 10px 10px 15px 15px">
+<a href="index.html"><img src="_static/logo.png" border="0" alt="py4sci"/></a>
+</div>
+
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li><a href="index.html">home</a>|&nbsp;</li>
+        <li><a href="search.html">search</a>|&nbsp;</li>
+       <li><a href="contents.html">documentation </a> &raquo;</li>
+ 
+      </ul>
+    </div>
+
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+            <h3><a href="index.html">Table Of Contents</a></h3>
+            <ul>
+<li><a class="reference external" href="">4. NetPyLab API</a><ul>
+<li><a class="reference external" href="#overview">4.1. Overview</a></li>
+<li><a class="reference external" href="#netpylab-mobility-maps-and-gps-coordinates">4.2. <tt class="docutils literal"><span class="pre">netpylab</span></tt> &#8211; Mobility, Maps and GPS Coordinates</a></li>
+<li><a class="reference external" href="#paths-mobility-maps-and-gps-coordinates">4.3. <tt class="docutils literal"><span class="pre">paths</span></tt> &#8211; Mobility, Maps and GPS Coordinates</a></li>
+<li><a class="reference external" href="#places-mobility-maps-and-gps-coordinates">4.4. <tt class="docutils literal"><span class="pre">places</span></tt> &#8211; Mobility, Maps and GPS Coordinates</a></li>
+<li><a class="reference external" href="#nodes-no">4.5. <tt class="docutils literal"><span class="pre">nodes</span></tt> &#8211; No</a></li>
+<li><a class="reference external" href="#channels-no">4.6. <tt class="docutils literal"><span class="pre">channels</span></tt> &#8211; No</a></li>
+<li><a class="reference external" href="#packets-no">4.7. <tt class="docutils literal"><span class="pre">packets</span></tt> &#8211; No</a></li>
+<li><a class="reference external" href="#interfaces-i">4.8. <tt class="docutils literal"><span class="pre">interfaces</span></tt> &#8211; I</a></li>
+<li><a class="reference external" href="#sockets-haha">4.9. <tt class="docutils literal"><span class="pre">sockets</span></tt> &#8211; HAHA</a></li>
+<li><a class="reference external" href="#applications-haha">4.10. <tt class="docutils literal"><span class="pre">applications</span></tt> &#8211; HAHA</a></li>
+<li><a class="reference external" href="#layers-haha">4.11. <tt class="docutils literal"><span class="pre">layers</span></tt> &#8211; HAHA</a></li>
+</ul>
+</li>
+</ul>
+
+            <h3>This Page</h3>
+            <ul class="this-page-menu">
+              <li><a href="_sources/netpylab_api.txt"
+                     rel="nofollow">Show Source</a></li>
+            </ul>
+          <div id="searchbox" style="display: none">
+            <h3>Quick search</h3>
+              <form class="search" action="search.html" method="get">
+                <input type="text" name="q" size="18" />
+                <input type="submit" value="Go" />
+                <input type="hidden" name="check_keywords" value="yes" />
+                <input type="hidden" name="area" value="default" />
+              </form>
+              <p class="searchtip" style="font-size: 90%">
+              Enter search terms or a module, class or function name.
+              </p>
+          </div>
+          <script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="netpylab-api">
+<h1>4. NetPyLab API<a class="headerlink" href="#netpylab-api" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="overview">
+<h2>4.1. Overview<a class="headerlink" href="#overview" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="netpylab-mobility-maps-and-gps-coordinates">
+<h2>4.2. <tt class="xref docutils literal"><span class="pre">netpylab</span></tt> &#8211; Mobility, Maps and GPS Coordinates<a class="headerlink" href="#netpylab-mobility-maps-and-gps-coordinates" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="paths-mobility-maps-and-gps-coordinates">
+<h2>4.3. <tt class="xref docutils literal"><span class="pre">paths</span></tt> &#8211; Mobility, Maps and GPS Coordinates<a class="headerlink" href="#paths-mobility-maps-and-gps-coordinates" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="places-mobility-maps-and-gps-coordinates">
+<h2>4.4. <tt class="xref docutils literal"><span class="pre">places</span></tt> &#8211; Mobility, Maps and GPS Coordinates<a class="headerlink" href="#places-mobility-maps-and-gps-coordinates" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="nodes-no">
+<h2>4.5. <tt class="xref docutils literal"><span class="pre">nodes</span></tt> &#8211; No<a class="headerlink" href="#nodes-no" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="channels-no">
+<h2>4.6. <tt class="xref docutils literal"><span class="pre">channels</span></tt> &#8211; No<a class="headerlink" href="#channels-no" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="packets-no">
+<h2>4.7. <tt class="xref docutils literal"><span class="pre">packets</span></tt> &#8211; No<a class="headerlink" href="#packets-no" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="interfaces-i">
+<h2>4.8. <tt class="xref docutils literal"><span class="pre">interfaces</span></tt> &#8211; I<a class="headerlink" href="#interfaces-i" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="sockets-haha">
+<h2>4.9. <tt class="xref docutils literal"><span class="pre">sockets</span></tt> &#8211; HAHA<a class="headerlink" href="#sockets-haha" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="applications-haha">
+<h2>4.10. <tt class="xref docutils literal"><span class="pre">applications</span></tt> &#8211; HAHA<a class="headerlink" href="#applications-haha" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="layers-haha">
+<h2>4.11. <tt class="xref docutils literal"><span class="pre">layers</span></tt> &#8211; HAHA<a class="headerlink" href="#layers-haha" title="Permalink to this headline">¶</a></h2>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li><a href="index.html">home</a>|&nbsp;</li>
+        <li><a href="search.html">search</a>|&nbsp;</li>
+       <li><a href="contents.html">documentation </a> &raquo;</li>
+ 
+      </ul>
+    </div>
+    <div class="footer">
+      &copy; Copyright 2010, Baptiste Gaultier.
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 0.6.2.
+    </div>
+  </body>
+</html>

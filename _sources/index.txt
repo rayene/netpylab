@@ -1,0 +1,53 @@
+.. NetPyLab documentation master file, created by
+   sphinx-quickstart on Mon Jan 11 17:49:58 2010.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome
+=======
+
+.. toctree::
+   :maxdepth: 2
+   
+NetPyLab is a tool that makes it easy to simulate/emulate a wide variety of network conditions and network protocols
+on a single computer networks. NetPyLab is written in Python_.
+
+.. _Python: http://www.python.org/
+
+It relies on Scapy_ to sniff, forge and inject packets into real networks. 
+Therefore, it can be used to communicate with real-world applications and 
+servers (e.g., ping google with a delay of five seconds). In addition, it can 
+be used for real-world simulations
+
+.. _Scapy: http://www.secdev.org/projects/scapy/
+
+NetPyLab was originally created by Rayene Ben Rayana during his PhD thesis in order to produce results for publications. NetPyLab was free and open source from the start and it is still under constant development.
+
+
+Features
+----------
+
+
+The current version of NetPyLab offers the following features:
+    * Network simulation/emulation : many IP network protocol are already implemented in NetPyLab so real host can exchange packets /with NetPyLab simulated environment.
+    * Network assessment : NetPyLab is designed to allow controlled, reproducible experiments with adaptable network characteristics.
+    * Extensible structure : you can add and test your own network mechanisms, applications, protocols thanks to the 100% pure python code.
+    * Fully-featured GUI : NetPylab is a visually-rich application thanks to PyGlet.
+
+    
+Screenshots
+------------
+
+
+Here is a screen of the user interface on a Ubuntu GNU/Linux host.
+
+.. image:: Screenshot1.png
+   
+   
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+

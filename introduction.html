@@ -1,0 +1,169 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>1. Introduction &mdash; NetPyLab v0.7a documentation</title>
+    <link rel="stylesheet" href="_static/sphinxdoc.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '',
+        VERSION:     '0.7a',
+        COLLAPSE_MODINDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="top" title="NetPyLab v0.7a documentation" href="index.html" /> 
+  </head>
+  <body>
+
+<div style="background-color: white; text-align: left; padding: 10px 10px 15px 15px">
+<a href="index.html"><img src="_static/logo.png" border="0" alt="py4sci"/></a>
+</div>
+
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li><a href="index.html">home</a>|&nbsp;</li>
+        <li><a href="search.html">search</a>|&nbsp;</li>
+       <li><a href="contents.html">documentation </a> &raquo;</li>
+ 
+      </ul>
+    </div>
+
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+            <h3><a href="index.html">Table Of Contents</a></h3>
+            <ul>
+<li><a class="reference external" href="">1. Introduction</a><ul>
+<li><a class="reference external" href="#about-netpylab">1.1. About NetPyLab</a></li>
+<li><a class="reference external" href="#netpylab-for-research">1.2. NetPyLab for Research</a><ul>
+<li><a class="reference external" href="#netpylab-for-behavior-assessment-under-hard-network-conditions">1.2.1. NetPyLab for Behavior Assessment Under &#8220;Hard&#8221; Network Conditions</a></li>
+<li><a class="reference external" href="#netpylab-for-protocol-prototyping">1.2.2. NetPyLab for Protocol Prototyping</a></li>
+</ul>
+</li>
+<li><a class="reference external" href="#netpylab-for-education">1.3. NetPyLab for Education</a></li>
+<li><a class="reference external" href="#netpylab-for-demonstrations">1.4. NetPyLab for Demonstrations</a></li>
+<li><a class="reference external" href="#netpylab-and-the-python">1.5. NetPyLab and the Python</a></li>
+<li><a class="reference external" href="#quick-demo">1.6. Quick Demo</a></li>
+</ul>
+</li>
+</ul>
+
+            <h3>This Page</h3>
+            <ul class="this-page-menu">
+              <li><a href="_sources/introduction.txt"
+                     rel="nofollow">Show Source</a></li>
+            </ul>
+          <div id="searchbox" style="display: none">
+            <h3>Quick search</h3>
+              <form class="search" action="search.html" method="get">
+                <input type="text" name="q" size="18" />
+                <input type="submit" value="Go" />
+                <input type="hidden" name="check_keywords" value="yes" />
+                <input type="hidden" name="area" value="default" />
+              </form>
+              <p class="searchtip" style="font-size: 90%">
+              Enter search terms or a module, class or function name.
+              </p>
+          </div>
+          <script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="introduction">
+<h1>1. Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="about-netpylab">
+<h2>1.1. About NetPyLab<a class="headerlink" href="#about-netpylab" title="Permalink to this headline">¶</a></h2>
+<p>NetPyLab is an IP network emulator and simulator written in <a class="reference external" href="http://www.python.org/">Python</a>.  It allows
+to simulate/emulate a wide variety of network conditions and network protocols
+on a single computer.</p>
+<p>It relies on <a class="reference external" href="http://www.secdev.org/projects/scapy/">Scapy</a> to sniff, forge and inject packets into real networks.
+Therefore, it can be used to communicate with real-world applications and
+servers (e.g., ping google with a delay of five seconds). In addition, it can
+be used for real-world simulations</p>
+</div>
+<div class="section" id="netpylab-for-research">
+<h2>1.2. NetPyLab for Research<a class="headerlink" href="#netpylab-for-research" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="netpylab-for-behavior-assessment-under-hard-network-conditions">
+<h3>1.2.1. NetPyLab for Behavior Assessment Under &#8220;Hard&#8221; Network Conditions<a class="headerlink" href="#netpylab-for-behavior-assessment-under-hard-network-conditions" title="Permalink to this headline">¶</a></h3>
+<p>NetPyLab is designed to allow controlled, reproducible experiments with
+network performance sensitive/adaptive applications and control protocols in a
+simple laboratory setting.</p>
+<p>NetPyLab can reproduce critical end-to-end performance characteristics imposed
+by various wide area network and wireless network situations :</p>
+<ul class="simple">
+<li>Losses and delays (Congestion, Handovers, etc.,)</li>
+<li>Asymmetric bandwidth situations (e.g., xDsl)</li>
+</ul>
+<p>It can use real GPS traces to simulate the mobility of network devices and
+delay/drop packets accordingly.</p>
+</div>
+<div class="section" id="netpylab-for-protocol-prototyping">
+<h3>1.2.2. NetPyLab for Protocol Prototyping<a class="headerlink" href="#netpylab-for-protocol-prototyping" title="Permalink to this headline">¶</a></h3>
+<p>NetPyLab is great for a quick and easy prototyping of network protocols.
+Just have a look on the protocols already proposed in the <cite>layers</cite> folder so
+that you don&#8217;t start from scratch.</p>
+<p>You can stress you code by injecting malformed, unsequenced and delayed
+packets and see how it reacts.</p>
+<p>When your code is mature enough, you can move smoothly to a production-quality
+implementation and test it using the NetPyLab prototype in emulation mode.</p>
+</div>
+</div>
+<div class="section" id="netpylab-for-education">
+<h2>1.3. NetPyLab for Education<a class="headerlink" href="#netpylab-for-education" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="netpylab-for-demonstrations">
+<h2>1.4. NetPyLab for Demonstrations<a class="headerlink" href="#netpylab-for-demonstrations" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="netpylab-and-the-python">
+<h2>1.5. NetPyLab and the Python<a class="headerlink" href="#netpylab-and-the-python" title="Permalink to this headline">¶</a></h2>
+<p>I chose <a class="reference external" href="http://www.python.org/">Python</a> because it is an extraordinary toolbox that is easy to learn
+and makes coding a real pleasure. Thanks <a class="reference external" href="http://www.python.org/~guido/">Guido</a> for this great tool !</p>
+<p>NetPyLab is 100% <a class="reference external" href="http://www.python.org/">Python</a>. Even the simulation scripts and the configuration
+files are written in <a class="reference external" href="http://www.python.org/">Python</a>. If you decide to use it, you have only one
+language to learn with a very even learning curve.</p>
+</div>
+<div class="section" id="quick-demo">
+<h2>1.6. Quick Demo<a class="headerlink" href="#quick-demo" title="Permalink to this headline">¶</a></h2>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li><a href="index.html">home</a>|&nbsp;</li>
+        <li><a href="search.html">search</a>|&nbsp;</li>
+       <li><a href="contents.html">documentation </a> &raquo;</li>
+ 
+      </ul>
+    </div>
+    <div class="footer">
+      &copy; Copyright 2010, Baptiste Gaultier.
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 0.6.2.
+    </div>
+  </body>
+</html>
